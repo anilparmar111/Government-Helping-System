@@ -43,13 +43,13 @@ namespace Government_Helping_System.Controllers
             {
 
                 HttpContext.Session.SetString("uid", loginView.uid);
-                if (loginView.remember)
+                if (!loginView.remember)
                 {
                     var option = new CookieOptions();
                     option.Expires = DateTime.Now.AddDays(30);
                     Response.Cookies.Append("uid", loginView.uid, option);
                 }
-                return "Ok Now You are in";
+                return "Ok Now You are in" + loginView.remember;
 
             }
             /*}

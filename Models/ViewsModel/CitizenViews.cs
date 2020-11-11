@@ -46,8 +46,7 @@ namespace Government_Helping_System.Models.ViewsModel
         [RegularExpression(@"^(\d{6})$", ErrorMessage = "Invalid Zip")]
         public string ZipCode { get; set; }
 
-        [Required(ErrorMessage = "Selection Is Required")]
-        public string selected { get; set; }
+        
 
     }
 }

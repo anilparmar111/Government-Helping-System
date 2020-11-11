@@ -68,14 +68,7 @@ namespace Government_Helping_System.Controllers
                         break;
                     }
                 }
-                if (citizen.selected == "Authority")
-                {
-                    newuid = "A" + newuid;
-                }
-                else
-                {
-                    newuid = "C" + newuid;
-                }
+                newuid = "A" + newuid;
                 Citizen newcitizen = new Citizen();
                 newcitizen.Id = newuid;
                 newcitizen.Name = citizen.Name;
