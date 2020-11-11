@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Government_Helping_System.Models;
 using Government_Helping_System.Models.ViewsModel;
+using Microsoft.AspNetCore.Http;
 
 namespace Government_Helping_System.Controllers
 {
@@ -81,7 +82,10 @@ namespace Government_Helping_System.Controllers
                 newcitizen.ZipCode = citizen.ZipCode;
                 _context.Add(newcitizen);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                ViewBag.uid = newuid;
+                HttpContext.Session.SetString("uid", newuid);
+                return this.RedirectToAction("Index","Home");
+                //return RedirectToAction(nameof(Index));
             }
             return View(citizen);
         }

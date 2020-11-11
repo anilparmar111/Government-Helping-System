@@ -1,4 +1,7 @@
 ﻿@model Government_Helping_System.Models.ViewsModel.LoginViews
+@using Microsoft.AspNetCore.Http;
+
+@inject IHttpContextAccessor HttpContextAccessor
 
 @{
     ViewData["Title"] = "Login Page";
@@ -69,16 +72,17 @@
 
     @using (Html.BeginForm("Validate", "Home"))
     {
-        <div class="container">
-            <label for="uid"><b>Username</b></label>
-            <input type="text" placeholder="Enter Username" name="uid" required>
-            <label for="pswd"><b>Password</b></label>
-            <input type="password" placeholder="Enter Password" name="pswd" required>
-            <button type="submit" class="btn btn-primary">Login</button>
-            <label>
-                <input type="checkbox" checked="checked" name="remember"> Remember me For Month
-            </label>
-        </div>
+<div class="container">
+    <label for="uid"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uid" required>
+    <label for="pswd"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="pswd" required>
+    <button type="submit" class="btn btn-primary">Login</button>
+    @if (@HttpContextAccessor.HttpContext.Session.GetString("uid") != null)
+    {
+        <label>Your Userid Is </label>  @HttpContextAccessor.HttpContext.Session.GetString("uid")
+    }
+</div>
     }
 </body>
 </html>

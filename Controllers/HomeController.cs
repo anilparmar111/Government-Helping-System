@@ -24,41 +24,31 @@ namespace Government_Helping_System.Controllers
         public IActionResult Index()
         {
             //return RedirectToAction("Homepage", "Home");
+            
             return View();
         }
 
         public string Validate(LoginViews loginView)
         {
 
-            //if(ModelState.IsValid)
-            //{
-            var citizen = _context.Citizens.FirstOrDefault(czn => czn.Id == loginView.uid
-           && czn.Password == loginView.pswd
-            );
-            if (citizen == null)
+            if(ModelState.IsValid)
             {
-                return "Not Found";
-            }
-            else
-            {
-
-                HttpContext.Session.SetString("uid", loginView.uid);
-                if (!loginView.remember)
+                var citizen = _context.Citizens.FirstOrDefault(czn => czn.Id == loginView.uid
+                && czn.Password == loginView.pswd);
+                if (citizen == null)
                 {
-                    var option = new CookieOptions();
-                    option.Expires = DateTime.Now.AddDays(30);
-                    Response.Cookies.Append("uid", loginView.uid, option);
+                    return "Not Found";
                 }
-                return "Ok Now You are in" + loginView.remember;
-
+                else
+                {
+                    HttpContext.Session.SetString("uid", loginView.uid);
+                    return "Ok Now You are in";
+                }
             }
-            /*}
             else
             {
                 return "not found  object";
-            }*/
-
-
+            }
         }
 
         public IActionResult Privacy()

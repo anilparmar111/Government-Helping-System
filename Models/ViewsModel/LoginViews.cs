@@ -16,6 +16,5 @@ namespace Government_Helping_System.Models.ViewsModel
         [DataType(DataType.Password)]
         public string pswd { get; set; }
 
-        public bool remember { get; set; }
     }
 }
