@@ -23,8 +23,7 @@ namespace Government_Helping_System.Controllers
 
         public IActionResult Index()
         {
-            //return RedirectToAction("Homepage", "Home");
-            
+            //return RedirectToAction("Homepage", "Home");            
             return View();
         }
 

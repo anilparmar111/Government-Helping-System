@@ -15,6 +15,7 @@ namespace Government_Helping_System.Models
         }
 
         public DbSet<Citizen> Citizens { get; set; }
+        public DbSet<Employee> employees { get; set; }
 
     }
 }

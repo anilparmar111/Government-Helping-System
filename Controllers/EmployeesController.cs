@@ -11,22 +11,22 @@ using Microsoft.AspNetCore.Http;
 
 namespace Government_Helping_System.Controllers
 {
-    public class RegisterController : Controller
+    public class EmployeesController : Controller
     {
         private readonly AppDbContext _context;
 
-        public RegisterController(AppDbContext context)
+        public EmployeesController(AppDbContext context)
         {
             _context = context;
         }
 
-        // GET: Register
+        // GET: Employees
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Citizens.ToListAsync());
+            return View(await _context.employees.ToListAsync());
         }
 
-        // GET: Register/Details/5
+        // GET: Employees/Details/5
         public async Task<IActionResult> Details(string id)
         {
             if (id == null)
@@ -34,28 +34,28 @@ namespace Government_Helping_System.Controllers
                 return NotFound();
             }
 
-            var citizen = await _context.Citizens
+            var employee = await _context.employees
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (citizen == null)
+            if (employee == null)
             {
                 return NotFound();
             }
 
-            return View(citizen);
+            return View(employee);
         }
 
-        // GET: Register/Create
+        // GET: Employees/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Register/Create
+        // POST: Employees/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(CitizenViews citizen)
+        public async Task<IActionResult> Create(EmployeeViews employeeViews)
         {
             if (ModelState.IsValid)
             {
@@ -69,25 +69,22 @@ namespace Government_Helping_System.Controllers
                         break;
                     }
                 }
-                newuid = "C" + newuid;
-                Citizen newcitizen = new Citizen();
-                newcitizen.Id = newuid;
-                newcitizen.Name = citizen.Name;
-                newcitizen.PhoneNumber = citizen.PhoneNumber;
-                newcitizen.Email = citizen.Email;
-                newcitizen.Password = citizen.Password;
-                newcitizen.Date_of_Birth = citizen.Date_of_Birth;
-                newcitizen.City = citizen.City;
-                newcitizen.Area = citizen.Area;
-                newcitizen.ZipCode = citizen.ZipCode;
-                _context.Add(newcitizen);
+                newuid = "E" + newuid;
+                Employee employee = new Employee();
+                employee.Id = newuid;
+                employee.Name = employeeViews.Name;
+                employee.Email = employeeViews.Email;
+                employee.Password = employeeViews.Password;
+                employee.Area = employeeViews.Area;
+                employee.ZipCode = employeeViews.ZipCode;
+                employee.post = employeeViews.post;
+                _context.Add(employee);
                 await _context.SaveChangesAsync();
                 ViewBag.uid = newuid;
                 HttpContext.Session.SetString("uid", newuid);
-                return this.RedirectToAction("Index","Home");
-                //return RedirectToAction(nameof(Index));
+                return this.RedirectToAction("Index", "Home");
             }
-            return View(citizen);
+            return View(employeeViews);
         }
 
         private static Random random = new Random();
@@ -98,8 +95,7 @@ namespace Government_Helping_System.Controllers
               .Select(s => s[random.Next(s.Length)]).ToArray());
         }
 
-
-        // GET: Register/Edit/5
+        // GET: Employees/Edit/5
         public async Task<IActionResult> Edit(string id)
         {
             if (id == null)
@@ -107,22 +103,22 @@ namespace Government_Helping_System.Controllers
                 return NotFound();
             }
 
-            var citizen = await _context.Citizens.FindAsync(id);
-            if (citizen == null)
+            var employee = await _context.employees.FindAsync(id);
+            if (employee == null)
             {
                 return NotFound();
             }
-            return View(citizen);
+            return View(employee);
         }
 
-        // POST: Register/Edit/5
+        // POST: Employees/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, [Bind("Id,Name,PhoneNumber,Email,Password,Date_of_Birth,City,Area,ZipCode")] Citizen citizen)
+        public async Task<IActionResult> Edit(string id, [Bind("Id,Name,Email,Password,ConfirmPassword,Area,ZipCode,post")] Employee employee)
         {
-            if (id != citizen.Id)
+            if (id != employee.Id)
             {
                 return NotFound();
             }
@@ -131,12 +127,12 @@ namespace Government_Helping_System.Controllers
             {
                 try
                 {
-                    _context.Update(citizen);
+                    _context.Update(employee);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!CitizenExists(citizen.Id))
+                    if (!EmployeeExists(employee.Id))
                     {
                         return NotFound();
                     }
@@ -147,10 +143,10 @@ namespace Government_Helping_System.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(citizen);
+            return View(employee);
         }
 
-        // GET: Register/Delete/5
+        // GET: Employees/Delete/5
         public async Task<IActionResult> Delete(string id)
         {
             if (id == null)
@@ -158,30 +154,30 @@ namespace Government_Helping_System.Controllers
                 return NotFound();
             }
 
-            var citizen = await _context.Citizens
+            var employee = await _context.employees
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (citizen == null)
+            if (employee == null)
             {
                 return NotFound();
             }
 
-            return View(citizen);
+            return View(employee);
         }
 
-        // POST: Register/Delete/5
+        // POST: Employees/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(string id)
         {
-            var citizen = await _context.Citizens.FindAsync(id);
-            _context.Citizens.Remove(citizen);
+            var employee = await _context.employees.FindAsync(id);
+            _context.employees.Remove(employee);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool CitizenExists(string id)
+        private bool EmployeeExists(string id)
         {
-            return _context.Citizens.Any(e => e.Id == id);
+            return _context.employees.Any(e => e.Id == id);
         }
     }
 }
