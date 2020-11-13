@@ -73,14 +73,25 @@
     @using (Html.BeginForm("Validate", "Home"))
     {
 <div class="container">
+
+    @if (ViewBag.state == "false")
+    {
+        <script>
+            window.alert("Invalid UserId Or Password")
+        </script>
+        <label style="color:red">*Invalid UserId Or Password</label>
+        <br />
+    }
     <label for="uid"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uid" required>
     <label for="pswd"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="pswd" required>
     <button type="submit" class="btn btn-primary">Login</button>
+    <button class="btn btn-primary"><a href="~/Citizen/Create" style="color : white;text-decoration: none">Register as Citizen</a></button>
     @if (@HttpContextAccessor.HttpContext.Session.GetString("uid") != null)
     {
-        <label>Your Userid Is </label>  @HttpContextAccessor.HttpContext.Session.GetString("uid")
+        <label>Your Userid Is </label> @HttpContextAccessor.HttpContext.Session.GetString("uid")
+
     }
 </div>
     }

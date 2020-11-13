@@ -23,5 +23,6 @@ namespace Government_Helping_System.Models
 
         public string post { get; set; }
 
+        public List<Querie> queries { get; set; }
     }
 }

@@ -11,6 +11,7 @@ using Government_Helping_System.Models.ViewsModel;
 
 namespace Government_Helping_System.Controllers
 {
+    //[SessionAuthorize]
     public class HomeController : Controller
     {
         private readonly AppDbContext _context;
@@ -23,30 +24,87 @@ namespace Government_Helping_System.Controllers
 
         public IActionResult Index()
         {
-            //return RedirectToAction("Homepage", "Home");            
+            //return RedirectToAction("Homepage", "Home");
+            if (HttpContext.Session.Get("newuid") != null)
+            {
+                string uid = HttpContext.Session.GetString("newuid");
+                HttpContext.Session.Clear();
+                HttpContext.Session.SetString("uid",uid);
+                return View();
+            }
+            if (HttpContext.Session.Get("uid")!=null)
+            {
+                string uid = HttpContext.Session.GetString("uid");
+                if(uid[0]=='C')
+                {
+                    return RedirectToAction("Homepage", "Citizen");
+                }
+                else if(uid[0]=='E')
+                {
+                    return RedirectToAction("Homepage", "Employees");
+                }
+                else
+                {
+                    return View();
+                }
+            }
+            if(HttpContext.Session.Get("nfound")!=null)
+            {
+                HttpContext.Session.Clear();
+                ViewBag.state = "false";
+            }
             return View();
         }
 
-        public string Validate(LoginViews loginView)
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            HttpContext.Session.Remove("uid");
+            return RedirectToAction("Index", "Home");
+        }
+
+        public IActionResult Validate(LoginViews loginView)
         {
 
             if(ModelState.IsValid)
             {
-                var citizen = _context.Citizens.FirstOrDefault(czn => czn.Id == loginView.uid
-                && czn.Password == loginView.pswd);
-                if (citizen == null)
+                if(loginView.uid[0]=='C')
                 {
-                    return "Not Found";
+                    var citizen = _context.Citizens.FirstOrDefault(czn => czn.Id == loginView.uid && czn.Password == loginView.pswd);
+                    if (citizen == null)
+                    {
+                        HttpContext.Session.SetString("nfound","true");
+                        return RedirectToAction("Index", "Home");
+                    }
+                    else
+                    {
+                        HttpContext.Session.SetString("uid", loginView.uid);
+                        return RedirectToAction("Homepage", "Citizen");
+                    }
+                }
+                else if(loginView.uid[0]=='E')
+                {
+                    var employee = _context.employees.FirstOrDefault(emp => emp.Id == loginView.uid && emp.Password == loginView.pswd);
+                    if (employee == null)
+                    {
+                        HttpContext.Session.SetString("nfound", "true");
+                        return RedirectToAction("Index", "Home");
+                    }
+                    else
+                    {
+                        HttpContext.Session.SetString("uid", loginView.uid);
+                        return RedirectToAction("Homepage", "Citizen");
+                    }
                 }
                 else
                 {
-                    HttpContext.Session.SetString("uid", loginView.uid);
-                    return "Ok Now You are in";
-                }
+                    HttpContext.Session.SetString("nfound", "true");
+                    return RedirectToAction("Index", "Home");
+                }    
             }
             else
             {
-                return "not found  object";
+                return RedirectToAction("Index", "Home");
             }
         }
 

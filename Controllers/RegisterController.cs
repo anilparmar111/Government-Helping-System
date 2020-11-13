@@ -11,6 +11,8 @@ using Microsoft.AspNetCore.Http;
 
 namespace Government_Helping_System.Controllers
 {
+    //[SessionAuthorize]
+    [Route("Citizen/{action=Index}")]
     public class RegisterController : Controller
     {
         private readonly AppDbContext _context;
@@ -21,12 +23,34 @@ namespace Government_Helping_System.Controllers
         }
 
         // GET: Register
+        //[Route("")]
+        //[Route("Index")]
+        //[Route("/")]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Citizens.ToListAsync());
         }
 
+
+        public IActionResult HomePage()
+        {
+            
+            if (HttpContext.Session.Get("uid") != null)
+            {
+                Citizen citizen = _context.Citizens.FirstOrDefault(czn => czn.Id == HttpContext.Session.GetString("uid"));
+                //return "id is " + HttpContext.Session.GetString("uid");
+                return View(citizen);
+            }
+            else
+            {
+                //return "not set session";
+                return RedirectToAction("Index", "Home");
+            }
+        }
+
+
         // GET: Register/Details/5
+        //[Route("Details")]
         public async Task<IActionResult> Details(string id)
         {
             if (id == null)
@@ -44,7 +68,13 @@ namespace Government_Helping_System.Controllers
             return View(citizen);
         }
 
+        public IActionResult Query_Problem()
+        {
+            return View();
+        }
+
         // GET: Register/Create
+
         public IActionResult Create()
         {
             return View();
@@ -83,7 +113,7 @@ namespace Government_Helping_System.Controllers
                 _context.Add(newcitizen);
                 await _context.SaveChangesAsync();
                 ViewBag.uid = newuid;
-                HttpContext.Session.SetString("uid", newuid);
+                HttpContext.Session.SetString("newuid", newuid);
                 return this.RedirectToAction("Index","Home");
                 //return RedirectToAction(nameof(Index));
             }

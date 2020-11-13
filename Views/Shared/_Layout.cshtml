@@ -1,17 +1,25 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor HttpContextAccessor
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Government_Helping_System</title>
+    <title>@ViewData["Title"] | Government_Helping_System</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        .navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+    </style>
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Government_Helping_System</a>
+            <div class="container bg-dark">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -19,30 +27,90 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <button class="btn btn-dark">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </button>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
+                        @if (@HttpContextAccessor.HttpContext.Session.GetString("uid") != null)
+                        {
+                            @if (@HttpContextAccessor.HttpContext.Session.GetString("uid")[0] == 'E')
+                            {
+                                <li class="nav-item">
+                                    <button class="btn btn-dark">
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemToDo">ProblemTodo</a>
+                                    </button>
+                                </li>
+                                <li class="nav-item">
+                                    <button class="btn btn-dark">
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemInProcess">ProblemInProcess</a>
+                                    </button>
+                                </li>
+                                <li class="nav-item">
+                                    <button class="btn btn-dark">
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemDone">ProblemDone</a>
+                                    </button>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="nav-item">
+                                    <button class="btn btn-dark">
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Citizen" asp-action="Query_Problem">Query New Problem</a>
+                                    </button>
+                                </li>
+                                <li class="nav-item">
+                                    <button class="btn btn-dark">
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Citizen" asp-action="Query_Request">Problem In Request</a>
+                                    </button>
+                                </li>
+                                <li class="nav-item">
+                                    <button class="btn btn-dark">
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Citizen" asp-action="Query_In_Process">Query In Process</a>
+                                    </button>
+                                </li>
+                                <li class="nav-item">
+                                    <button class="btn btn-dark">
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Citizen" asp-action="Query_Solved">Query Solved</a>
+                                    </button>
+                                </li>
+                            }
+                        }
+                        else
+                        {
+                    <li class="nav navbar-nav navbar-center">
+                        <button class="btn btn-dark">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">WelCome To Government Helping System</a>
+                           </button>
+                            </li>
+                        }
+                    
+</div>
+                    <nav class="navbar navbar-inverse">
+                        <div class="container-fluid">
+                            <ul class="nav navbar-nav navbar-right">
+                                <button class="btn btn-dark">
+                                    <li><a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a></li>
+                                </button>
+                            </ul>
+                        </div>
+                    </nav>
                 </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
-
-    <footer class="border-top footer text-muted">
+            </nav>
+        </header>
         <div class="container">
-            &copy; 2020 - Government_Helping_System - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
         </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @RenderSection("Scripts", required: false)
-</body>
+
+        <footer class="border-top footer text-muted">
+            <div class="container">
+                &copy; 2020 - Government_Helping_System - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+        </footer>
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @RenderSection("Scripts", required: false)
+    </body>
 </html>

@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Http;
 
 namespace Government_Helping_System.Controllers
 {
+    //[SessionAuthorize]
     public class EmployeesController : Controller
     {
         private readonly AppDbContext _context;
@@ -43,6 +44,23 @@ namespace Government_Helping_System.Controllers
 
             return View(employee);
         }
+
+        public IActionResult HomePage()
+        {
+
+            if (HttpContext.Session.Get("uid") != null)
+            {
+                Employee employee = _context.employees.FirstOrDefault(emp => emp.Id == HttpContext.Session.GetString("uid"));
+                //return "id is " + HttpContext.Session.GetString("uid");
+                return View(employee);
+            }
+            else
+            {
+                //return "not set session";
+                return RedirectToAction("Index", "Home");
+            }
+        }
+
 
         // GET: Employees/Create
         public IActionResult Create()
@@ -81,7 +99,7 @@ namespace Government_Helping_System.Controllers
                 _context.Add(employee);
                 await _context.SaveChangesAsync();
                 ViewBag.uid = newuid;
-                HttpContext.Session.SetString("uid", newuid);
+                HttpContext.Session.SetString("newuid", newuid);
                 return this.RedirectToAction("Index", "Home");
             }
             return View(employeeViews);

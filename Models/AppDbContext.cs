@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿//using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Government_Helping_System.Models
 {
+    //public class AppDbContext : IdentityDbContext
     public class AppDbContext : DbContext
     {
 
@@ -13,6 +15,12 @@ namespace Government_Helping_System.Models
         {
 
         }
+
+        /*protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+            builder.seed();
+        }*/
 
         public DbSet<Citizen> Citizens { get; set; }
         public DbSet<Employee> employees { get; set; }

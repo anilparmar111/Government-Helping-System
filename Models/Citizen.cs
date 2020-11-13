@@ -28,5 +28,7 @@ namespace Government_Helping_System.Models
 
         public string ZipCode { get; set; }
 
+        public List<Querie> queries { get; set; }
+
     }
 }
