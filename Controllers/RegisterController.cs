@@ -8,18 +8,24 @@ using Microsoft.EntityFrameworkCore;
 using Government_Helping_System.Models;
 using Government_Helping_System.Models.ViewsModel;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Hosting;
+using System.IO;
+using System.Text;
 
 namespace Government_Helping_System.Controllers
 {
+    
     //[SessionAuthorize]
     [Route("Citizen/{action=Index}")]
     public class RegisterController : Controller
     {
+        private readonly IWebHostEnvironment _env;
         private readonly AppDbContext _context;
 
-        public RegisterController(AppDbContext context)
+        public RegisterController(AppDbContext context, IWebHostEnvironment env)
         {
             _context = context;
+            _env=env;
         }
 
         // GET: Register
@@ -68,9 +74,83 @@ namespace Government_Helping_System.Controllers
             return View(citizen);
         }
 
+        
         public IActionResult Query_Problem()
         {
             return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Query_Problem(QueriesView queriesView)
+        {
+            if(ModelState.IsValid)
+            {
+                
+                if (queriesView.photos!=null)
+                {
+                    string folder = "Proofs/";
+                    queriesView.uploadphoto = new List<UploadPhotoModel>();
+                    foreach (var file in queriesView.photos)
+                    {
+                        var gallery = new UploadPhotoModel
+                        {
+                            Name = file.FileName,
+                            URL = await UploadImage(folder, file)
+                        };
+                        queriesView.uploadphoto.Add(gallery);
+                    }
+                }
+
+                string filepath="";
+
+                if(queriesView.textfile!=null)
+                {
+                    string folderPath = "Description/";
+                    folderPath += Guid.NewGuid().ToString() + "_" + RandomFileName(6);
+                    filepath = Path.Combine(_env.WebRootPath, folderPath);
+                    filepath += ".txt";
+                    System.IO.File.WriteAllText(filepath, queriesView.textfile);
+                }
+                Querie querie = new Querie();
+                
+                querie.Id = RandomString(15);
+                querie.CitizenId = HttpContext.Session.GetString("uid");
+                querie.status = "Req";
+                querie.Area = queriesView.Area;
+                querie.zipcode = queriesView.zipcode;
+                querie.textfilepath = filepath;
+                querie.title = queriesView.title;
+                querie.Citizen = _context.Citizens.FirstOrDefault(czn => czn.Id == HttpContext.Session.GetString("uid"));
+                querie.ProofPhotos = new List<PhotoModel>();
+                foreach (var file in queriesView.uploadphoto)
+                {
+                    querie.ProofPhotos.Add(new PhotoModel() {
+                        Name = file.Name,
+                        URL = file.URL
+                    });
+                }
+
+                await _context.queries.AddAsync(querie);
+                await _context.SaveChangesAsync();
+
+                return RedirectToAction("HomePage","Citizen");
+            }
+            else
+            {
+                return View();
+            }
+        }
+
+        private async Task<string> UploadImage(string folderPath, IFormFile file)
+        {
+
+            folderPath += Guid.NewGuid().ToString() + "_" + file.FileName;
+
+            string serverFolder = Path.Combine(_env.WebRootPath, folderPath);
+
+            await file.CopyToAsync(new FileStream(serverFolder, FileMode.Create));
+
+            return "/" + folderPath;
         }
 
         // GET: Register/Create
@@ -128,6 +208,12 @@ namespace Government_Helping_System.Controllers
               .Select(s => s[random.Next(s.Length)]).ToArray());
         }
 
+        public static string RandomFileName(int length)
+        {
+            const string chars = "abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            return new string(Enumerable.Repeat(chars, length)
+              .Select(s => s[random.Next(s.Length)]).ToArray());
+        }
 
         // GET: Register/Edit/5
         public async Task<IActionResult> Edit(string id)

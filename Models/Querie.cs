@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -16,16 +17,17 @@ namespace Government_Helping_System.Models
 
         public string EmployeeId { get; set; }
         public Employee Employee { get; set; }
-
+        
         public string title { get; set; }
-
-        public string textfilepath { get; set; }
 
         public string Area { get; set; }
 
         public string zipcode { get; set; }
 
+        public string textfilepath { get; set; }
+
         public string status { get; set; }
 
+        public ICollection<PhotoModel> ProofPhotos { get; set; }
     }
 }
