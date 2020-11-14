@@ -1,0 +1,1316 @@
+<div id="header">
+<div><a href="https://codeforces.com/"><img style="height: 50px;" title="Make Codeforces, not Coronaforces" src="https://sta.codeforces.com/s/57257/images/codeforces-vs-coronavirus-65.png" alt="Make Codeforces not Coronaforces" /></a></div>
+<div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+|&nbsp;<a href="https://codeforces.com/contests?locale=en"><img title="In English" src="https://sta.codeforces.com/s/57257/images/flags/24/gb.png" alt="In English" /></a>&nbsp;<a href="https://codeforces.com/contests?locale=ru"><img title="По-русски" src="https://sta.codeforces.com/s/57257/images/flags/24/ru.png" alt="По-русски" /></a></div>
+<div><a href="https://codeforces.com/profile/anil_111">anil_111</a>&nbsp;|&nbsp;<a href="https://codeforces.com/ab061cbe839f38263c5ed5a92b84053f/logout">Logout</a></div>
+</div>
+</div>
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<ul style="list-style-type: none;">
+<li style="list-style-type: none;"><a href="https://codeforces.com/">HOME</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/top">TOP</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/contests">CONTESTS</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/gyms">GYM</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/problemset">PROBLEMSET</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/groups/my">GROUPS</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/ratings">RATING</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/edu/courses">EDU</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/apiHelp">API</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/calendar">CALENDAR</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/help">HELP</a></li>
+<li style="list-style-type: none;"><a href="https://codeforces.com/10years">10 YEARS!&nbsp;</a></li>
+</ul>
+<form action="https://codeforces.com/search" method="post"><input name="query" type="text" value="" data-isplaceholder="true" /></form></div>
+</div>
+<p>&nbsp;</p>
+<div>
+<div id="sidebar">
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&rarr; Pay attention
+<div>&nbsp;</div>
+</div>
+<div>
+<div>Before contest<br /><a href="https://codeforces.com/contests/1446,1447">Codeforces Round #683 (Div. 1, by Meet IT)</a><br />20:49:26</div>
+<div>Before contest<br /><a href="https://codeforces.com/contests/1446,1447">Codeforces Round #683 (Div. 2, by Meet IT)</a><br />20:49:26<br /><a href="https://codeforces.com/contestRegistration/1447">Register now &raquo;</a>
+<div>*has extra registration</div>
+</div>
+<div>
+<div>
+<div>
+<div id="fb-root">
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div data-ref="1740426931" data-font="arial" data-show-faces="false" data-width="256" data-send="false" data-href="//codeforces.com/contests/1446,1447"><iframe title="fb:like Facebook Social Plugin" src="https://www.facebook.com/v2.8/plugins/like.php?app_id=554666954583323&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df3a1fbf8dab5da%26domain%3Dcodeforces.com%26origin%3Dhttps%253A%252F%252Fcodeforces.com%252Ff200e9ca5bb344%26relation%3Dparent.parent&amp;container_width=264&amp;font=arial&amp;href=https%3A%2F%2Fcodeforces.com%2Fcontests%2F1446%2C1447&amp;locale=en_US&amp;ref=1740426931&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=256" name="faac3d98f6c73" width="256px" height="1000px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" data-testid="fb:like Facebook Social Plugin" data-mce-fragment="1"></iframe></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&rarr; Recent virt. contests
+<div>&nbsp;</div>
+</div>
+<table style="width: 277.818px;">
+<tbody>
+<tr>
+<th>Contest</th>
+<th>Time</th>
+<th>&nbsp;</th>
+</tr>
+<tr>
+<td>Codeforces Round #601 (Div. 2)<br /><a href="https://codeforces.com/contest/1255">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="Jun/13/2020 07:40" data-contest-id="1255">Jun/13/2020 10:10<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1255"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+<tr>
+<td>Codeforces Round #600 (Div. 2)<br /><a href="https://codeforces.com/contest/1253">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="Jun/06/2020 13:00" data-contest-id="1253">Jun/06/2020 15:30<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1253"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+<tr>
+<td>Educational Codeforces Round 76 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1257">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="Jun/05/2020 13:40" data-contest-id="1257">Jun/05/2020 16:10<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1257"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+<tr>
+<td>Codeforces Round #630 (Div. 2)<br /><a href="https://codeforces.com/contest/1332">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="May/28/2020 13:30" data-contest-id="1332">May/28/2020 16:00<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1332"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+<tr>
+<td>Codeforces Round #645 (Div. 2)<br /><a href="https://codeforces.com/contest/1358">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="May/27/2020 19:40" data-contest-id="1358">May/27/2020 22:10<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1358"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+<tr>
+<td>Codeforces Round #629 (Div. 3)<br /><a href="https://codeforces.com/contest/1328">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="Apr/21/2020 15:25" data-contest-id="1328">Apr/21/2020 17:55<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1328"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+<tr>
+<td>Codeforces Round #617 (Div. 3)<br /><a href="https://codeforces.com/contest/1296">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="Mar/27/2020 13:15" data-contest-id="1296">Mar/27/2020 15:45<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1296"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+<tr>
+<td>Codeforces Round #624 (Div. 3)<br /><a href="https://codeforces.com/contest/1311">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="Mar/26/2020 12:45" data-contest-id="1311">Mar/26/2020 15:15<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1311"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+<tr>
+<td>Educational Codeforces Round 84 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1327">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="Mar/25/2020 18:50" data-contest-id="1327">Mar/25/2020 21:20<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1327"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+<tr>
+<td>Codeforces Round #611 (Div. 3)<br /><a href="https://codeforces.com/contest/1283">Enter &raquo;</a></td>
+<td><a href="https://codeforces.com/contests" data-virtual-start-time="Feb/21/2020 10:20" data-contest-id="1283">Feb/21/2020 12:50<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td><a href="https://codeforces.com/contests" data-contest-id="1283"><img src="https://sta.codeforces.com/s/!/images/delete.png" width="12px;" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<form action="https://codeforces.com/contests" method="post"></form></div>
+<div id="pageContent">
+<div>
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>Current or upcoming contests
+<div><img src="https://sta.codeforces.com/s/57257/images/icons/control.png" /></div>
+</div>
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<table style="width: 872px;">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Writers</th>
+<th>Start</th>
+<th>Length</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr data-contestid="1446">
+<td style="width: auto;">Codeforces Round #683 (Div. 1, by Meet IT)</td>
+<td style="width: auto;"><a title="Master Devil" href="https://codeforces.com/profile/Devil">Devil</a><br /><a title="Master Gajowy" href="https://codeforces.com/profile/Gajowy">Gajowy</a><br /><a title="Master Miyukine" href="https://codeforces.com/profile/Miyukine">Miyukine</a><br /><a title="Candidate Master Mohamed.Sobhy" href="https://codeforces.com/profile/Mohamed.Sobhy">Mohamed.Sobhy</a><br /><a title="International Grandmaster _h_" href="https://codeforces.com/profile/_h_">_h_</a><br /><a title="International Master jjaworska" href="https://codeforces.com/profile/jjaworska">jjaworska</a><br /><a title="Candidate Master kamilos1089" href="https://codeforces.com/profile/kamilos1089">kamilos1089</a><br /><a title="Master kobor" href="https://codeforces.com/profile/kobor">kobor</a><br /><a title="Expert pasawicki" href="https://codeforces.com/profile/pasawicki">pasawicki</a><br /><a title="Master pawelek1" href="https://codeforces.com/profile/pawelek1">pawelek1</a><br /><a title="Grandmaster staniewzki" href="https://codeforces.com/profile/staniewzki">staniewzki</a><br /><a title="Grandmaster tnowak" href="https://codeforces.com/profile/tnowak">tnowak</a></td>
+<td style="width: auto;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?day=15&amp;month=11&amp;year=2020&amp;hour=17&amp;min=35&amp;sec=0&amp;p1=166" target="_blank" rel="noopener">Nov/15/2020 20:05<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">Before start&nbsp;20:49:26</td>
+<td style="width: auto;"><a href="https://codeforces.com/contestRegistration/1446">Register &raquo;</a>&nbsp;<a title="Registered" href="https://codeforces.com/contestRegistrants/1446"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x692</a>
+<div>Until closing&nbsp;20:44:26</div>
+<div>*has extra registration</div>
+</td>
+</tr>
+<tr data-contestid="1447">
+<td style="width: auto;">Codeforces Round #683 (Div. 2, by Meet IT)</td>
+<td style="width: auto;"><a title="Master Devil" href="https://codeforces.com/profile/Devil">Devil</a><br /><a title="Master Gajowy" href="https://codeforces.com/profile/Gajowy">Gajowy</a><br /><a title="Master Miyukine" href="https://codeforces.com/profile/Miyukine">Miyukine</a><br /><a title="Candidate Master Mohamed.Sobhy" href="https://codeforces.com/profile/Mohamed.Sobhy">Mohamed.Sobhy</a><br /><a title="International Grandmaster _h_" href="https://codeforces.com/profile/_h_">_h_</a><br /><a title="International Master jjaworska" href="https://codeforces.com/profile/jjaworska">jjaworska</a><br /><a title="Candidate Master kamilos1089" href="https://codeforces.com/profile/kamilos1089">kamilos1089</a><br /><a title="Master kobor" href="https://codeforces.com/profile/kobor">kobor</a><br /><a title="Expert pasawicki" href="https://codeforces.com/profile/pasawicki">pasawicki</a><br /><a title="Master pawelek1" href="https://codeforces.com/profile/pawelek1">pawelek1</a><br /><a title="Grandmaster staniewzki" href="https://codeforces.com/profile/staniewzki">staniewzki</a><br /><a title="Grandmaster tnowak" href="https://codeforces.com/profile/tnowak">tnowak</a></td>
+<td style="width: auto;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?day=15&amp;month=11&amp;year=2020&amp;hour=17&amp;min=35&amp;sec=0&amp;p1=166" target="_blank" rel="noopener">Nov/15/2020 20:05<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">Before start&nbsp;20:49:26</td>
+<td style="width: auto;"><a href="https://codeforces.com/contestRegistration/1447">Register &raquo;</a>&nbsp;<a title="Registered" href="https://codeforces.com/contestRegistrants/1447"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x6688</a>
+<div>Until closing&nbsp;20:44:26</div>
+<div>*has extra registration</div>
+</td>
+</tr>
+<tr data-contestid="1439">
+<td style="width: auto;">Codeforces Round #684 (Div. 1)</td>
+<td style="width: auto;"><a title="International Grandmaster AliShahali1382" href="https://codeforces.com/profile/AliShahali1382">AliShahali1382</a><br /><a title="Grandmaster Mehrdad_Sohrabi" href="https://codeforces.com/profile/Mehrdad_Sohrabi">Mehrdad_Sohrabi</a><br /><a title="Master Mohammad.H915" href="https://codeforces.com/profile/Mohammad.H915">Mohammad.H915</a></td>
+<td style="width: auto;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?day=17&amp;month=11&amp;year=2020&amp;hour=17&amp;min=35&amp;sec=0&amp;p1=166" target="_blank" rel="noopener">Nov/17/2020 20:05<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">Before start&nbsp;<span title="68:50:14">3 days</span></td>
+<td style="width: auto;">Before registration&nbsp;06:44:26</td>
+</tr>
+<tr data-contestid="1440">
+<td style="width: auto;">Codeforces Round #684 (Div. 2)</td>
+<td style="width: auto;"><a title="International Grandmaster AliShahali1382" href="https://codeforces.com/profile/AliShahali1382">AliShahali1382</a><br /><a title="Grandmaster Mehrdad_Sohrabi" href="https://codeforces.com/profile/Mehrdad_Sohrabi">Mehrdad_Sohrabi</a><br /><a title="Master Mohammad.H915" href="https://codeforces.com/profile/Mohammad.H915">Mohammad.H915</a></td>
+<td style="width: auto;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?day=17&amp;month=11&amp;year=2020&amp;hour=17&amp;min=35&amp;sec=0&amp;p1=166" target="_blank" rel="noopener">Nov/17/2020 20:05<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">Before start&nbsp;<span title="68:50:14">3 days</span></td>
+<td style="width: auto;">Before registration&nbsp;06:44:26</td>
+</tr>
+<tr data-contestid="1452">
+<td style="width: auto;">Educational Codeforces Round 98 (Rated for Div. 2)</td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?day=19&amp;month=11&amp;year=2020&amp;hour=17&amp;min=35&amp;sec=0&amp;p1=166" target="_blank" rel="noopener">Nov/19/2020 20:05<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">Before start&nbsp;<span title="116:50:14">5 days</span></td>
+<td style="width: auto;">Before registration&nbsp;<span title="56:30:14">2 days</span></td>
+</tr>
+<tr data-contestid="1451">
+<td style="width: auto;">Codeforces Round #685 (Div. 2)</td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?day=21&amp;month=11&amp;year=2020&amp;hour=17&amp;min=35&amp;sec=0&amp;p1=166" target="_blank" rel="noopener">Nov/21/2020 20:05<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">Before start&nbsp;<span title="164:50:14">7 days</span></td>
+<td style="width: auto;">Before registration&nbsp;<span title="116:50:14">5 days</span></td>
+</tr>
+<tr data-contestid="1415">
+<td style="width: auto;">Technocup 2021 - Elimination Round 2</td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?day=29&amp;month=11&amp;year=2020&amp;hour=10&amp;min=5&amp;sec=0&amp;p1=166" target="_blank" rel="noopener">Nov/29/2020 12:35<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">Before start&nbsp;<span title="349:20:14">2 weeks</span></td>
+<td style="width: auto;">Before registration&nbsp;<span title="314:15:14">13 days</span></td>
+</tr>
+<tr data-contestid="1450">
+<td style="width: auto;">Codeforces Global Round 12</td>
+<td style="width: auto;"><a title="Master Devil" href="https://codeforces.com/profile/Devil">Devil</a><br /><a title="Grandmaster Monogon" href="https://codeforces.com/profile/Monogon">Monogon</a><br /><a title="International Master fivefourthreeone" href="https://codeforces.com/profile/fivefourthreeone">fivefourthreeone</a></td>
+<td style="width: auto;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?day=6&amp;month=12&amp;year=2020&amp;hour=17&amp;min=35&amp;sec=0&amp;p1=166" target="_blank" rel="noopener">Dec/06/2020 20:05<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td style="width: auto;">03:00</td>
+<td style="width: auto;">Before start&nbsp;<span title="524:50:14">3 weeks</span></td>
+<td style="width: auto;">Before registration&nbsp;<span title="458:30:14">3 weeks</span></td>
+</tr>
+<tr data-contestid="1411">
+<td style="width: auto;">Technocup 2021 - Elimination Round 3</td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?day=20&amp;month=12&amp;year=2020&amp;hour=18&amp;min=5&amp;sec=0&amp;p1=166" target="_blank" rel="noopener">Dec/20/2020 20:35<sup title="timezone offset">UTC+5.5</sup></a></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">Before start&nbsp;<span title="861:20:14">5 weeks</span></td>
+<td style="width: auto;">Before registration&nbsp;<span title="819:15:14">5 weeks</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div>Contest history
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>Past contests&nbsp;
+<div><img src="https://sta.codeforces.com/s/57257/images/icons/control.png" /></div>
+</div>
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<table style="width: 872px;">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Writers</th>
+<th>Start</th>
+<th>Length</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr data-contestid="1438">
+<td style="width: auto;">Codeforces Round #682 (Div. 2)<br /><a href="https://codeforces.com/contest/1438">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1438/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Expert Anti-Light" href="https://codeforces.com/profile/Anti-Light">Anti-Light</a><br /><a title="Master SleepyShashwat" href="https://codeforces.com/profile/SleepyShashwat">SleepyShashwat</a></td>
+<td style="width: auto;">Nov/13/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1438/standings">Final standings</a></div>
+<div>Solved: 2 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1438"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x17524</a></td>
+</tr>
+<tr data-contestid="1431">
+<td style="width: auto;">Kotlin Heroes 5: ICPC Round<br /><a href="https://codeforces.com/contest/1431">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1431/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Nov/12/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1431/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1431"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x6770</a></td>
+</tr>
+<tr data-contestid="1432">
+<td style="width: auto;">Kotlin Heroes 5: ICPC Round (Practice)<br /><a href="https://codeforces.com/contest/1432">Enter &raquo;</a></td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;">Nov/05/2020<br />19:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">7:00:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1432/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1432"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x6003</a></td>
+</tr>
+<tr data-contestid="1442">
+<td style="width: auto;">Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)<br /><a href="https://codeforces.com/contest/1442">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1442/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster .tx" href="https://codeforces.com/profile/.tx">.tx</a><br /><a title="Legendary Grandmaster 300iq" href="https://codeforces.com/profile/300iq">300iq</a><br /><a title="Master Kurpilyansky" href="https://codeforces.com/profile/Kurpilyansky">Kurpilyansky</a><br /><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="International Grandmaster PavelKunyavskiy" href="https://codeforces.com/profile/PavelKunyavskiy">PavelKunyavskiy</a><br /><a title="Master Stepavly" href="https://codeforces.com/profile/Stepavly">Stepavly</a><br /><a title="Master Supermagzzz" href="https://codeforces.com/profile/Supermagzzz">Supermagzzz</a><br /><a title="International Master YakutovDmitriy" href="https://codeforces.com/profile/YakutovDmitriy">YakutovDmitriy</a><br /><a title="International Grandmaster izban" href="https://codeforces.com/profile/izban">izban</a></td>
+<td style="width: auto;">Nov/02/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1442/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1442"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1455</a></td>
+</tr>
+<tr data-contestid="1443">
+<td style="width: auto;">Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)<br /><a href="https://codeforces.com/contest/1443">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1443/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster .tx" href="https://codeforces.com/profile/.tx">.tx</a><br /><a title="Legendary Grandmaster 300iq" href="https://codeforces.com/profile/300iq">300iq</a><br /><a title="Master Kurpilyansky" href="https://codeforces.com/profile/Kurpilyansky">Kurpilyansky</a><br /><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="International Grandmaster PavelKunyavskiy" href="https://codeforces.com/profile/PavelKunyavskiy">PavelKunyavskiy</a><br /><a title="Master Stepavly" href="https://codeforces.com/profile/Stepavly">Stepavly</a><br /><a title="Master Supermagzzz" href="https://codeforces.com/profile/Supermagzzz">Supermagzzz</a><br /><a title="International Master YakutovDmitriy" href="https://codeforces.com/profile/YakutovDmitriy">YakutovDmitriy</a><br /><a title="International Grandmaster izban" href="https://codeforces.com/profile/izban">izban</a></td>
+<td style="width: auto;">Nov/02/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1443/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1443"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x14824</a></td>
+</tr>
+<tr data-contestid="1441">
+<td style="width: auto;">VK Cup 2019-2020 - Final Round (Engine)<br /><a href="https://codeforces.com/contest/1441">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1441/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;">Nov/01/2020<br />19:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1441/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1441"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x40</a></td>
+</tr>
+<tr data-contestid="1444">
+<td style="width: auto;">Codeforces Round #680 (Div. 1, based on Moscow Team Olympiad)<br /><a href="https://codeforces.com/contest/1444">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1444/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Legendary Grandmaster 300iq" href="https://codeforces.com/profile/300iq">300iq</a><br /><a title="Master DebNatkh" href="https://codeforces.com/profile/DebNatkh">DebNatkh</a><br /><a title="Master DrNykterstein" href="https://codeforces.com/profile/DrNykterstein">DrNykterstein</a><br /><a title="Legendary Grandmaster Endagorion" href="https://codeforces.com/profile/Endagorion">Endagorion</a><br /><a title="International Grandmaster GlebsHP" href="https://codeforces.com/profile/GlebsHP">GlebsHP</a><br /><a title="Master KiKoS" href="https://codeforces.com/profile/KiKoS">KiKoS</a><br /><a title="International Grandmaster LHiC" href="https://codeforces.com/profile/LHiC">LHiC</a><br /><a title="International Grandmaster Nebuchadnezzar" href="https://codeforces.com/profile/Nebuchadnezzar">Nebuchadnezzar</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="Legendary Grandmaster V--o_o--V" href="https://codeforces.com/profile/V--o_o--V">V--o_o--V</a><br /><a title="International Grandmaster Zlobober" href="https://codeforces.com/profile/Zlobober">Zlobober</a><br /><a title="International Grandmaster cdkrot" href="https://codeforces.com/profile/cdkrot">cdkrot</a><br /><a title="International Grandmaster ch_egor" href="https://codeforces.com/profile/ch_egor">ch_egor</a><br /><a title="Master grphil" href="https://codeforces.com/profile/grphil">grphil</a><br /><a title="Grandmaster ismagilov.code" href="https://codeforces.com/profile/ismagilov.code">ismagilov.code</a><br /><a title="International Grandmaster kraborak" href="https://codeforces.com/profile/kraborak">kraborak</a><br /><a title="Grandmaster meshanya" href="https://codeforces.com/profile/meshanya">meshanya</a><br /><a title="International Grandmaster vintage_Vlad_Makeev" href="https://codeforces.com/profile/vintage_Vlad_Makeev">vintage_Vlad_Makeev</a><br /><a title="Grandmaster voidmax" href="https://codeforces.com/profile/voidmax">voidmax</a><br /><a title="Expert wrg0ababd" href="https://codeforces.com/profile/wrg0ababd">wrg0ababd</a></td>
+<td style="width: auto;">Nov/01/2020<br />16:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1444/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1444"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1313</a></td>
+</tr>
+<tr data-contestid="1445">
+<td style="width: auto;">Codeforces Round #680 (Div. 2, based on Moscow Team Olympiad)<br /><a href="https://codeforces.com/contest/1445">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1445/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Legendary Grandmaster 300iq" href="https://codeforces.com/profile/300iq">300iq</a><br /><a title="Master DebNatkh" href="https://codeforces.com/profile/DebNatkh">DebNatkh</a><br /><a title="Master DrNykterstein" href="https://codeforces.com/profile/DrNykterstein">DrNykterstein</a><br /><a title="Legendary Grandmaster Endagorion" href="https://codeforces.com/profile/Endagorion">Endagorion</a><br /><a title="International Grandmaster GlebsHP" href="https://codeforces.com/profile/GlebsHP">GlebsHP</a><br /><a title="Master KiKoS" href="https://codeforces.com/profile/KiKoS">KiKoS</a><br /><a title="International Grandmaster LHiC" href="https://codeforces.com/profile/LHiC">LHiC</a><br /><a title="International Grandmaster Nebuchadnezzar" href="https://codeforces.com/profile/Nebuchadnezzar">Nebuchadnezzar</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="Legendary Grandmaster V--o_o--V" href="https://codeforces.com/profile/V--o_o--V">V--o_o--V</a><br /><a title="International Grandmaster Zlobober" href="https://codeforces.com/profile/Zlobober">Zlobober</a><br /><a title="International Grandmaster cdkrot" href="https://codeforces.com/profile/cdkrot">cdkrot</a><br /><a title="International Grandmaster ch_egor" href="https://codeforces.com/profile/ch_egor">ch_egor</a><br /><a title="Master grphil" href="https://codeforces.com/profile/grphil">grphil</a><br /><a title="Grandmaster ismagilov.code" href="https://codeforces.com/profile/ismagilov.code">ismagilov.code</a><br /><a title="International Grandmaster kraborak" href="https://codeforces.com/profile/kraborak">kraborak</a><br /><a title="Grandmaster meshanya" href="https://codeforces.com/profile/meshanya">meshanya</a><br /><a title="International Grandmaster vintage_Vlad_Makeev" href="https://codeforces.com/profile/vintage_Vlad_Makeev">vintage_Vlad_Makeev</a><br /><a title="Grandmaster voidmax" href="https://codeforces.com/profile/voidmax">voidmax</a><br /><a title="Expert wrg0ababd" href="https://codeforces.com/profile/wrg0ababd">wrg0ababd</a></td>
+<td style="width: auto;">Nov/01/2020<br />16:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1445/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1445"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x12970</a></td>
+</tr>
+<tr data-contestid="1437">
+<td style="width: auto;">Educational Codeforces Round 97 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1437">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1437/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Oct/27/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1437/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1437"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21054</a></td>
+</tr>
+<tr data-contestid="1413">
+<td style="width: auto;">Technocup 2021 - Elimination Round 1<br /><a href="https://codeforces.com/contest/1413">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1413/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster AndreySergunin" href="https://codeforces.com/profile/AndreySergunin">AndreySergunin</a><br /><a title="Legendary Grandmaster Endagorion" href="https://codeforces.com/profile/Endagorion">Endagorion</a><br /><a title="International Grandmaster Golovanov399" href="https://codeforces.com/profile/Golovanov399">Golovanov399</a><br /><a title="International Grandmaster amethyst0" href="https://codeforces.com/profile/amethyst0">amethyst0</a></td>
+<td style="width: auto;">Oct/25/2020<br />16:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1413/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1413"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x3246</a></td>
+</tr>
+<tr data-contestid="1434">
+<td style="width: auto;">Codeforces Round #679 (Div. 1, based on Technocup 2021 Elimination Round 1)<br /><a href="https://codeforces.com/contest/1434">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1434/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster AndreySergunin" href="https://codeforces.com/profile/AndreySergunin">AndreySergunin</a><br /><a title="Legendary Grandmaster Endagorion" href="https://codeforces.com/profile/Endagorion">Endagorion</a><br /><a title="International Grandmaster Golovanov399" href="https://codeforces.com/profile/Golovanov399">Golovanov399</a><br /><a title="International Grandmaster amethyst0" href="https://codeforces.com/profile/amethyst0">amethyst0</a></td>
+<td style="width: auto;">Oct/25/2020<br />16:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1434/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1434"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1311</a></td>
+</tr>
+<tr data-contestid="1435">
+<td style="width: auto;">Codeforces Round #679 (Div. 2, based on Technocup 2021 Elimination Round 1)<br /><a href="https://codeforces.com/contest/1435">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1435/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster AndreySergunin" href="https://codeforces.com/profile/AndreySergunin">AndreySergunin</a><br /><a title="Legendary Grandmaster Endagorion" href="https://codeforces.com/profile/Endagorion">Endagorion</a><br /><a title="International Grandmaster Golovanov399" href="https://codeforces.com/profile/Golovanov399">Golovanov399</a><br /><a title="International Grandmaster amethyst0" href="https://codeforces.com/profile/amethyst0">amethyst0</a></td>
+<td style="width: auto;">Oct/25/2020<br />16:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1435/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1435"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x12638</a></td>
+</tr>
+<tr data-contestid="1436">
+<td style="width: auto;">Codeforces Round #678 (Div. 2)<br /><a href="https://codeforces.com/contest/1436">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1436/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Candidate Master AleXman111" href="https://codeforces.com/profile/AleXman111">AleXman111</a><br /><a title="Master Vladik" href="https://codeforces.com/profile/Vladik">Vladik</a><br /><a title="Grandmaster andrew" href="https://codeforces.com/profile/andrew">andrew</a><br /><a title="Grandmaster aropan" href="https://codeforces.com/profile/aropan">aropan</a><br /><a title="Grandmaster hloya_ygrt" href="https://codeforces.com/profile/hloya_ygrt">hloya_ygrt</a></td>
+<td style="width: auto;">Oct/24/2020<br />19:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:10</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1436/standings">Final standings</a></div>
+<div>Solved: 2 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1436"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21070</a></td>
+</tr>
+<tr data-contestid="1433">
+<td style="width: auto;">Codeforces Round #677 (Div. 3)<br /><a href="https://codeforces.com/contest/1433">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1433/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Oct/20/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1433/standings">Final standings</a></div>
+<div>Solved: 5 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1433"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x23576</a></td>
+</tr>
+<tr data-contestid="1421">
+<td style="width: auto;">Codeforces Round #676 (Div. 2)<br /><a href="https://codeforces.com/contest/1421">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1421/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master flaviu2001" href="https://codeforces.com/profile/flaviu2001">flaviu2001</a><br /><a title="Expert koala_bear00" href="https://codeforces.com/profile/koala_bear00">koala_bear00</a><br /><a title="Master stefdasca" href="https://codeforces.com/profile/stefdasca">stefdasca</a></td>
+<td style="width: auto;">Oct/18/2020<br />14:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1421/standings">Final standings</a></div>
+<div>Solved: 3 out of 5</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1421"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x16569</a></td>
+</tr>
+<tr data-contestid="1428">
+<td style="width: auto;">Codeforces Raif Round 1 (Div. 1 + Div. 2)<br /><a href="https://codeforces.com/contest/1428">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1428/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master bensonlzl" href="https://codeforces.com/profile/bensonlzl">bensonlzl</a><br /><a title="Grandmaster dvdg6566" href="https://codeforces.com/profile/dvdg6566">dvdg6566</a><br /><a title="Grandmaster errorgorn" href="https://codeforces.com/profile/errorgorn">errorgorn</a><br /><a title="Master oolimry" href="https://codeforces.com/profile/oolimry">oolimry</a><br /><a title="Grandmaster shenxy13" href="https://codeforces.com/profile/shenxy13">shenxy13</a></td>
+<td style="width: auto;">Oct/17/2020<br />18:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1428/standings">Final standings</a></div>
+<div>Solved: 3 out of 9</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1428"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x20406</a></td>
+</tr>
+<tr data-contestid="1430">
+<td style="width: auto;">Educational Codeforces Round 96 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1430">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1430/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Candidate Master fcspartakm" href="https://codeforces.com/profile/fcspartakm">fcspartakm</a></td>
+<td style="width: auto;">Oct/11/2020<br />14:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1430/standings">Final standings</a></div>
+<div>Solved: 1 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1430"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x14535</a></td>
+</tr>
+<tr data-contestid="1427">
+<td style="width: auto;">Codeforces Global Round 11<br /><a href="https://codeforces.com/contest/1427">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1427/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster dario2994" href="https://codeforces.com/profile/dario2994">dario2994</a></td>
+<td style="width: auto;">Oct/10/2020<br />20:20<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">03:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1427/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1427"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x17328</a></td>
+</tr>
+<tr data-contestid="1423">
+<td style="width: auto;">Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]<br /><a href="https://codeforces.com/contest/1423">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1423/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Specialist 4csmartguy" href="https://codeforces.com/profile/4csmartguy">4csmartguy</a><br /><a title="Expert Filip" href="https://codeforces.com/profile/Filip">Filip</a><br /><a title="Expert God_Ra" href="https://codeforces.com/profile/God_Ra">God_Ra</a><br /><a title="Newbie Stupke" href="https://codeforces.com/profile/Stupke">Stupke</a><br /><a title="Specialist Svetaxxx" href="https://codeforces.com/profile/Svetaxxx">Svetaxxx</a><br /><a title="Expert VukVukovic" href="https://codeforces.com/profile/VukVukovic">VukVukovic</a><br /><a title="Pupil acac97" href="https://codeforces.com/profile/acac97">acac97</a><br /><a title="Unrated, bovuck" href="https://codeforces.com/profile/bovuck">bovuck</a><br /><a title="Unrated, danilo99" href="https://codeforces.com/profile/danilo99">danilo99</a><br /><a title="Expert doraaki" href="https://codeforces.com/profile/doraaki">doraaki</a><br /><a title="Candidate Master milenkoviclazar" href="https://codeforces.com/profile/milenkoviclazar">milenkoviclazar</a><br /><a title="Grandmaster nikolapesic2802" href="https://codeforces.com/profile/nikolapesic2802">nikolapesic2802</a><br /><a title="Expert niksmiljkovic" href="https://codeforces.com/profile/niksmiljkovic">niksmiljkovic</a><br /><a title="Expert zDule98" href="https://codeforces.com/profile/zDule98">zDule98</a></td>
+<td style="width: auto;">Oct/05/2020<br />18:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">03:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1423/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1423"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1889</a></td>
+</tr>
+<tr data-contestid="1424">
+<td style="width: auto;">Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 2]<br /><a href="https://codeforces.com/contest/1424">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1424/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Specialist 4csmartguy" href="https://codeforces.com/profile/4csmartguy">4csmartguy</a><br /><a title="Expert Filip" href="https://codeforces.com/profile/Filip">Filip</a><br /><a title="Expert God_Ra" href="https://codeforces.com/profile/God_Ra">God_Ra</a><br /><a title="Newbie Stupke" href="https://codeforces.com/profile/Stupke">Stupke</a><br /><a title="Specialist Svetaxxx" href="https://codeforces.com/profile/Svetaxxx">Svetaxxx</a><br /><a title="Expert VukVukovic" href="https://codeforces.com/profile/VukVukovic">VukVukovic</a><br /><a title="Pupil acac97" href="https://codeforces.com/profile/acac97">acac97</a><br /><a title="Unrated, bovuck" href="https://codeforces.com/profile/bovuck">bovuck</a><br /><a title="Unrated, danilo99" href="https://codeforces.com/profile/danilo99">danilo99</a><br /><a title="Expert doraaki" href="https://codeforces.com/profile/doraaki">doraaki</a><br /><a title="Candidate Master milenkoviclazar" href="https://codeforces.com/profile/milenkoviclazar">milenkoviclazar</a><br /><a title="Grandmaster nikolapesic2802" href="https://codeforces.com/profile/nikolapesic2802">nikolapesic2802</a><br /><a title="Expert niksmiljkovic" href="https://codeforces.com/profile/niksmiljkovic">niksmiljkovic</a><br /><a title="Expert zDule98" href="https://codeforces.com/profile/zDule98">zDule98</a></td>
+<td style="width: auto;">Oct/05/2020<br />18:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">03:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1424/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1424"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1570</a></td>
+</tr>
+<tr data-contestid="1422">
+<td style="width: auto;">Codeforces Round #675 (Div. 2)<br /><a href="https://codeforces.com/contest/1422">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1422/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Candidate Master AleXman111" href="https://codeforces.com/profile/AleXman111">AleXman111</a><br /><a title="Master Vladik" href="https://codeforces.com/profile/Vladik">Vladik</a><br /><a title="Grandmaster andrew" href="https://codeforces.com/profile/andrew">andrew</a><br /><a title="Grandmaster aropan" href="https://codeforces.com/profile/aropan">aropan</a><br /><a title="Grandmaster hloya_ygrt" href="https://codeforces.com/profile/hloya_ygrt">hloya_ygrt</a></td>
+<td style="width: auto;">Oct/04/2020<br />21:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1422/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1422"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x18559</a></td>
+</tr>
+<tr data-contestid="1408">
+<td style="width: auto;">Grakn Forces 2020<br /><a href="https://codeforces.com/contest/1408">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1408/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Legendary Grandmaster 300iq" href="https://codeforces.com/profile/300iq">300iq</a><br /><a title="International Grandmaster isaf27" href="https://codeforces.com/profile/isaf27">isaf27</a></td>
+<td style="width: auto;">Sep/30/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:45</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1408/standings">Final standings</a></div>
+<div>Solved: 1 out of 9</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1408"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x17560</a></td>
+</tr>
+<tr data-contestid="1426">
+<td style="width: auto;">Codeforces Round #674 (Div. 3)<br /><a href="https://codeforces.com/contest/1426">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1426/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master fcspartakm" href="https://codeforces.com/profile/fcspartakm">fcspartakm</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Sep/28/2020<br />13:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1426/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1426"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x17663</a></td>
+</tr>
+<tr data-contestid="1416">
+<td style="width: auto;">Codeforces Round #673 (Div. 1)<br /><a href="https://codeforces.com/contest/1416">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1416/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster BThero" href="https://codeforces.com/profile/BThero">BThero</a><br /><a title="Candidate Master DimmyT" href="https://codeforces.com/profile/DimmyT">DimmyT</a><br /><a title="Expert RedDreamer" href="https://codeforces.com/profile/RedDreamer">RedDreamer</a></td>
+<td style="width: auto;">Sep/27/2020<br />20:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1416/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1416"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1627</a></td>
+</tr>
+<tr data-contestid="1417">
+<td style="width: auto;">Codeforces Round #673 (Div. 2)<br /><a href="https://codeforces.com/contest/1417">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1417/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster BThero" href="https://codeforces.com/profile/BThero">BThero</a><br /><a title="Candidate Master DimmyT" href="https://codeforces.com/profile/DimmyT">DimmyT</a><br /><a title="Expert RedDreamer" href="https://codeforces.com/profile/RedDreamer">RedDreamer</a></td>
+<td style="width: auto;">Sep/27/2020<br />20:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1417/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1417"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x17666</a></td>
+</tr>
+<tr data-contestid="1425">
+<td style="width: auto;">2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)<br /><a href="https://codeforces.com/contest/1425">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1425/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Expert AMnu" href="https://codeforces.com/profile/AMnu">AMnu</a><br /><a title="Newbie MIsForMiracle" href="https://codeforces.com/profile/MIsForMiracle">MIsForMiracle</a><br /><a title="Expert dewa251202" href="https://codeforces.com/profile/dewa251202">dewa251202</a><br /><a title="International Master faustaadp" href="https://codeforces.com/profile/faustaadp">faustaadp</a><br /><a title="Master hiddentesla" href="https://codeforces.com/profile/hiddentesla">hiddentesla</a><br /><a title="Master hocky" href="https://codeforces.com/profile/hocky">hocky</a><br /><a title="Master julianfernando" href="https://codeforces.com/profile/julianfernando">julianfernando</a></td>
+<td style="width: auto;">Sep/27/2020<br />10:30<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">05:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1425/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1425"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x3869</a></td>
+</tr>
+<tr data-contestid="1420">
+<td style="width: auto;">Codeforces Round #672 (Div. 2)<br /><a href="https://codeforces.com/contest/1420">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1420/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master Wind_Eagle" href="https://codeforces.com/profile/Wind_Eagle">Wind_Eagle</a></td>
+<td style="width: auto;">Sep/24/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1420/standings">Final standings</a></div>
+<div>Solved: 1 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1420"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21199</a></td>
+</tr>
+<tr data-contestid="1419">
+<td style="width: auto;">Codeforces Round #671 (Div. 2)<br /><a href="https://codeforces.com/contest/1419">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1419/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master Artyom123" href="https://codeforces.com/profile/Artyom123">Artyom123</a><br /><a title="Master Kotehok3" href="https://codeforces.com/profile/Kotehok3">Kotehok3</a><br /><a title="Candidate Master shishin" href="https://codeforces.com/profile/shishin">shishin</a></td>
+<td style="width: auto;">Sep/19/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1419/standings">Final standings</a></div>
+<div>Solved: 2 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1419"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x20819</a></td>
+</tr>
+<tr data-contestid="1418">
+<td style="width: auto;">Educational Codeforces Round 95 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1418">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1418/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Sep/14/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1418/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1418"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22246</a></td>
+</tr>
+<tr data-contestid="1406">
+<td style="width: auto;">Codeforces Round #670 (Div. 2)<br /><a href="https://codeforces.com/contest/1406">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1406/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Master gyh20" href="https://codeforces.com/profile/gyh20">gyh20</a><br /><a title="Master tianbu" href="https://codeforces.com/profile/tianbu">tianbu</a></td>
+<td style="width: auto;">Sep/12/2020<br />19:15<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1406/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1406"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21602</a></td>
+</tr>
+<tr data-contestid="1407">
+<td style="width: auto;">Codeforces Round #669 (Div. 2)<br /><a href="https://codeforces.com/contest/1407">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1407/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master i.e" href="https://codeforces.com/profile/i.e">i.e</a><br /><a title="International Master realhype" href="https://codeforces.com/profile/realhype">realhype</a></td>
+<td style="width: auto;">Sep/08/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1407/standings">Final standings</a></div>
+<div>Solved: 2 out of 5</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1407"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22269</a></td>
+</tr>
+<tr data-contestid="1404">
+<td style="width: auto;">Codeforces Round #668 (Div. 1)<br /><a href="https://codeforces.com/contest/1404">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1404/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Ari" href="https://codeforces.com/profile/Ari">Ari</a><br /><a title="International Grandmaster Kuroni" href="https://codeforces.com/profile/Kuroni">Kuroni</a><br /><a title="International Grandmaster Maripium" href="https://codeforces.com/profile/Maripium">Maripium</a><br /><a title="Grandmaster Monogon" href="https://codeforces.com/profile/Monogon">Monogon</a><br /><a title="Grandmaster antontrygubO_o" href="https://codeforces.com/profile/antontrygubO_o">antontrygubO_o</a><br /><a title="International Grandmaster hugopm" href="https://codeforces.com/profile/hugopm">hugopm</a></td>
+<td style="width: auto;">Sep/06/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1404/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1404"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1869</a></td>
+</tr>
+<tr data-contestid="1405">
+<td style="width: auto;">Codeforces Round #668 (Div. 2)<br /><a href="https://codeforces.com/contest/1405">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1405/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Ari" href="https://codeforces.com/profile/Ari">Ari</a><br /><a title="International Grandmaster Kuroni" href="https://codeforces.com/profile/Kuroni">Kuroni</a><br /><a title="International Grandmaster Maripium" href="https://codeforces.com/profile/Maripium">Maripium</a><br /><a title="Grandmaster Monogon" href="https://codeforces.com/profile/Monogon">Monogon</a><br /><a title="Grandmaster antontrygubO_o" href="https://codeforces.com/profile/antontrygubO_o">antontrygubO_o</a><br /><a title="International Grandmaster hugopm" href="https://codeforces.com/profile/hugopm">hugopm</a></td>
+<td style="width: auto;">Sep/06/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1405/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1405"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21709</a></td>
+</tr>
+<tr data-contestid="1409">
+<td style="width: auto;">Codeforces Round #667 (Div. 3)<br /><a href="https://codeforces.com/contest/1409">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1409/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Sep/04/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1409/standings">Final standings</a></div>
+<div>Solved: 4 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1409"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x27319</a></td>
+</tr>
+<tr data-contestid="1396">
+<td style="width: auto;">Codeforces Round #666 (Div. 1)<br /><a href="https://codeforces.com/contest/1396">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1396/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Master DatVu" href="https://codeforces.com/profile/DatVu">DatVu</a><br /><a title="International Grandmaster Maripium" href="https://codeforces.com/profile/Maripium">Maripium</a><br /><a title="International Grandmaster MofK" href="https://codeforces.com/profile/MofK">MofK</a><br /><a title="Grandmaster atoiz" href="https://codeforces.com/profile/atoiz">atoiz</a></td>
+<td style="width: auto;">Aug/30/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1396/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1396"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1894</a></td>
+</tr>
+<tr data-contestid="1397">
+<td style="width: auto;">Codeforces Round #666 (Div. 2)<br /><a href="https://codeforces.com/contest/1397">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1397/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Master DatVu" href="https://codeforces.com/profile/DatVu">DatVu</a><br /><a title="International Grandmaster Maripium" href="https://codeforces.com/profile/Maripium">Maripium</a><br /><a title="International Grandmaster MofK" href="https://codeforces.com/profile/MofK">MofK</a><br /><a title="Grandmaster atoiz" href="https://codeforces.com/profile/atoiz">atoiz</a></td>
+<td style="width: auto;">Aug/30/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1397/standings">Final standings</a></div>
+<div>Solved: 1 out of 5</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1397"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21585</a></td>
+</tr>
+<tr data-contestid="1403">
+<td style="width: auto;">Central-European Olympiad in Informatics, CEOI 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)<br /><a href="https://codeforces.com/contest/1403">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1403/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Candidate Master Emarci15" href="https://codeforces.com/profile/Emarci15">Emarci15</a><br /><a title="Candidate Master birka0" href="https://codeforces.com/profile/birka0">birka0</a><br /><a title="Master busamate" href="https://codeforces.com/profile/busamate">busamate</a><br /><a title="Grandmaster mraron" href="https://codeforces.com/profile/mraron">mraron</a><br /><a title="Master niklaci" href="https://codeforces.com/profile/niklaci">niklaci</a></td>
+<td style="width: auto;">Aug/28/2020<br />17:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">05:10</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1403/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1403"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x3875</a></td>
+</tr>
+<tr data-contestid="1402">
+<td style="width: auto;">Central-European Olympiad in Informatics, CEOI 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)<br /><a href="https://codeforces.com/contest/1402">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1402/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master busamate" href="https://codeforces.com/profile/busamate">busamate</a><br /><a title="Grandmaster mraron" href="https://codeforces.com/profile/mraron">mraron</a><br /><a title="Master niklaci" href="https://codeforces.com/profile/niklaci">niklaci</a></td>
+<td style="width: auto;">Aug/26/2020<br />17:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">05:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1402/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1402"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x7000</a></td>
+</tr>
+<tr data-contestid="1400">
+<td style="width: auto;">Educational Codeforces Round 94 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1400">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1400/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Aug/25/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1400/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1400"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x24656</a></td>
+</tr>
+<tr data-contestid="1401">
+<td style="width: auto;">Codeforces Round #665 (Div. 2)<br /><a href="https://codeforces.com/contest/1401">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1401/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master Anus1373" href="https://codeforces.com/profile/Anus1373">Anus1373</a></td>
+<td style="width: auto;">Aug/21/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1401/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1401"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x23345</a></td>
+</tr>
+<tr data-contestid="1392">
+<td style="width: auto;">Codeforces Global Round 10<br /><a href="https://codeforces.com/contest/1392">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1392/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Master KLPP" href="https://codeforces.com/profile/KLPP">KLPP</a><br /><a title="Expert MagentaCobra" href="https://codeforces.com/profile/MagentaCobra">MagentaCobra</a><br /><a title="International Grandmaster Tlatoani" href="https://codeforces.com/profile/Tlatoani">Tlatoani</a><br /><a title="Master golions" href="https://codeforces.com/profile/golions">golions</a><br /><a title="Expert qlf9" href="https://codeforces.com/profile/qlf9">qlf9</a><br /><a title="International Grandmaster zscoder" href="https://codeforces.com/profile/zscoder">zscoder</a></td>
+<td style="width: auto;">Aug/16/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">03:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1392/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1392"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x19750</a></td>
+</tr>
+<tr data-contestid="1398">
+<td style="width: auto;">Educational Codeforces Round 93 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1398">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1398/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Aug/14/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1398/standings">Final standings</a></div>
+<div>Solved: 3 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1398"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22766</a></td>
+</tr>
+<tr data-contestid="1394">
+<td style="width: auto;">Codeforces Round #664 (Div. 1)<br /><a href="https://codeforces.com/contest/1394">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1394/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Master Xiejiadong" href="https://codeforces.com/profile/Xiejiadong">Xiejiadong</a><br /><a title="Grandmaster ZZZZZZZZZZZZZZZZZZ" href="https://codeforces.com/profile/ZZZZZZZZZZZZZZZZZZ">ZZZZZZZZZZZZZZZZZZ</a><br /><a title="Grandmaster dqa2020" href="https://codeforces.com/profile/dqa2020">dqa2020</a><br /><a title="International Master sshwyR" href="https://codeforces.com/profile/sshwyR">sshwyR</a><br /><a title="Master xryjr233" href="https://codeforces.com/profile/xryjr233">xryjr233</a></td>
+<td style="width: auto;">Aug/12/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1394/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1394"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1921</a></td>
+</tr>
+<tr data-contestid="1395">
+<td style="width: auto;">Codeforces Round #664 (Div. 2)<br /><a href="https://codeforces.com/contest/1395">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1395/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Master Xiejiadong" href="https://codeforces.com/profile/Xiejiadong">Xiejiadong</a><br /><a title="Grandmaster ZZZZZZZZZZZZZZZZZZ" href="https://codeforces.com/profile/ZZZZZZZZZZZZZZZZZZ">ZZZZZZZZZZZZZZZZZZ</a><br /><a title="Grandmaster dqa2020" href="https://codeforces.com/profile/dqa2020">dqa2020</a><br /><a title="International Master sshwyR" href="https://codeforces.com/profile/sshwyR">sshwyR</a><br /><a title="Master xryjr233" href="https://codeforces.com/profile/xryjr233">xryjr233</a></td>
+<td style="width: auto;">Aug/12/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1395/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1395"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22003</a></td>
+</tr>
+<tr data-contestid="1391">
+<td style="width: auto;">Codeforces Round #663 (Div. 2)<br /><a href="https://codeforces.com/contest/1391">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1391/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master SleepyShashwat" href="https://codeforces.com/profile/SleepyShashwat">SleepyShashwat</a></td>
+<td style="width: auto;">Aug/09/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1391/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1391"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22736</a></td>
+</tr>
+<tr data-contestid="1393">
+<td style="width: auto;">Codeforces Round #662 (Div. 2)<br /><a href="https://codeforces.com/contest/1393">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1393/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master 74TrAkToR" href="https://codeforces.com/profile/74TrAkToR">74TrAkToR</a><br /><a title="Master AlFlen" href="https://codeforces.com/profile/AlFlen">AlFlen</a></td>
+<td style="width: auto;">Aug/07/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1393/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1393"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x24636</a></td>
+</tr>
+<tr data-contestid="1399">
+<td style="width: auto;">Codeforces Round #661 (Div. 3)<br /><a href="https://codeforces.com/contest/1399">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1399/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Aug/05/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:15</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1399/standings">Final standings</a></div>
+<div>Solved: 3 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1399"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x27526</a></td>
+</tr>
+<tr data-contestid="1388">
+<td style="width: auto;">Codeforces Round #660 (Div. 2)<br /><a href="https://codeforces.com/contest/1388">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1388/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master Denisov" href="https://codeforces.com/profile/Denisov">Denisov</a><br /><a title="Expert Karavaev1101" href="https://codeforces.com/profile/Karavaev1101">Karavaev1101</a><br /><a title="International Master perekopskiy" href="https://codeforces.com/profile/perekopskiy">perekopskiy</a></td>
+<td style="width: auto;">Jul/30/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1388/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1388"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22662</a></td>
+</tr>
+<tr data-contestid="1389">
+<td style="width: auto;">Educational Codeforces Round 92 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1389">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1389/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Jul/29/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1389/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1389"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x24680</a></td>
+</tr>
+<tr data-contestid="1383">
+<td style="width: auto;">Codeforces Round #659 (Div. 1)<br /><a href="https://codeforces.com/contest/1383">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1383/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master Devil" href="https://codeforces.com/profile/Devil">Devil</a><br /><a title="Expert dcordb" href="https://codeforces.com/profile/dcordb">dcordb</a><br /><a title="Master gilcu3" href="https://codeforces.com/profile/gilcu3">gilcu3</a><br /><a title="Specialist jcg" href="https://codeforces.com/profile/jcg">jcg</a><br /><a title="Grandmaster marX" href="https://codeforces.com/profile/marX">marX</a></td>
+<td style="width: auto;">Jul/24/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1383/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1383"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1875</a></td>
+</tr>
+<tr data-contestid="1384">
+<td style="width: auto;">Codeforces Round #659 (Div. 2)<br /><a href="https://codeforces.com/contest/1384">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1384/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master Devil" href="https://codeforces.com/profile/Devil">Devil</a><br /><a title="Expert dcordb" href="https://codeforces.com/profile/dcordb">dcordb</a><br /><a title="Master gilcu3" href="https://codeforces.com/profile/gilcu3">gilcu3</a><br /><a title="Specialist jcg" href="https://codeforces.com/profile/jcg">jcg</a><br /><a title="Grandmaster marX" href="https://codeforces.com/profile/marX">marX</a></td>
+<td style="width: auto;">Jul/24/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1384/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1384"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x20480</a></td>
+</tr>
+<tr data-contestid="1387">
+<td style="width: auto;">Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)<br /><a href="https://codeforces.com/contest/1387">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1387/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster Alex_2oo8" href="https://codeforces.com/profile/Alex_2oo8">Alex_2oo8</a><br /><a title="Master KarlisS" href="https://codeforces.com/profile/KarlisS">KarlisS</a><br /><a title="Master Pakalns" href="https://codeforces.com/profile/Pakalns">Pakalns</a><br /><a title="Master Sanja" href="https://codeforces.com/profile/Sanja">Sanja</a><br /><a title="Expert andreyv" href="https://codeforces.com/profile/andreyv">andreyv</a><br /><a title="International Master eduardische" href="https://codeforces.com/profile/eduardische">eduardische</a><br /><a title="Master gen" href="https://codeforces.com/profile/gen">gen</a><br /><a title="Candidate Master nvilcins" href="https://codeforces.com/profile/nvilcins">nvilcins</a></td>
+<td style="width: auto;">Jul/23/2020<br />16:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">05:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1387/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1387"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x5217</a></td>
+</tr>
+<tr data-contestid="1386">
+<td style="width: auto;">Baltic Olympiad in Informatics 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)<br /><a href="https://codeforces.com/contest/1386">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1386/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster Alex_2oo8" href="https://codeforces.com/profile/Alex_2oo8">Alex_2oo8</a><br /><a title="Master KarlisS" href="https://codeforces.com/profile/KarlisS">KarlisS</a><br /><a title="Master Pakalns" href="https://codeforces.com/profile/Pakalns">Pakalns</a><br /><a title="Master Sanja" href="https://codeforces.com/profile/Sanja">Sanja</a><br /><a title="Expert andreyv" href="https://codeforces.com/profile/andreyv">andreyv</a><br /><a title="International Master eduardische" href="https://codeforces.com/profile/eduardische">eduardische</a><br /><a title="Master gen" href="https://codeforces.com/profile/gen">gen</a><br /><a title="Candidate Master nvilcins" href="https://codeforces.com/profile/nvilcins">nvilcins</a></td>
+<td style="width: auto;">Jul/22/2020<br />16:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">05:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1386/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1386"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x7818</a></td>
+</tr>
+<tr data-contestid="1381">
+<td style="width: auto;">Codeforces Round #658 (Div. 1)<br /><a href="https://codeforces.com/contest/1381">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1381/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Monogon" href="https://codeforces.com/profile/Monogon">Monogon</a></td>
+<td style="width: auto;">Jul/21/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1381/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1381"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x2038</a></td>
+</tr>
+<tr data-contestid="1382">
+<td style="width: auto;">Codeforces Round #658 (Div. 2)<br /><a href="https://codeforces.com/contest/1382">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1382/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Monogon" href="https://codeforces.com/profile/Monogon">Monogon</a></td>
+<td style="width: auto;">Jul/21/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1382/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1382"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22061</a></td>
+</tr>
+<tr data-contestid="1379">
+<td style="width: auto;">Codeforces Round #657 (Div. 2)<br /><a href="https://codeforces.com/contest/1379">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1379/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Legendary Grandmaster 300iq" href="https://codeforces.com/profile/300iq">300iq</a><br /><a title="Master DebNatkh" href="https://codeforces.com/profile/DebNatkh">DebNatkh</a><br /><a title="Master I_love_myself" href="https://codeforces.com/profile/I_love_myself">I_love_myself</a><br /><a title="Master KiKoS" href="https://codeforces.com/profile/KiKoS">KiKoS</a><br /><a title="International Grandmaster ch_egor" href="https://codeforces.com/profile/ch_egor">ch_egor</a><br /><a title="Master grphil" href="https://codeforces.com/profile/grphil">grphil</a><br /><a title="International Grandmaster isaf27" href="https://codeforces.com/profile/isaf27">isaf27</a><br /><a title="Grandmaster meshanya" href="https://codeforces.com/profile/meshanya">meshanya</a><br /><a title="International Grandmaster vintage_Vlad_Makeev" href="https://codeforces.com/profile/vintage_Vlad_Makeev">vintage_Vlad_Makeev</a><br /><a title="Grandmaster voidmax" href="https://codeforces.com/profile/voidmax">voidmax</a></td>
+<td style="width: auto;">Jul/19/2020<br />14:30<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1379/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1379"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x20326</a></td>
+</tr>
+<tr data-contestid="1385">
+<td style="width: auto;">Codeforces Round #656 (Div. 3)<br /><a href="https://codeforces.com/contest/1385">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1385/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Jul/17/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:15</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1385/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1385"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x25407</a></td>
+</tr>
+<tr data-contestid="1380">
+<td style="width: auto;">Educational Codeforces Round 91 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1380">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1380/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Jul/12/2020<br />20:15<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1380/standings">Final standings</a></div>
+<div>Solved: 1 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1380"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21163</a></td>
+</tr>
+<tr data-contestid="1372">
+<td style="width: auto;">Codeforces Round #655 (Div. 2)<br /><a href="https://codeforces.com/contest/1372">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1372/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Expert MagentaCobra" href="https://codeforces.com/profile/MagentaCobra">MagentaCobra</a><br /><a title="International Grandmaster Tlatoani" href="https://codeforces.com/profile/Tlatoani">Tlatoani</a><br /><a title="Master golions" href="https://codeforces.com/profile/golions">golions</a><br /><a title="Expert qlf9" href="https://codeforces.com/profile/qlf9">qlf9</a></td>
+<td style="width: auto;">Jul/11/2020<br />20:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1372/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1372"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x24947</a></td>
+</tr>
+<tr data-contestid="1375">
+<td style="width: auto;">Codeforces Global Round 9<br /><a href="https://codeforces.com/contest/1375">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1375/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Ari" href="https://codeforces.com/profile/Ari">Ari</a><br /><a title="International Grandmaster Kuroni" href="https://codeforces.com/profile/Kuroni">Kuroni</a><br /><a title="Grandmaster MrDecomposition" href="https://codeforces.com/profile/MrDecomposition">MrDecomposition</a><br /><a title="Master Ynoi" href="https://codeforces.com/profile/Ynoi">Ynoi</a><br /><a title="Grandmaster adamant" href="https://codeforces.com/profile/adamant">adamant</a><br /><a title="Grandmaster antontrygubO_o" href="https://codeforces.com/profile/antontrygubO_o">antontrygubO_o</a><br /><a title="Master dengyaotriangle" href="https://codeforces.com/profile/dengyaotriangle">dengyaotriangle</a><br /><a title="International Grandmaster hugopm" href="https://codeforces.com/profile/hugopm">hugopm</a></td>
+<td style="width: auto;">Jul/04/2020<br />20:15<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1375/standings">Final standings</a></div>
+<div>Solved: 2 out of 9</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1375"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21150</a></td>
+</tr>
+<tr data-contestid="1371">
+<td style="width: auto;">Codeforces Round #654 (Div. 2)<br /><a href="https://codeforces.com/contest/1371">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1371/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master physics0523" href="https://codeforces.com/profile/physics0523">physics0523</a></td>
+<td style="width: auto;">Jul/01/2020<br />19:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1371/standings">Final standings</a></div>
+<div>Solved: 2 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1371"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21625</a></td>
+</tr>
+<tr data-contestid="1374">
+<td style="width: auto;">Codeforces Round #653 (Div. 3)<br /><a href="https://codeforces.com/contest/1374">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1374/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Jun/28/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1374/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1374"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x23325</a></td>
+</tr>
+<tr data-contestid="1378">
+<td style="width: auto;">ICPC Challenge 2020: Marathon<br /><a href="https://codeforces.com/contest/1378">Enter &raquo;</a></td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;">Jun/27/2020<br />21:00<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">7:00:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1378/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1378"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x2891</a></td>
+</tr>
+<tr data-contestid="1377">
+<td style="width: auto;">ICPC Challenge 2020<br /><a href="https://codeforces.com/contest/1377">Enter &raquo;</a></td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;">Jun/27/2020<br />16:30<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">03:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1377/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1377"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x7124</a></td>
+</tr>
+<tr data-contestid="1373">
+<td style="width: auto;">Educational Codeforces Round 90 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1373">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1373/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Jun/25/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1373/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1373"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22331</a></td>
+</tr>
+<tr data-contestid="1376">
+<td style="width: auto;">ICPC Challenge 2020: Practice<br /><a href="https://codeforces.com/contest/1376">Enter &raquo;</a></td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;">Jun/25/2020<br />16:30<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">1:23:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1376/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1376"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x15005</a></td>
+</tr>
+<tr data-contestid="1369">
+<td style="width: auto;">Codeforces Round #652 (Div. 2)<br /><a href="https://codeforces.com/contest/1369">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1369/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Candidate Master AS.82" href="https://codeforces.com/profile/AS.82">AS.82</a><br /><a title="Master DeadlyCritic" href="https://codeforces.com/profile/DeadlyCritic">DeadlyCritic</a><br /><a title="Master amiralisalimi" href="https://codeforces.com/profile/amiralisalimi">amiralisalimi</a><br /><a title="Candidate Master davooddkareshki" href="https://codeforces.com/profile/davooddkareshki">davooddkareshki</a></td>
+<td style="width: auto;">Jun/23/2020<br />19:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1369/standings">Final standings</a></div>
+<div>Solved: 1 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1369"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21331</a></td>
+</tr>
+<tr data-contestid="1370">
+<td style="width: auto;">Codeforces Round #651 (Div. 2)<br /><a href="https://codeforces.com/contest/1370">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1370/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Ashishgup" href="https://codeforces.com/profile/Ashishgup">Ashishgup</a><br /><a title="Master FastestFinger" href="https://codeforces.com/profile/FastestFinger">FastestFinger</a><br /><a title="Expert ridbit10" href="https://codeforces.com/profile/ridbit10">ridbit10</a><br /><a title="Candidate Master smartnj" href="https://codeforces.com/profile/smartnj">smartnj</a><br /><a title="Candidate Master the_hyp0cr1t3" href="https://codeforces.com/profile/the_hyp0cr1t3">the_hyp0cr1t3</a></td>
+<td style="width: auto;">Jun/20/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:15</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1370/standings">Final standings</a></div>
+<div>Solved: 1 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1370"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22002</a></td>
+</tr>
+<tr data-contestid="1357">
+<td style="width: auto;">Microsoft Q# Coding Contest - Summer 2020<br /><a href="https://codeforces.com/contest/1357">Enter &raquo;</a></td>
+<td style="width: auto;"><a title="Expert Nickolas" href="https://codeforces.com/profile/Nickolas">Nickolas</a><br /><a title="Unrated, msoeken" href="https://codeforces.com/profile/msoeken">msoeken</a></td>
+<td style="width: auto;">Jun/19/2020<br />21:30<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">3:00:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1357/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1357"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x10641</a></td>
+</tr>
+<tr data-contestid="1368">
+<td style="width: auto;">Codeforces Global Round 8<br /><a href="https://codeforces.com/contest/1368">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1368/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Legendary Grandmaster Endagorion" href="https://codeforces.com/profile/Endagorion">Endagorion</a></td>
+<td style="width: auto;">Jun/18/2020<br />20:15<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1368/standings">Final standings</a></div>
+<div>Solved: 1 out of 9</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1368"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x20791</a></td>
+</tr>
+<tr data-contestid="1367">
+<td style="width: auto;">Codeforces Round #650 (Div. 3)<br /><a href="https://codeforces.com/contest/1367">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1367/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master Stepavly" href="https://codeforces.com/profile/Stepavly">Stepavly</a><br /><a title="Master Supermagzzz" href="https://codeforces.com/profile/Supermagzzz">Supermagzzz</a></td>
+<td style="width: auto;">Jun/16/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1367/standings">Final standings</a></div>
+<div>Solved: 2 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1367"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x25750</a></td>
+</tr>
+<tr data-contestid="1364">
+<td style="width: auto;">Codeforces Round #649 (Div. 2)<br /><a href="https://codeforces.com/contest/1364">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1364/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster mohammedehab2002" href="https://codeforces.com/profile/mohammedehab2002">mohammedehab2002</a></td>
+<td style="width: auto;">Jun/13/2020<br />20:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1364/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1364"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x19835</a></td>
+</tr>
+<tr data-contestid="1356">
+<td style="width: auto;">Microsoft Q# Coding Contest - Summer 2020 - Warmup<br /><a href="https://codeforces.com/contest/1356">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1356/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Expert Nickolas" href="https://codeforces.com/profile/Nickolas">Nickolas</a><br /><a title="Unrated, msoeken" href="https://codeforces.com/profile/msoeken">msoeken</a></td>
+<td style="width: auto;">Jun/12/2020<br />21:30<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">3:00:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1356/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1356"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x12449</a></td>
+</tr>
+<tr data-contestid="1366">
+<td style="width: auto;">Educational Codeforces Round 89 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1366">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1366/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Jun/11/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1366/standings">Final standings</a></div>
+<div>Solved: 1 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1366"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21882</a></td>
+</tr>
+<tr data-contestid="1365">
+<td style="width: auto;">Codeforces Round #648 (Div. 2)<br /><a href="https://codeforces.com/contest/1365">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1365/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Ashishgup" href="https://codeforces.com/profile/Ashishgup">Ashishgup</a><br /><a title="Master FastestFinger" href="https://codeforces.com/profile/FastestFinger">FastestFinger</a><br /><a title="Master Vivek1998299" href="https://codeforces.com/profile/Vivek1998299">Vivek1998299</a><br /><a title="Expert ridbit10" href="https://codeforces.com/profile/ridbit10">ridbit10</a></td>
+<td style="width: auto;">Jun/07/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:15</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1365/standings">Final standings</a></div>
+<div>Solved: 1 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1365"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22843</a></td>
+</tr>
+<tr data-contestid="1361">
+<td style="width: auto;">Codeforces Round #647 (Div. 1) - Thanks, Algo Muse!<br /><a href="https://codeforces.com/contest/1361">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1361/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster Anadi" href="https://codeforces.com/profile/Anadi">Anadi</a><br /><a title="Master Grzmot" href="https://codeforces.com/profile/Grzmot">Grzmot</a><br /><a title="International Grandmaster MicGor" href="https://codeforces.com/profile/MicGor">MicGor</a><br /><a title="International Master Okrut" href="https://codeforces.com/profile/Okrut">Okrut</a></td>
+<td style="width: auto;">Jun/04/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1361/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1361"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1870</a></td>
+</tr>
+<tr data-contestid="1362">
+<td style="width: auto;">Codeforces Round #647 (Div. 2) - Thanks, Algo Muse!<br /><a href="https://codeforces.com/contest/1362">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1362/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster Anadi" href="https://codeforces.com/profile/Anadi">Anadi</a><br /><a title="Master Grzmot" href="https://codeforces.com/profile/Grzmot">Grzmot</a><br /><a title="International Grandmaster MicGor" href="https://codeforces.com/profile/MicGor">MicGor</a><br /><a title="International Master Okrut" href="https://codeforces.com/profile/Okrut">Okrut</a></td>
+<td style="width: auto;">Jun/04/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1362/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1362"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x19754</a></td>
+</tr>
+<tr data-contestid="1363">
+<td style="width: auto;">Codeforces Round #646 (Div. 2)<br /><a href="https://codeforces.com/contest/1363">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1363/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Ashishgup" href="https://codeforces.com/profile/Ashishgup">Ashishgup</a><br /><a title="Master FastestFinger" href="https://codeforces.com/profile/FastestFinger">FastestFinger</a><br /><a title="Master TheOneYouWant" href="https://codeforces.com/profile/TheOneYouWant">TheOneYouWant</a></td>
+<td style="width: auto;">May/31/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1363/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1363"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21867</a></td>
+</tr>
+<tr data-contestid="1346">
+<td style="width: auto;">Kotlin Heroes: Episode 4<br /><a href="https://codeforces.com/contest/1346">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1346/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">May/29/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1346/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1346"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x7694</a></td>
+</tr>
+<tr data-contestid="1359">
+<td style="width: auto;">Educational Codeforces Round 88 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1359">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1359/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">May/28/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1359/standings">Final standings</a></div>
+<div>Solved: 1 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1359"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22728</a></td>
+</tr>
+<tr data-contestid="1358">
+<td style="width: auto;">Codeforces Round #645 (Div. 2)<br /><a href="https://codeforces.com/contest/1358">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1358/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master Alexdat2000" href="https://codeforces.com/profile/Alexdat2000">Alexdat2000</a><br /><a title="Master Sevlll" href="https://codeforces.com/profile/Sevlll">Sevlll</a><br /><a title="Master ilian04" href="https://codeforces.com/profile/ilian04">ilian04</a></td>
+<td style="width: auto;">May/26/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1358/standings">Final standings</a></div>
+<div>Solved: 2 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1358"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x23253</a></td>
+</tr>
+<tr data-contestid="1360">
+<td style="width: auto;">Codeforces Round #644 (Div. 3)<br /><a href="https://codeforces.com/contest/1360">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1360/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master Stepavly" href="https://codeforces.com/profile/Stepavly">Stepavly</a><br /><a title="Master Supermagzzz" href="https://codeforces.com/profile/Supermagzzz">Supermagzzz</a></td>
+<td style="width: auto;">May/24/2020<br />19:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1360/standings">Final standings</a></div>
+<div>Solved: 3 out of 8</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1360"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22139</a></td>
+</tr>
+<tr data-contestid="1347">
+<td style="width: auto;">Kotlin Heroes: Practice 4<br /><a href="https://codeforces.com/contest/1347">Enter &raquo;</a></td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;">May/22/2020<br />19:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">7:00:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1347/standings">Final standings</a></div>
+<div>Solved: 1 out of 5</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1347"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x7081</a></td>
+</tr>
+<tr data-contestid="1354">
+<td style="width: auto;">Educational Codeforces Round 87 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1354">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1354/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">May/17/2020<br />14:50<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1354/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1354"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x20309</a></td>
+</tr>
+<tr data-contestid="1355">
+<td style="width: auto;">Codeforces Round #643 (Div. 2)<br /><a href="https://codeforces.com/contest/1355">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1355/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Candidate Master DishonoredRighteous" href="https://codeforces.com/profile/DishonoredRighteous">DishonoredRighteous</a><br /><a title="Expert Masha237" href="https://codeforces.com/profile/Masha237">Masha237</a><br /><a title="Expert Villen3tenmerth" href="https://codeforces.com/profile/Villen3tenmerth">Villen3tenmerth</a><br /><a title="Master fake123" href="https://codeforces.com/profile/fake123">fake123</a><br /><a title="Master iura" href="https://codeforces.com/profile/iura">iura</a></td>
+<td style="width: auto;">May/16/2020<br />17:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1355/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1355"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21742</a></td>
+</tr>
+<tr data-contestid="1353">
+<td style="width: auto;">Codeforces Round #642 (Div. 3)<br /><a href="https://codeforces.com/contest/1353">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1353/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">May/14/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1353/standings">Final standings</a></div>
+<div>Solved: 2 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1353"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x25728</a></td>
+</tr>
+<tr data-contestid="1349">
+<td style="width: auto;">Codeforces Round #641 (Div. 1)<br /><a href="https://codeforces.com/contest/1349">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1349/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster A.K.E.E." href="https://codeforces.com/profile/A.K.E.E.">A.K.E.E.</a><br /><a title="International Grandmaster Fulisike" href="https://codeforces.com/profile/Fulisike">Fulisike</a><br /><a title="Candidate Master ProgSlacking" href="https://codeforces.com/profile/ProgSlacking">ProgSlacking</a><br /><a title="Candidate Master mydiplomacy" href="https://codeforces.com/profile/mydiplomacy">mydiplomacy</a></td>
+<td style="width: auto;">May/12/2020<br />18:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1349/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1349"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1799</a></td>
+</tr>
+<tr data-contestid="1350">
+<td style="width: auto;">Codeforces Round #641 (Div. 2)<br /><a href="https://codeforces.com/contest/1350">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1350/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster A.K.E.E." href="https://codeforces.com/profile/A.K.E.E.">A.K.E.E.</a><br /><a title="International Grandmaster Fulisike" href="https://codeforces.com/profile/Fulisike">Fulisike</a><br /><a title="Candidate Master ProgSlacking" href="https://codeforces.com/profile/ProgSlacking">ProgSlacking</a><br /><a title="Candidate Master mydiplomacy" href="https://codeforces.com/profile/mydiplomacy">mydiplomacy</a></td>
+<td style="width: auto;">May/12/2020<br />18:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1350/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1350"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x19117</a></td>
+</tr>
+<tr data-contestid="1352">
+<td style="width: auto;">Codeforces Round #640 (Div. 4)<br /><a href="https://codeforces.com/contest/1352">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1352/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a></td>
+<td style="width: auto;">May/09/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1352/standings">Final standings</a></div>
+<div>Solved: 2 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1352"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x28404</a></td>
+</tr>
+<tr data-contestid="1351">
+<td style="width: auto;">Testing Round #16 (Unrated)<br /><a href="https://codeforces.com/contest/1351">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1351/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;">&nbsp;</td>
+<td style="width: auto;">May/07/2020<br />19:35<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">01:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1351/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1351"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x9443</a></td>
+</tr>
+<tr data-contestid="1344">
+<td style="width: auto;">Codeforces Round #639 (Div. 1)<br /><a href="https://codeforces.com/contest/1344">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1344/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Monogon" href="https://codeforces.com/profile/Monogon">Monogon</a></td>
+<td style="width: auto;">May/06/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:15</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1344/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1344"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x2268</a></td>
+</tr>
+<tr data-contestid="1345">
+<td style="width: auto;">Codeforces Round #639 (Div. 2)<br /><a href="https://codeforces.com/contest/1345">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1345/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster Monogon" href="https://codeforces.com/profile/Monogon">Monogon</a></td>
+<td style="width: auto;">May/06/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:15</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1345/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1345"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x26420</a></td>
+</tr>
+<tr data-contestid="1348">
+<td style="width: auto;">Codeforces Round #638 (Div. 2)<br /><a href="https://codeforces.com/contest/1348">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1348/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Master FieryPhoenix" href="https://codeforces.com/profile/FieryPhoenix">FieryPhoenix</a></td>
+<td style="width: auto;">May/01/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1348/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1348"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x24059</a></td>
+</tr>
+<tr data-contestid="1342">
+<td style="width: auto;">Educational Codeforces Round 86 (Rated for Div. 2)<br /><a href="https://codeforces.com/contest/1342">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1342/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster BledDest" href="https://codeforces.com/profile/BledDest">BledDest</a><br /><a title="Candidate Master Ne0n25" href="https://codeforces.com/profile/Ne0n25">Ne0n25</a><br /><a title="Master Roms" href="https://codeforces.com/profile/Roms">Roms</a><br /><a title="International Master adedalic" href="https://codeforces.com/profile/adedalic">adedalic</a><br /><a title="Grandmaster pikmike" href="https://codeforces.com/profile/pikmike">pikmike</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Apr/26/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1342/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1342"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x22515</a></td>
+</tr>
+<tr data-contestid="1340">
+<td style="width: auto;">Codeforces Round #637 (Div. 1) - Thanks, Ivan Belonogov!<br /><a href="https://codeforces.com/contest/1340">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1340/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster Aleks5d" href="https://codeforces.com/profile/Aleks5d">Aleks5d</a><br /><a title="Master I_love_myself" href="https://codeforces.com/profile/I_love_myself">I_love_myself</a><br /><a title="Master alexX512" href="https://codeforces.com/profile/alexX512">alexX512</a></td>
+<td style="width: auto;">Apr/23/2020<br />20:15<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1340/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1340"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1870</a></td>
+</tr>
+<tr data-contestid="1341">
+<td style="width: auto;">Codeforces Round #637 (Div. 2) - Thanks, Ivan Belonogov!<br /><a href="https://codeforces.com/contest/1341">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1341/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="International Grandmaster Aleks5d" href="https://codeforces.com/profile/Aleks5d">Aleks5d</a><br /><a title="Master I_love_myself" href="https://codeforces.com/profile/I_love_myself">I_love_myself</a><br /><a title="Master alexX512" href="https://codeforces.com/profile/alexX512">alexX512</a></td>
+<td style="width: auto;">Apr/23/2020<br />20:15<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1341/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1341"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x23207</a></td>
+</tr>
+<tr data-contestid="1343">
+<td style="width: auto;">Codeforces Round #636 (Div. 3)<br /><a href="https://codeforces.com/contest/1343">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1343/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Apr/21/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1343/standings">Final standings</a></div>
+<div>Solved: 2 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1343"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x28747</a></td>
+</tr>
+<tr data-contestid="1336">
+<td style="width: auto;">Codeforces Round #635 (Div. 1)<br /><a href="https://codeforces.com/contest/1336">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1336/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster EternalAlexander" href="https://codeforces.com/profile/EternalAlexander">EternalAlexander</a><br /><a title="International Grandmaster Sooke" href="https://codeforces.com/profile/Sooke">Sooke</a><br /><a title="Master ustze" href="https://codeforces.com/profile/ustze">ustze</a></td>
+<td style="width: auto;">Apr/15/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1336/standings">Final standings</a></div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1336"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x1999</a></td>
+</tr>
+<tr data-contestid="1337">
+<td style="width: auto;">Codeforces Round #635 (Div. 2)<br /><a href="https://codeforces.com/contest/1337">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1337/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Grandmaster EternalAlexander" href="https://codeforces.com/profile/EternalAlexander">EternalAlexander</a><br /><a title="International Grandmaster Sooke" href="https://codeforces.com/profile/Sooke">Sooke</a><br /><a title="Master ustze" href="https://codeforces.com/profile/ustze">ustze</a></td>
+<td style="width: auto;">Apr/15/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:30</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1337/standings">Final standings</a></div>
+<div>Solved: 2 out of 6</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1337"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x21686</a></td>
+</tr>
+<tr data-contestid="1335">
+<td style="width: auto;">Codeforces Round #634 (Div. 3)<br /><a href="https://codeforces.com/contest/1335">Enter &raquo;</a><br /><a href="https://codeforces.com/contest/1335/virtual">Virtual participation &raquo;</a></td>
+<td style="width: auto;"><a title="Headquarters, MikeMirzayanov" href="https://codeforces.com/profile/MikeMirzayanov">MikeMirzayanov</a><br /><a title="Master vovuh" href="https://codeforces.com/profile/vovuh">vovuh</a></td>
+<td style="width: auto;">Apr/13/2020<br />20:05<sup title="timezone offset">UTC+5.5</sup></td>
+<td style="width: auto;">02:00</td>
+<td style="width: auto;">
+<div><a href="https://codeforces.com/contest/1335/standings">Final standings</a></div>
+<div>Solved: 2 out of 7</div>
+</td>
+<td style="width: auto;"><a title="Registered" href="https://codeforces.com/contestRegistrants/1335"><img src="https://sta.codeforces.com/s/57257/images/icons/user.png" />&nbsp;x25894</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div>
+<ul style="list-style-type: none;">&larr;&nbsp;
+<li><a href="https://codeforces.com/contests/page/1">1</a>&nbsp;</li>
+<li><a href="https://codeforces.com/contests/page/2">2</a>&nbsp;</li>
+<li><a href="https://codeforces.com/contests/page/3">3</a>&nbsp;</li>
+<li>...&nbsp;</li>
+<li><a href="https://codeforces.com/contests/page/13">13</a>&nbsp;</li>
+<li><a href="https://codeforces.com/contests/page/14">14</a>&nbsp;</li>
+<li><a href="https://codeforces.com/contests/page/2">&rarr;</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<div id="footer">
+<div><a href="https://codeforces.com/">Codeforces</a>&nbsp;(c) Copyright 2010-2020 Mike Mirzayanov</div>
+<div>The only programming contests Web 2.0 platform</div>
+<div>Server time:&nbsp;Nov/14/2020 23:14:47<sup title="timezone offset">UTC+5.5</sup>&nbsp;(h1).</div>
+<div>Desktop version, switch to&nbsp;<a href="https://codeforces.com/contests?mobile=true" rel="nofollow">mobile version</a>.</div>
+<div><a href="https://codeforces.com/privacy">Privacy Policy</a></div>
+<div>Supported by</div>
+<div><a href="https://telegram.org/"><img style="width: 60px;" title="Telegram" src="https://sta.codeforces.com/s/57257/images/telegram-100x100.png" alt="Telegram" /></a>&nbsp;<a href="http://ifmo.ru/en/"><img style="width: 120px;" title="ИТМО" src="https://sta.codeforces.com/s/57257/images/itmo_small_en-logo.png" alt="ИТМО" /></a></div>
+</div>

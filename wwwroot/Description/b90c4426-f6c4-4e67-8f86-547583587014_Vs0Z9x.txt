@@ -1,0 +1,919 @@
+<p><iframe src="https://www.youtube.com/embed/5e4NkzNG1Uk" width="967" height="544" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">Hello I Am Anil Parmar And This Is Title</p>
+<p style="text-align: left;">Ok now i copy and past</p>
+<div id="content">
+<div id="masthead-container">
+<div id="container">
+<div id="start"><span id="country-code">IN</span>
+<div id="skip-navigation"><a tabindex="-1">SKIP NAVIGATION</a></div>
+</div>
+<div id="center"><form id="search-form" action="https://www.youtube.com/results">
+<div id="container">
+<div id="search-input"><input id="search" dir="ltr" tabindex="0" role="combobox" spellcheck="false" autocomplete="off" name="search_query" type="text" placeholder="Search" aria-autocomplete="list" aria-haspopup="false" aria-label="Search" /></div>
+<div id="search-container"></div>
+</div>
+<button id="search-icon-legacy" aria-label="Search"></button></form>
+<div id="voice-search-button"></div>
+</div>
+<div id="end">
+<div id="buttons">
+<div id="button"><a tabindex="-1"><button id="button" aria-label="Create"></button></a></div>
+<div id="button"><a tabindex="-1"><button id="button" aria-label="YouTube apps"></button></a></div>
+<div id="button"><a tabindex="-1"><button id="button" aria-label="Notifications"></button></a></div>
+<div id="notification-count">2</div>
+<button id="avatar-btn" aria-label="Account profile photo that opens list of alternative accounts" aria-haspopup="true"><img id="img" src="https://lh5.googleusercontent.com/-8a-IqooQjc0/AAAAAAAAAAI/AAAAAAAAISY/AMZuuclJ38F6peZgfO9W66FpEMvrM2D1Lg/s88-c-k-c0x00ffffff-no-rj-mo/photo.jpg" alt="Avatar image" width="32" height="32" /></button>
+<div id="button"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="scrim"></div>
+<div id="contentContainer">
+<div id="guide-wrapper">
+<div id="guide-content">
+<div id="header"><button id="button" aria-pressed="true"></button>
+<div id="logo-icon-container"></div>
+<a id="logo" title="YouTube Home" href="https://www.youtube.com/"></a><span id="country-code"></span></div>
+<div id="guide-inner-content">
+<div id="sections">
+<div id="items"><a id="endpoint" tabindex="-1" title="Home" role="tablist" href="https://www.youtube.com/"></a><a id="endpoint" tabindex="-1" title="Trending" role="tablist" href="https://www.youtube.com/feed/trending"></a><a id="endpoint" tabindex="-1" title="Subscriptions" role="tablist" href="https://www.youtube.com/feed/subscriptions"></a>
+<div id="header"><a id="endpoint" tabindex="-1" title="Library" role="tablist" href="https://www.youtube.com/feed/library"></a></div>
+<div id="section-items"><a id="endpoint" tabindex="-1" title="History" role="tablist" href="https://www.youtube.com/feed/history"></a><a id="endpoint" tabindex="-1" title="Your videos" role="tablist" href="https://studio.youtube.com/channel/UCvVwQRXoLr98Qt0_9RITrUw/videos"></a><a id="endpoint" tabindex="-1" title="Your movies" role="tablist" href="https://www.youtube.com/feed/storefront?bp=ogUCKAQ%3D"></a><a id="endpoint" tabindex="-1" title="Watch later" role="tablist" href="https://www.youtube.com/playlist?list=WL"></a><a id="endpoint" tabindex="-1" title="Show more" role="tablist"></a></div>
+</div>
+<h3>&nbsp;</h3>
+<div id="items"><a id="endpoint" tabindex="-1" title="Republic Bharat" role="tablist" href="https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKng"><img id="img" src="https://yt3.ggpht.com/a/AATXAJxtrm1b4Pl1W8yvhOkdLD4hIPkUUOXpyIcwNYHVOA=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" /></a><a id="endpoint" tabindex="-1" title="Republic World" role="tablist" href="https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw"><img id="img" src="https://yt3.ggpht.com/a/AATXAJwP9QqydXcDvv5v5sXMQZG3OgWQ0isG4V8JRBNF8g=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" /></a><a id="endpoint" tabindex="-1" title="BAPS Swaminarayan Mandirs India" role="tablist" href="https://www.youtube.com/channel/UCHkAu1PGCW94tkNNZT6Ptiw"><img id="img" src="https://yt3.ggpht.com/a/AATXAJyoT7a6wtY8Jg8aJkzCiCY-6TTYRv8qWukIzaey=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" /></a><a id="endpoint" tabindex="-1" title="WebGentle" role="tablist" href="https://www.youtube.com/channel/UC2Us1KkV7BMm5Rp6tV6tTxg"><img id="img" src="https://yt3.ggpht.com/ytc/AAUvwnit5p67THP7JmaoJaBCSilDwrMfpnyxWP3ehOmxCA=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" /></a><a tabindex="-1" title="BAPS India Satsang" role="tablist" href="https://www.youtube.com/channel/UCh2OZd6UJl_0U3DLmLRzz2w"><img id="img" src="https://yt3.ggpht.com/a/AATXAJyM1dBAN28WBzVQKF0Uy5BClvx8eFeG2bqz7HnV=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" /></a>
+<div id="newness-dot"></div>
+<a id="endpoint" tabindex="-1" title="BAPS India Satsang" role="tablist" href="https://www.youtube.com/channel/UCh2OZd6UJl_0U3DLmLRzz2w"></a><a id="endpoint" tabindex="-1" title="Rajiv Dixit Speech" role="tablist" href="https://www.youtube.com/channel/UCci70M8aP1LQRRcjUzUmCDw"><img id="img" src="https://yt3.ggpht.com/a/AATXAJzew5vVxBM65HwU4HrYkQISLMImX8awkZ1OEGP2=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" /></a><a tabindex="-1" title="Bharatiya Janata Party" role="tablist" href="https://www.youtube.com/channel/UCrwE8kVqtIUVUzKui2WVpuQ"><img id="img" src="https://yt3.ggpht.com/a/AATXAJzYap4TZ5xVxi34lU-mzBME7ZoS6VYykGEntaQJ4E0=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" /></a>
+<div id="newness-dot"></div>
+<a id="endpoint" tabindex="-1" title="Bharatiya Janata Party" role="tablist" href="https://www.youtube.com/channel/UCrwE8kVqtIUVUzKui2WVpuQ"></a><a id="endpoint" tabindex="-1" title="Show 292 more" role="tablist"></a></div>
+<h3>&nbsp;</h3>
+<div id="items"><a id="endpoint" tabindex="-1" title="YouTube Premium" role="tablist" href="https://www.youtube.com/premium"></a><a id="endpoint" tabindex="-1" title="Films" role="tablist" href="https://www.youtube.com/feed/storefront?bp=ogUCKAI%3D"></a><a id="endpoint" tabindex="-1" title="Gaming" role="tablist" href="https://www.youtube.com/gaming"></a><a id="endpoint" tabindex="-1" title="Live" role="tablist" href="https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig"></a><a id="endpoint" tabindex="-1" title="Fashion &amp; beauty" role="tablist" href="https://www.youtube.com/channel/UCrpQ4p1Ql_hG8rKXIKM1MOQ"></a><a id="endpoint" tabindex="-1" title="Learning" role="tablist" href="https://www.youtube.com/channel/UCtFRv9O2AHqOZjjynzrv-xg"></a></div>
+<div id="items"><a id="endpoint" tabindex="-1" title="Settings" role="tablist" href="https://www.youtube.com/account"></a><a id="endpoint" tabindex="-1" title="Report history" role="tablist" href="https://www.youtube.com/reporthistory"></a><a id="endpoint" tabindex="-1" title="Help" role="tablist"></a><a id="endpoint" tabindex="-1" title="Send feedback" role="tablist"></a></div>
+</div>
+<div id="footer">
+<div id="guide-links-primary"></div>
+<div id="guide-links-secondary"></div>
+<div id="vat-notice"></div>
+<div id="copyright">
+<div dir="ltr">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="microformat"></div>
+<div id="miniplayer-bar"></div>
+<div id="player-theater-container"></div>
+<div id="columns">
+<div id="primary">
+<div id="primary-inner">
+<div id="player">
+<div id="player-container-outer">
+<div id="player-container-inner">
+<div id="player-container" role="complementary">
+<div id="container">
+<div id="movie_player" tabindex="-1" aria-label="YouTube Video Player" data-version="/s/player/c299662f/player_ias.vflset/en_GB/base.js">
+<div data-layer="0">&nbsp;</div>
+<div data-layer="1">
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div data-layer="4" aria-atomic="true" aria-live="assertive">&nbsp;</div>
+<div data-layer="4">&nbsp;</div>
+<div data-layer="4">
+<div>&nbsp;</div>
+<div>
+<div><img src="https://i.ytimg.com/an/oxHcKQI15tY17h3UduZuZw/featured_channel.jpg?v=5f303903" width="40" height="40" aria-label="Channel watermark" /></div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div data-layer="4">
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div tabindex="0" data-layer="4" aria-hidden="true" aria-label="Manual of Mankind, channel">
+<div>&nbsp;</div>
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div aria-label="Unsubscribe from channel">
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div tabindex="0" data-layer="4" aria-hidden="true" aria-label="14 videos, Mahant swami maharaj special video">
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div dir="ltr">&nbsp;</div>
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div tabindex="0" data-layer="4" aria-hidden="true" aria-label="15 videos, Baps new kirtan 2020">
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div dir="ltr">&nbsp;</div>
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div data-layer="8">&nbsp;</div>
+<div data-layer="8">
+<div>
+<div tabindex="0" role="slider" draggable="true" aria-valuetext="1 Minutes 48 Seconds of 27 Minutes 26 Seconds" aria-valuenow="108" aria-valuemax="1646" aria-valuemin="0" aria-label="Seek slider">
+<div>
+<div>
+<div>&nbsp;</div>
+<div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div><button title="Pause (k)" aria-label="Pause (k)"></button><button title="Mute (m)" aria-label="Mute (m)"></button>
+<div tabindex="0" role="slider" aria-valuetext="100% volume" aria-valuenow="100" aria-valuemax="100" aria-valuemin="0">
+<div draggable="true">
+<div>&nbsp;</div>
+</div>
+</div>
+<div>1:48&nbsp;/&nbsp;27:26</div>
+</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="alerts"></div>
+<div id="messages"></div>
+<div id="clarify-box"></div>
+<div id="info">
+<div id="info-contents">
+<div id="container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/results?search_query=%23bapsdiwalikirtan">#bapsdiwalikirtan</a><span dir="auto">&nbsp;</span><a dir="auto" spellcheck="false" href="https://www.youtube.com/results?search_query=%23dindindiwali">#dindindiwali</a><span dir="auto">&nbsp;</span><a dir="auto" spellcheck="false" href="https://www.youtube.com/results?search_query=%23manualofmankind">#manualofmankind</a>
+<h1>Nonstop Top 5 Baps diwali kirtan | Baps kirtan latest 2020 | diwali kirtan jukebox</h1>
+<div id="info">
+<div id="info-text">
+<div id="count">4,599 views</div>
+<div id="date"><span id="dot">&bull;</span>12-Nov-2020</div>
+</div>
+<div id="flex"></div>
+<div id="menu-container">
+<div id="menu">
+<div id="top-level-buttons"><a tabindex="-1"><button id="button" aria-pressed="false" aria-label="like this video along with 97 other people"></button>97</a><a tabindex="-1"><button id="button" aria-pressed="false" aria-label="dislike this video along with 0 other people"></button>0</a><a tabindex="-1"><button id="button" aria-label="Share"></button>SHARE</a><a tabindex="-1"><button id="button" aria-label="Save to playlist"></button>SAVE</a></div>
+<button id="button" aria-label="More actions"></button></div>
+<div id="container">
+<div id="like-bar"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="meta">
+<div id="limited-state"></div>
+<div id="meta-contents">
+<div id="container">
+<div id="list-container"></div>
+<div id="top-row"><a tabindex="-1" href="https://www.youtube.com/user/bapsdhaval"><img id="img" src="https://yt3.ggpht.com/a/AATXAJwKuxxnQDrF_KTt9oUZXDszo0QIP1HPqzDYeQMVCw=s88-c-k-c0xffffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="upload-info">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/channel/UCoxHcKQI15tY17h3UduZuZw">Manual of Mankind</a></div>
+</div>
+6.43K subscribers</div>
+<div id="sponsor-button"></div>
+<div id="analytics-button"></div>
+<div id="subscribe-button">SUBSCRIBED
+<div id="notification-preference-toggle-button"></div>
+<div id="notification-preference-button"><a tabindex="-1"><button id="button" aria-label="Current setting is personalised notifications. Tap to change your notification setting for Manual of Mankind"></button></a></div>
+</div>
+</div>
+<div id="content">
+<div id="description"><span dir="auto">દિવાળી અને નૂતન વર્ષે આપણા ઘરમાં દિવાળીનાં સુમધુર, ભક્તિમય કીર્તનો ને વગાડી ઘરમાં ભક્તિનો ઉજાસ પાથરીએ. 🎉🎊🎉🎊🎉🎊🎉🎊 સર્વને દિવાળી અને નૂતન વર્ષની શુભકામનાઓ સાથે જય સ્વામિનારાયણ 🙏🏻🙏🏻🙏🏻 📲 બધા હરિભક્તોને આ કીર્તનોની લિંક પહોંચાડીએ. અહી એવા 5 પસંદગીના પ્રખ્યાત પદો પસંદ કરી આપને આપવામા આવ્યાં છે. આ વર્ષે આપણે કોરોના મહામારીને કારણે આપણે સૌ આ પદોને ઘરે જ નિત્ય સવાર સાંજ સાંભળી ભગવાન અને સંત નો મહિમા આ પર્વે વિશેષ દૃઢ કરીયે. 🏅credit :- all audio credit goes to baps audio visual department. If you like this video please Like Share and Subscribe my channel and press the bell icon.🔔 📌નોંધ :- આ ચેનલમાં અપલોડ કરવામાં આવતાં ઓડિયો કે વિડીયો સ્વામિનારાયણ સંપ્રદાયનાં અનુયાયીઓ તથા તેમને અનુરૂપ જે ધાર્મિક માણસો છે તેની ધાર્મિક માન્યતાને આધારિત છે, આ ઓડિયો કે વિડીયો કોઈ પણ વર્ગનાં વ્યક્તિ, વ્યક્તિના સમૂહ, સમાજ, સંપ્રદાય કે સંસ્થાની લાગણીઓને હાનિ પહોંચાડવાની ભાવના બિલકુલ નથી. 📩📝 આપના કોઈ સુચન હોઇ તો આપ નીચે આપેલ E-mail પર સંપર્ક કરી શકો છો. E-Mail :- manualofmankind@gmail.com 🎯 My channel link :-</span><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/ManualofMankind" rel="nofollow">https://www.youtube.com/c/ManualofMan...</a><span dir="auto"> ================================== 🔴📣🎧 also check playlist of various topics:- ================================== 🔴1. Baps new kirtan 2020 playlist : </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/playlist?list=PL0PIBPOpKrW3PNzkL27MC3qdRWBNBy-K2" rel="nofollow">https://www.youtube.com/playlist?list...</a><span dir="auto"> 🔴2.Satsang Diksha All Slok : </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/playlist?list=PL0PIBPOpKrW19Xc9GUi5lnh-n521zC7Cm" rel="nofollow">https://www.youtube.com/playlist?list...</a><span dir="auto"> 🔴3. Baps New chesta 2020 playlist : </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/playlist?list=PL0PIBPOpKrW0_M7uq7OttT3BxhOJ89LmV" rel="nofollow">https://www.youtube.com/playlist?list...</a><span dir="auto"> 🔴4. Pramukh swami maharaj kirtan playlist : </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/playlist?list=PL0PIBPOpKrW1tD3RLgNgoZzSxuRE5LqLN" rel="nofollow">https://www.youtube.com/playlist?list...</a><span dir="auto"> 🔴5. Gyanvatsal swami latest speech 2020 playlist : </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/playlist?list=PL0PIBPOpKrW1l_pEPUhJtzqR4-RrvPz10" rel="nofollow">https://www.youtube.com/playlist?list...</a><span dir="auto"> 🔴6. Baps pravachan latest 2020 playlist : </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/playlist?list=PL0PIBPOpKrW0PzzcAV0uCtJvdOQ1TdEE5" rel="nofollow">https://www.youtube.com/playlist?list...</a><span dir="auto"> _______________________________________________ 🔴📣📺checkout New video recently launched. _______________________________________________ 🎵1. મહંતસ્વામી મહારાજના 87માં જન્મજયંતી ઉપક્રમે તેમનાં જન્મદિવસનાં Top 3 અદ્ભૂત કીર્તન </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/watch?v=5YkGapCYX-Q">https://youtu.be/5YkGapCYX-Q</a><span dir="auto"> 📽️2. mahant swami maharaj new chesta 2020 </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/watch?v=Sn89-VGmgtU">https://youtu.be/Sn89-VGmgtU</a><span dir="auto"> 🔊3. મહંત સ્વામી મહારાજે પોતાના 87માં જન્મદિને અમેરિકા સ્થિત પૂજ્ય અનંતમંગલ સ્વામી સાથે શ્રીજી કહે રમત રમી </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/watch?v=XhynBG2PKJU">https://youtu.be/XhynBG2PKJU</a><span dir="auto"> 🎤4. glory and history of satsang diksha </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/watch?v=U2EcmktK5cw">https://youtu.be/U2EcmktK5cw</a><span dir="auto"> 🎤5. Bhadresh swami prasang with mahant swami when writing satsang diksha granth </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/watch?v=7t57aQ-LNY8">https://youtu.be/7t57aQ-LNY8</a><span dir="auto"> 🎵6. vahalu lage mune mohan mukh taru </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/watch?v=bBykAV0_NXY">https://youtu.be/bBykAV0_NXY</a><span dir="auto"> Note : This is not official BAPS channel, All credits goes to baps.org &amp; baps youtube channel. We create this video for social awareness and spread love,peace, harmony and hapiness to all the people. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/results?search_query=%23bapsdiwalikirtan">#bapsdiwalikirtan</a> <a dir="auto" spellcheck="false" href="https://www.youtube.com/results?search_query=%23dindindiwali">#dindindiwali</a> <a dir="auto" spellcheck="false" href="https://www.youtube.com/results?search_query=%23manualofmankind">#manualofmankind</a></div>
+</div>
+<div id="always-shown"></div>
+SHOW MORE</div>
+</div>
+</div>
+<div id="ticket-shelf"></div>
+<div id="merch-shelf"></div>
+<div id="header"></div>
+<div id="spinner-container"></div>
+<div id="contents"></div>
+<div id="continuations">
+<div id="spinnerContainer">
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="secondary">
+<div id="secondary-inner">
+<div id="panels"></div>
+<div id="donation-shelf"></div>
+<div id="related">
+<div id="player-ads">
+<div id="companion"></div>
+</div>
+<div id="offer-module"></div>
+<div id="items">
+<div>
+<div id="upnext">Up next</div>
+<div id="autoplay">AUTOPLAY</div>
+<div>
+<div id="toggleBar"></div>
+<div id="toggleButton"></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="contents">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=CFH2BfElLOU" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/CFH2BfElLOU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAK886hzK_5hs_qpdgvSWTxfmwoCA" alt="" width="168" /></a>
+<div id="overlays"><span aria-label="13 minutes, 6 seconds">13:06</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=CFH2BfElLOU" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="98th Birthday Celebration of Brahmaswarup Pramukh Swami Maharaj, Mumbai, India" aria-label="98th Birthday Celebration of Brahmaswarup Pramukh Swami Maharaj, Mumbai, India by BAPSChannel 11 months ago 13 minutes, 6 seconds 4,61,615 views">98th Birthday Celebration of Brahmaswarup Pramukh Swami Maharaj, Mumbai, India</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">BAPSChannel</div>
+</div>
+</div>
+<div id="metadata-line">4.6&nbsp;lakh views11 months ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=JegGTh9uKlM" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/JegGTh9uKlM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDTtj6H6rAHOIFrqAruRPizbQjAhQ" alt="" width="168" /></a>
+<div id="overlays"><span aria-label="6 minutes, 11 seconds">6:11</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=JegGTh9uKlM" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="ચમત્કાર !! પ્રમુખસ્વામી સપનામાં આવ્યા અને...| Pramukhswami | Atmatruptswami | Baps | Moksha Talks" aria-label="ચમત્કાર !! પ્રમુખસ્વામી સપનામાં આવ્યા અને...| Pramukhswami | Atmatruptswami | Baps | Moksha Talks by Moksha Talks 1 day ago 6 minutes, 11 seconds 5,453 views">ચમત્કાર !! પ્રમુખસ્વામી સપનામાં આવ્યા અને...| Pramukhswami | Atmatruptswami | Baps | Moksha Talks</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Moksha Talks</div>
+</div>
+</div>
+<div id="metadata-line">5.4K views1 day ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>New</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=yq8oGzE_OZ4" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/yq8oGzE_OZ4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCYfn5hhtyb2CbwLasZSZ1ax_eEsQ" alt="" width="168" /></a>
+<div id="overlays"><span aria-label="49 minutes, 43 seconds">49:43</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=yq8oGzE_OZ4" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="🔴LIVE Krishnapriya swami | Ramuji katha | navratri special katha | Baps pravachan | Comedy prasango" aria-label="🔴LIVE Krishnapriya swami | Ramuji katha | navratri special katha | Baps pravachan | Comedy prasango by Manual of Mankind 2 weeks ago 49 minutes 15,424 views">🔴LIVE Krishnapriya swami | Ramuji katha | navratri special katha | Baps pravachan | Comedy prasango</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Manual of Mankind</div>
+</div>
+</div>
+<div id="metadata-line">15K views2 weeks ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=PRedbLqsqyU" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/PRedbLqsqyU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAlA1pxh7eq7f5z62Fd3SjOzTX-GA" alt="" width="168" /></a>
+<div id="overlays"><span aria-label="23 minutes, 9 seconds">23:09</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=PRedbLqsqyU" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="Guruhari Darshan, 17 to 19 July 2013, Sarangpur, India" aria-label="Guruhari Darshan, 17 to 19 July 2013, Sarangpur, India by BAPSChannel 7 years ago 23 minutes 3,26,164 views">Guruhari Darshan, 17 to 19 July 2013, Sarangpur, India</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">BAPSChannel</div>
+</div>
+</div>
+<div id="metadata-line">3.2&nbsp;lakh views7 years ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=u_0wN4MiERg" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/u_0wN4MiERg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLD7UurRPpNBh7jxg79RJkr6Gtnllg" alt="" width="168" /></a>
+<div id="overlays"><span aria-label="10 minutes, 11 seconds">10:11</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=u_0wN4MiERg" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="દિવાળી સ્પેશ્યલ સ્પીચ ~ નવા વર્ષે રોજ રાત્રે આ કામ કરશો તો ખુબ સુખી થશો By Gyanvatsal Swami" aria-label="દિવાળી સ્પેશ્યલ સ્પીચ ~ નવા વર્ષે રોજ રાત્રે આ કામ કરશો તો ખુબ સુખી થશો By Gyanvatsal Swami by Akshar Mantra 8 hours ago 10 minutes, 11 seconds 13,989 views">દિવાળી સ્પેશ્યલ સ્પીચ ~ નવા વર્ષે રોજ રાત્રે આ કામ કરશો તો ખુબ સુખી થશો By Gyanvatsal Swami</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Akshar Mantra</div>
+</div>
+</div>
+<div id="metadata-line">13K views8 hours ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>New</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=f0-Y-eMhS1A" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/f0-Y-eMhS1A/hqdefault_live.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDGLwUgiPsDg-iS20ajbC1mc9pRbA" alt="" width="168" /></a>
+<div id="overlays">
+<div id="progress"></div>
+NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=f0-Y-eMhS1A" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="Jawa Nomads: Punjab Da Tor | Live TV 24x7 | India News | Republic TV LIVE" aria-label="Jawa Nomads: Punjab Da Tor | Live TV 24x7 | India News | Republic TV LIVE by Republic World 53,75,242 views">Jawa Nomads: Punjab Da Tor | Live TV 24x7 | India News | Republic TV LIVE</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Republic World</div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">1K watching</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>LIVE NOW</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=m0Sx1Y6KhZY" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/m0Sx1Y6KhZY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBVYwcvtnvj7VtTbuZiF3CkB0Hwxg" alt="" width="168" /></a>
+<div id="overlays"><span aria-label="56 minutes, 42 seconds">56:42</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=m0Sx1Y6KhZY" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="ભગવાન ને સંત ધારે તે કરી શકે | અપૂર્વમુનિ સ્વામી | Baps Katha | New Swaminarayan Pravachan" aria-label="ભગવાન ને સંત ધારે તે કરી શકે | અપૂર્વમુનિ સ્વામી | Baps Katha | New Swaminarayan Pravachan by Sant Param Hitkari 2 days ago 56 minutes 4,916 views">ભગવાન ને સંત ધારે તે કરી શકે | અપૂર્વમુનિ સ્વામી | Baps Katha | New Swaminarayan Pravachan</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Sant Param Hitkari</div>
+</div>
+</div>
+<div id="metadata-line">4.9K views2 days ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>New</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=H87XyO5KHMw" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/H87XyO5KHMw/hqdefault_live.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAdmHnsWLyyYApVgEv0ulhzTVYmlw" alt="" width="168" /></a>
+<div id="overlays">NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=H87XyO5KHMw" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="BAPS Pune Shangar LIVE 2020-11-14" aria-label="BAPS Pune Shangar LIVE 2020-11-14 by BAPS Swaminarayan Mandirs India 2,492 views">BAPS Pune Shangar LIVE 2020-11-14</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">BAPS Swaminarayan Mandirs India</div>
+</div>
+</div>
+<div id="metadata-line">8 watching</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>LIVE NOW</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=1sX9Kxov_8s" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/1sX9Kxov_8s/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLD8j39xWxDtJTe2tV1m1z33P5Pf6A" alt="" width="168" /></a>
+<div id="overlays"><span aria-label="1 hour, 1 minute, 32 seconds">1:01:32</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=1sX9Kxov_8s" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="Aksharbrahma Gunatit Satra, Day 4: Akshar-Purushottam Darshan Is an Eternal Vedic Doctrine" aria-label="Aksharbrahma Gunatit Satra, Day 4: Akshar-Purushottam Darshan Is an Eternal Vedic Doctrine by BAPSChannel 1 week ago 1 hour, 1 minute 13,856 views">Aksharbrahma Gunatit Satra, Day 4: Akshar-Purushottam Darshan Is an Eternal Vedic Doctrine</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">BAPSChannel</div>
+</div>
+</div>
+<div id="metadata-line">13K views1 week ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=1bumPyvzCyo" rel="nofollow" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/1bumPyvzCyo/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDonSc0O51cw9uJ3rqJy86ZU9xqRQ" alt="" width="168" /></a>
+<div id="overlays"><span aria-label="10 minutes, 1 second">10:01</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=1bumPyvzCyo" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="Arnold Schwarzenegger Leaves the Audience SPEECHLESS | One of the Best Motivational Speeches Ever" aria-label="Arnold Schwarzenegger Leaves the Audience SPEECHLESS | One of the Best Motivational Speeches Ever by MotivationHub 3 months ago 10 minutes, 1 second 48,71,005 views">Arnold Schwarzenegger Leaves the Audience SPEECHLESS | One of the Best Motivational Speeches Ever</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">MotivationHub</div>
+</div>
+</div>
+<div id="metadata-line">48&nbsp;lakh views3 months ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=corPaENITJU" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=corPaENITJU" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="Aksharbrahma Gunatit Satra, Day 6: Bhagatji Maharaj Spreads Glory of Gunatitanand Swami as Akshar" aria-label="Aksharbrahma Gunatit Satra, Day 6: Bhagatji Maharaj Spreads Glory of Gunatitanand Swami as Akshar by BAPSChannel 6 days ago 52 minutes 10,962 views">Aksharbrahma Gunatit Satra, Day 6: Bhagatji Maharaj Spreads Glory of Gunatitanand Swami as Akshar</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">BAPSChannel</div>
+</div>
+</div>
+<div id="metadata-line">10K views6 days ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>New</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=fwdx59uRoxg" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=fwdx59uRoxg" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="ઘર ઘરની વાત, હર ઘરની વાત | જનમંગલ સ્વામી | Baps Katha | New Swaminarayan Pravachan" aria-label="ઘર ઘરની વાત, હર ઘરની વાત | જનમંગલ સ્વામી | Baps Katha | New Swaminarayan Pravachan by Sant Param Hitkari 6 days ago 59 minutes 18,736 views">ઘર ઘરની વાત, હર ઘરની વાત | જનમંગલ સ્વામી | Baps Katha | New Swaminarayan Pravachan</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Sant Param Hitkari</div>
+</div>
+</div>
+<div id="metadata-line">18K views6 days ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>New</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=sjmxOeCOsEo" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=sjmxOeCOsEo" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="baps chopda pujan prmukhsvani maharaj's pravchan પ્રમુખસ્વામી મહારાજના ચોપડા પૂજનના વિશિષ્ઠ આશીર્વાદ" aria-label="baps chopda pujan prmukhsvani maharaj's pravchan પ્રમુખસ્વામી મહારાજના ચોપડા પૂજનના વિશિષ્ઠ આશીર્વાદ by Know My Guru 9 hours ago 16 minutes 1,013 views">baps chopda pujan prmukhsvani maharaj's pravchan પ્રમુખસ્વામી મહારાજના ચોપડા પૂજનના વિશિષ્ઠ આશીર્વાદ</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Know My Guru</div>
+</div>
+</div>
+<div id="metadata-line">1K views9 hours ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>New</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=yFKo21PjpaI" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=yFKo21PjpaI" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="Guruhari Darshan 18-19 Apr 2019, Dubai, UAE" aria-label="Guruhari Darshan 18-19 Apr 2019, Dubai, UAE by BAPSChannel 1 year ago 11 minutes, 6 seconds 23,95,105 views">Guruhari Darshan 18-19 Apr 2019, Dubai, UAE</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">BAPSChannel</div>
+</div>
+</div>
+<div id="metadata-line">23&nbsp;lakh views1 year ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=pqK-OMChLFU" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=pqK-OMChLFU" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="सुबह की धूप के चमत्कारिक फायदे | सूर्य से ऊर्जा कैसे प्राप्त करें | Sun Charge Your Body in 2 Steps" aria-label="सुबह की धूप के चमत्कारिक फायदे | सूर्य से ऊर्जा कैसे प्राप्त करें | Sun Charge Your Body in 2 Steps by Satvic Movement 1 year ago 20 minutes 16,21,080 views">सुबह की धूप के चमत्कारिक फायदे | सूर्य से ऊर्जा कैसे प्राप्त करें | Sun Charge Your Body in 2 Steps</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Satvic Movement</div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">16&nbsp;lakh views1 year ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=dLg5dU81imk" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=dLg5dU81imk" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="Aksharbrahma Gunatit Satra, Day 9: Shastriji Maharaj's Wise and Saintly Ways" aria-label="Aksharbrahma Gunatit Satra, Day 9: Shastriji Maharaj's Wise and Saintly Ways by BAPSChannel 3 days ago 46 minutes 4,531 views">Aksharbrahma Gunatit Satra, Day 9: Shastriji Maharaj's Wise and Saintly Ways</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">BAPSChannel</div>
+</div>
+</div>
+<div id="metadata-line">4.5K views3 days ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>New</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=5b5q4zLvA0Y" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=5b5q4zLvA0Y" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="Aksharbrahma Gunatit Satra, Day 3: Bhagwan Swaminarayan Reveals Gunatitanand Swami As Mul Akshar" aria-label="Aksharbrahma Gunatit Satra, Day 3: Bhagwan Swaminarayan Reveals Gunatitanand Swami As Mul Akshar by BAPSChannel 1 week ago 47 minutes 9,516 views">Aksharbrahma Gunatit Satra, Day 3: Bhagwan Swaminarayan Reveals Gunatitanand Swami As Mul Akshar</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">BAPSChannel</div>
+</div>
+</div>
+<div id="metadata-line">9.5K views1 week ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=Z5SMKdRpq8k" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=Z5SMKdRpq8k" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="અક્ષરબ્રહ્મ : એક વિશિષ્ટ ઓળખાણ by Atmatrupt Swami" aria-label="અક્ષરબ્રહ્મ : એક વિશિષ્ટ ઓળખાણ by Atmatrupt Swami by Shreeji Media 2 weeks ago 1 hour 9,251 views">અક્ષરબ્રહ્મ : એક વિશિષ્ટ ઓળખાણ by Atmatrupt Swami</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Shreeji Media</div>
+</div>
+</div>
+<div id="metadata-line">9.2K views2 weeks ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=CWvfB-Ff9BY" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=CWvfB-Ff9BY" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="LIVE: लक्ष्मी पूजन | लक्ष्मी मंत्र का पाठ करने से धन-संपत्ति प्राप्ति होती है और ऋण मुक्ति होती है" aria-label="LIVE: लक्ष्मी पूजन | लक्ष्मी मंत्र का पाठ करने से धन-संपत्ति प्राप्ति होती है और ऋण मुक्ति होती है by Shemaroo Bhakti 3,11,203 views">LIVE: लक्ष्मी पूजन | लक्ष्मी मंत्र का पाठ करने से धन-संपत्ति प्राप्ति होती है और ऋण मुक्ति होती है</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Shemaroo Bhakti</div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">3.6K watching</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>LIVE NOW</div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=D-wyWsd-BpM" rel="nofollow" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=D-wyWsd-BpM" rel="nofollow" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="Shree Hari ni Swabhavik Chesta | Swaminarayan Film | Full Chesta 3D Animation | Chesta na Pado" aria-label="Shree Hari ni Swabhavik Chesta | Swaminarayan Film | Full Chesta 3D Animation | Chesta na Pado by Swaminarayan Bhagwan 1 year ago 28 minutes 2,11,39,312 views">Shree Hari ni Swabhavik Chesta | Swaminarayan Film | Full Chesta 3D Animation | Chesta na Pado</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Swaminarayan Bhagwan</div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">2.1&nbsp;crore views1 year ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+<div id="queue-button"></div>
+</div>
+</div>
+</div>
+<div id="continuations">
+<div id="spinnerContainer">
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<div id="related-skeleton">
+<div id="related"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="survey"></div>
+</div>
+<div role="dialog">
+<div id="card">
+<div id="video-container">
+<div>
+<div id="player-container"></div>
+</div>
+<div id="info-bar">
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+<div id="expander-space"></div>
+<a tabindex="-1" aria-hidden="true"><img id="img" alt="" width="78" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" aria-hidden="true"></a>
+<div id="info">
+<div id="label"></div>
+<div>&nbsp;</div>
+</div>
+<div id="button"></div>
+</div>
+</div>
+<div id="watch7-content"></div>
+<div aria-live="polite">Thanks for your feedback!</div>
+<p>&nbsp;</p>

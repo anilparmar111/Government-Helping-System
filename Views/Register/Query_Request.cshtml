@@ -1,0 +1,31 @@
+﻿@model IList<Government_Helping_System.Models.ViewsModel.Query_Views>
+
+@{
+    ViewData["Title"] = "Query_Request";
+}
+
+@if (ViewBag.qry == "no")
+{
+    <label style="color:red">*noqry</label>
+}
+
+<div class="card bg-primary text-white">
+    <div class="card-body text-center">Total Panding Request : @Model.Count()</div>
+</div>
+
+ 
+@for (int i=0;i<Model.Count();i++)
+{
+<div class="card text-center">
+    <div class="card-header">
+        @(i+1)
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@Model[i].title</h5>
+        <a  asp-action="Query_Details" asp-route-id=@Model[i].Qid  class="btn btn-primary">Go There</a>
+    </div>
+    <div class="card-footer text-muted">
+       Uploaded At : @Model[i].uploadtime
+    </div>
+</div>
+}

@@ -91,20 +91,17 @@ namespace Government_Helping_System.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("QueriesId")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<string>("QuerieId")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("URL")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("querieId")
-                        .HasColumnType("nvarchar(450)");
-
                     b.HasKey("Id");
 
-                    b.HasIndex("querieId");
+                    b.HasIndex("QuerieId");
 
-                    b.ToTable("PhotoModel");
+                    b.ToTable("photoModels");
                 });
 
             modelBuilder.Entity("Government_Helping_System.Models.Querie", b =>
@@ -120,6 +117,9 @@ namespace Government_Helping_System.Migrations
 
                     b.Property<string>("EmployeeId")
                         .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("Query_Time")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("status")
                         .HasColumnType("nvarchar(max)");
@@ -146,7 +146,7 @@ namespace Government_Helping_System.Migrations
                 {
                     b.HasOne("Government_Helping_System.Models.Querie", "querie")
                         .WithMany("ProofPhotos")
-                        .HasForeignKey("querieId");
+                        .HasForeignKey("QuerieId");
 
                     b.Navigation("querie");
                 });

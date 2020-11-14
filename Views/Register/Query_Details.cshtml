@@ -1,0 +1,90 @@
+﻿@model Government_Helping_System.Models.Querie
+
+@{
+    ViewData["Title"] = "Query_Details";
+}
+
+@if (ViewBag.Error == "error")
+{
+    <label>There Is An Error</label>
+}
+else
+{
+
+<h1>Query_Details</h1>
+
+<link rel="stylesheet" href="~/css/slideshow.css" />
+<script>
+    $('.carousel').carousel({
+        interval: false,
+    });
+</script>
+<!--Carousel Wrapper-->
+
+<div class="card text-center">
+    <div class="card-header">
+        @Model.title
+    </div>
+    <div class="card-body">
+        <div class="row mt-4">
+            <div class="col" style="background-color:khaki">
+                <div class="label-box border"><span class="mx-4 font-weight-light">Description</span></div>
+                @Html.Raw(@Model.textfilepath)
+            </div>
+        </div>
+    </div>
+    <div class="card-footer text-muted">
+        @Model.Query_Time
+    </div>
+</div>
+
+<div id="multi-item-example" class="carousel carousel-multi-item carousel-multi-item-2" data-ride="">
+
+    <!--Controls-->
+    <div class="container h-100">
+        <div class="row h-100 justify-content-center align-items-center">
+            <div class="controls-top ">
+                <a class="black-text" href="#multi-item-example" data-slide="prev"><i class="fas fa-angle-left fa-3x pr-3"></i></a>
+                <a class="black-text" href="#multi-item-example" data-slide="next"><i class="fas fa-angle-right fa-3x pl-3"></i></a>
+            </div>
+        </div>
+    </div>
+    <!--/.Controls-->
+    <!--Slides-->
+    <div class="carousel-inner" role="listbox">
+
+        <!--First slide-->
+        <div class="carousel-item active">
+            <div class="col-md-3 mb-3">
+                <div class="card">
+                    <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(38).jpg"
+                         alt="Card image cap">
+                </div>
+            </div>
+        </div>
+
+        <!---//
+        {
+            <div class="carousel-item ">
+                <div class="col-md-3 mb-3">
+                    <div class="card">
+                        <img class="img-fluid" src=photo.URL
+                             alt="Card image cap">
+                    </div>
+                </div>
+            </div>
+        }-->
+        <!--/.Second slide-->
+        <!--Third slide-->
+        <div class="carousel-item">
+            <div class="col-md-3 mb-3">
+                <div class="card">
+                    <video class="video-fluid" autoplay loop muted>
+                        <source src="https://mdbootstrap.com/img/video/forest.mp4" type="video/mp4" />
+                    </video>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+}

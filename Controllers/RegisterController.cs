@@ -37,6 +37,59 @@ namespace Government_Helping_System.Controllers
             return View(await _context.Citizens.ToListAsync());
         }
 
+        public IActionResult Query_Request()
+        {
+            string uid = HttpContext.Session.GetString("uid");
+
+            IEnumerable<Querie> pendingquieres = _context.queries.Where(que => que.CitizenId == uid && que.status== "Req");
+
+            List<Query_Views> qrviews = new List<Query_Views>();
+
+            foreach(var qury in pendingquieres)
+            {
+                Query_Views qrview = new Query_Views();
+                qrview.Qid = qury.Id;
+                qrview.title = qury.title;
+                qrview.uploadtime = qury.Query_Time;
+                qrviews.Add(qrview);
+            }
+
+            if(pendingquieres==null)
+            {
+                ViewBag.qry = "no";
+                return View();
+            }
+
+            return View(qrviews);
+
+            /*List<Panding_Query_Views> panding_Query_Views=new List<Panding_Query_Views>();
+            List<Querie> queries=_context.queries.AsEnumerable().Where(que => que.CitizenId == uid && que.status == "Req")
+            //List<Querie> queries = (List<Querie>)_context.queries.ToListAsync.Where(que => que.CitizenId==uid && que.status== "Req");
+            foreach(var item in queries)
+            {
+                Panding_Query_Views panding_Query_Views1 = new Panding_Query_Views();
+                panding_Query_Views1.title = item.title;
+                panding_Query_Views1.uploadtime = item.Query_Time;
+                panding_Query_Views1.ProofPhotos = item.ProofPhotos;
+                panding_Query_Views1.Description = System.IO.File.ReadAllText(item.textfilepath);
+                panding_Query_Views.Add(panding_Query_Views1);
+            }*/
+            //var query=   _context.queries.FirstOrDefault(que => que.CitizenId == uid && que.status == "Req");
+            //query.textfilepath = System.IO.File.ReadAllText(query.textfilepath);
+            //return View(query);
+        }
+
+        public IActionResult Query_Details(string Id)
+        {
+
+            Querie querie = _context.queries.FirstOrDefault(qry => qry.Id==Id);
+            if (querie != null)
+            {
+                return View(querie);
+            }
+            ViewBag.Error = "error" + Id;
+            return View();
+        }
 
         public IActionResult HomePage()
         {
@@ -120,6 +173,7 @@ namespace Government_Helping_System.Controllers
                 querie.zipcode = queriesView.zipcode;
                 querie.textfilepath = filepath;
                 querie.title = queriesView.title;
+                querie.Query_Time = DateTime.Now;
                 querie.Citizen = _context.Citizens.FirstOrDefault(czn => czn.Id == HttpContext.Session.GetString("uid"));
                 querie.ProofPhotos = new List<PhotoModel>();
                 foreach (var file in queriesView.uploadphoto)

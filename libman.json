@@ -9,6 +9,14 @@
     {
       "library": "ace@1.4.12",
       "destination": "wwwroot/lib/ace/"
+    },
+    {
+      "library": "font-awesome@5.15.1",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "tinymce@5.5.1",
+      "destination": "wwwroot/lib/tinymce/"
     }
   ]
 }

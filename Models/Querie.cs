@@ -26,6 +26,8 @@ namespace Government_Helping_System.Models
 
         public string textfilepath { get; set; }
 
+        public DateTime Query_Time { get; set; }
+
         public string status { get; set; }
 
         public ICollection<PhotoModel> ProofPhotos { get; set; }
