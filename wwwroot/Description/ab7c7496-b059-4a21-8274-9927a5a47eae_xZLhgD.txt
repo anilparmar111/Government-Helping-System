@@ -1,0 +1,938 @@
+<div id="content">
+<div id="masthead-container">
+<div id="container">
+<div id="start"><span id="country-code">IN</span>
+<div id="skip-navigation"><a tabindex="-1">SKIP NAVIGATION</a></div>
+</div>
+<div id="center"><form id="search-form" action="https://www.youtube.com/results">
+<div id="container">
+<div id="search-input"><input id="search" tabindex="0" spellcheck="false" autocomplete="off" name="search_query" type="text" placeholder="Search" aria-label="Search" /></div>
+<div id="search-container"></div>
+</div>
+<button id="search-icon-legacy" aria-label="Search"></button></form>
+<div id="voice-search-button"></div>
+</div>
+<div id="end">
+<div id="buttons">
+<div id="button"><a tabindex="-1"><button id="button" aria-label="Create"></button></a></div>
+<div id="button"><a tabindex="-1"><button id="button" aria-label="YouTube apps"></button></a></div>
+<div id="button"><a tabindex="-1"><button id="button" aria-label="Notifications"></button></a></div>
+<button id="avatar-btn" aria-label="Account profile photo that opens list of alternative accounts" aria-haspopup="true"><img id="img" src="https://lh5.googleusercontent.com/-8a-IqooQjc0/AAAAAAAAAAI/AAAAAAAAISY/AMZuuclJ38F6peZgfO9W66FpEMvrM2D1Lg/s88-c-k-c0x00ffffff-no-rj-mo/photo.jpg" alt="Avatar image" width="32" height="32" /></button>
+<div id="button"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="scrim"></div>
+<div id="contentContainer">
+<div id="guide-wrapper">
+<div id="guide-spacer"></div>
+<div id="guide-content">
+<div id="guide-inner-content">
+<div id="sections">
+<div id="items"><a id="endpoint" tabindex="-1" title="Home" role="tablist" href="https://www.youtube.com/">Home</a><a id="endpoint" tabindex="-1" title="Trending" role="tablist" href="https://www.youtube.com/feed/trending">Trending</a><a id="endpoint" tabindex="-1" title="Subscriptions" role="tablist" href="https://www.youtube.com/feed/subscriptions">Subscriptions</a>
+<div id="header"><a id="endpoint" tabindex="-1" title="Library" role="tablist" href="https://www.youtube.com/feed/library">Library</a></div>
+<div id="section-items"><a id="endpoint" tabindex="-1" title="History" role="tablist" href="https://www.youtube.com/feed/history">History</a><a id="endpoint" tabindex="-1" title="Your videos" role="tablist" href="https://studio.youtube.com/channel/UCvVwQRXoLr98Qt0_9RITrUw/videos">Your videos</a><a id="endpoint" tabindex="-1" title="Your movies" role="tablist" href="https://www.youtube.com/feed/storefront?bp=ogUCKAQ%3D">Your movies</a><a id="endpoint" tabindex="-1" title="Watch later" role="tablist" href="https://www.youtube.com/playlist?list=WL">Watch later</a><a id="endpoint" tabindex="-1" title="Show more" role="tablist"></a>Show more</div>
+</div>
+<h3>SUBSCRIPTIONS</h3>
+<div id="items"><a id="endpoint" tabindex="-1" title="Republic Bharat" role="tablist" href="https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKng"><img id="img" src="https://yt3.ggpht.com/a/AATXAJxtrm1b4Pl1W8yvhOkdLD4hIPkUUOXpyIcwNYHVOA=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" />Republic Bharat</a><a id="endpoint" tabindex="-1" title="Republic World" role="tablist" href="https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw"><img id="img" src="https://yt3.ggpht.com/a/AATXAJwP9QqydXcDvv5v5sXMQZG3OgWQ0isG4V8JRBNF8g=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" />Republic World</a><a id="endpoint" tabindex="-1" title="BAPS Swaminarayan Mandir Ahmedabad" role="tablist" href="https://www.youtube.com/channel/UCRxmBJyXdN1V4Kes7KG65gA"><img id="img" src="https://yt3.ggpht.com/a/AATXAJw3hS5gQ2KUPA8DpidA7sfOQchCgWi7-a0F5GKE=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" />BAPS Swaminarayan Mandir Ahmedabad</a><a id="endpoint" tabindex="-1" title="BAPS Africa" role="tablist" href="https://www.youtube.com/channel/UCiw7vYS7nbmg1PTJTtFaXdQ"><img id="img" src="https://yt3.ggpht.com/a/AATXAJy3zp3_sIjy1IIR4DvgPRm96YZYTkuEAn1TzbCk=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" />BAPS Africa</a><a id="endpoint" tabindex="-1" title="BAPS Swaminarayan Mandirs India" role="tablist" href="https://www.youtube.com/channel/UCHkAu1PGCW94tkNNZT6Ptiw"><img id="img" src="https://yt3.ggpht.com/a/AATXAJyoT7a6wtY8Jg8aJkzCiCY-6TTYRv8qWukIzaey=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" />BAPS Swaminarayan Mandirs India</a><a tabindex="-1" title="BAPS India Satsang" role="tablist" href="https://www.youtube.com/channel/UCh2OZd6UJl_0U3DLmLRzz2w"><img id="img" src="https://yt3.ggpht.com/a/AATXAJyM1dBAN28WBzVQKF0Uy5BClvx8eFeG2bqz7HnV=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" />BAPS India Satsang</a>
+<div id="newness-dot"></div>
+<a id="endpoint" tabindex="-1" title="BAPS India Satsang" role="tablist" href="https://www.youtube.com/channel/UCh2OZd6UJl_0U3DLmLRzz2w"></a><a id="endpoint" tabindex="-1" title="Rajiv Dixit Speech" role="tablist" href="https://www.youtube.com/channel/UCci70M8aP1LQRRcjUzUmCDw"><img id="img" src="https://yt3.ggpht.com/a/AATXAJzew5vVxBM65HwU4HrYkQISLMImX8awkZ1OEGP2=s88-c-k-c0x00ffffff-no-rj" alt="" width="24" height="24" />Rajiv Dixit Speech</a><a id="endpoint" tabindex="-1" title="Show 292 more" role="tablist"></a>Show 292 more</div>
+<h3>MORE FROM YOUTUBE</h3>
+<div id="items"><a id="endpoint" tabindex="-1" title="YouTube Premium" role="tablist" href="https://www.youtube.com/premium">YouTube Premium</a><a id="endpoint" tabindex="-1" title="Films" role="tablist" href="https://www.youtube.com/feed/storefront?bp=ogUCKAI%3D">Films</a><a id="endpoint" tabindex="-1" title="Gaming" role="tablist" href="https://www.youtube.com/gaming">Gaming</a><a id="endpoint" tabindex="-1" title="Live" role="tablist" href="https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig">Live</a><a id="endpoint" tabindex="-1" title="Fashion &amp; beauty" role="tablist" href="https://www.youtube.com/channel/UCrpQ4p1Ql_hG8rKXIKM1MOQ">Fashion &amp; beauty</a><a id="endpoint" tabindex="-1" title="Learning" role="tablist" href="https://www.youtube.com/channel/UCtFRv9O2AHqOZjjynzrv-xg">Learning</a></div>
+<div id="items"><a id="endpoint" tabindex="-1" title="Settings" role="tablist" href="https://www.youtube.com/account">Settings</a><a id="endpoint" tabindex="-1" title="Report history" role="tablist" href="https://www.youtube.com/reporthistory">Report history</a><a id="endpoint" tabindex="-1" title="Help" role="tablist"></a>Help<a id="endpoint" tabindex="-1" title="Send feedback" role="tablist"></a>Send feedback</div>
+</div>
+<div id="footer">
+<div id="guide-links-primary"><a href="https://www.youtube.com/about/">About</a><a href="https://www.youtube.com/about/press/">Press</a><a href="https://www.youtube.com/about/copyright/">Copyright</a><a href="https://www.youtube.com/t/contact_us">Contact us</a><a href="https://www.youtube.com/creators/">Creators</a><a href="https://www.youtube.com/ads/">Advertise</a><a href="https://developers.google.com/youtube">Developers</a></div>
+<div id="guide-links-secondary"><a href="https://www.youtube.com/t/terms">Terms</a><a href="https://www.google.com/intl/en-IN/policies/privacy/">Privacy</a><a href="https://www.youtube.com/about/policies/">Policy and Safety</a><a href="https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&amp;utm_source=ythp&amp;utm_medium=LeftNav&amp;utm_content=txt&amp;u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen">How YouTube works</a><a href="https://www.youtube.com/new">Test new features</a></div>
+<div id="vat-notice"></div>
+<div id="copyright">
+<div dir="ltr">&copy; 2020 Google LLC</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="alert-banner"></div>
+<div id="masthead-ad"></div>
+<div id="header"></div>
+<div id="alerts"></div>
+<div id="primary">
+<div id="header">
+<div id="chips-wrapper">
+<div id="scroll-container">AllJethalal Champaklal GadaArnab GoswamiPramukh Swami MaharajBaal VeerBhajan musicDiwaliC#Sushant Singh RajputLecturesPodcastsPythonHTMLMotivationWeb DevelopmentComedyMachine learningRecently uploadedLiveMixes</div>
+<div id="right-arrow">
+<div id="right-arrow-button"><a tabindex="-1"><button id="button" aria-label="Next"></button></a></div>
+</div>
+</div>
+</div>
+<div id="masthead-ad"></div>
+<div id="spinner-container"></div>
+<div id="contents">
+<div id="content">
+<div id="dismissable">
+<div id="root">
+<div id="media-container" aria-hidden="true">
+<div id="media-background"></div>
+<div id="media"><img id="img" src="https://lh4.googleusercontent.com/proxy/SF8p0Iv7IcS6tXjGSZcvozizrN6OHABCsDlnUwve5edkxJU9DZsxdZSCvDmB5UMJvT0joyP0Ys3rBtKfMV5K4KrHeEwiC5tmZ0fUeTfK_KDr7yzcfKOkpKrNBqF2HsKyHJVI1_J59Cjt6w=w1152-h603-s-nd" alt="" /></div>
+<div id="media-badge">
+<div>&nbsp;</div>
+</div>
+<div id="media-hover-overlay"></div>
+</div>
+<div><a href="https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CRL_iA7ywX_zLLI_i3LUP9_exqA-U5tuLYKvxuo_-DNi3rMjxHBABIABg5YKAgKgOggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAfqx3boDqQITDSFJIslMPqgDBMgDCqoExgFP0AUKHgw-uO-XuONtIGDROWpU15Pr2OAZThYIul1dJc2BkAJGVsYhAc2FBcMBuHUpHErT2089Sd-hOrJ_8kbOR6CNJi6usEfDC3WzYqVPNoAtUps2r9EWYihF5SpbzQL3UHbuASiTogOhvZGbVGLCnzhSBFWxQHWA5RzmtUBL7y2yPrIp2UFlZIYn-2TBfb7bFokEsM3TBV0L_ZC0WIbBS0KhTfGWFVdEBrpvT7fFVEVRIWbmpA7FIdgF0y9ddDR2uxYakFLABIGW34KsA5IFAggFkgUJCBNoAXju9fdFoAZugAfuzaJFiAcBkAcCqAeo0huoB7YHqAfgzxuoB-nUG6gHttcbqAeMzRuoB7HcG6gH8NkbqAeBxhuoB5jOG6gHq8UbqAfezhuoB7_VG6gHwtob0ggECAAQArEJ__bFWixDzhLICQCYCwG6CxsIAhACGAQgCCgBMANAAUgAWCVgAGgAcAGIAQDQCxK4E____________wGwFALAFYGAgEDYFQGYFgHiFgIIAaAXAQ&amp;num=1&amp;cid=CAESD-D2m_BCFU7jIer0Q5uCCw&amp;sig=AOD64_2wdCA9InWN55mhW77WdBRT-nElLw&amp;adurl=https://razorpay.com/unlock-growth-festive/%3Futm_adgroup%3Dugfs_ds_rm_ag%26utm_gclid%3D%7Bgclid%7D%26utm_source%3Dgoogle%26utm_medium%3Ddiscovery%26utm_campaign%3Dugfs_ds_rm%26utm_content%3Dresponsive_discovery_ugfs_suite%26utm_term%3D%26hsa_src%3D%26hsa_ad%3D479670711789%26hsa_kw%3D%26hsa_mt%3D%26hsa_acc%3D9786800965%26hsa_net%3Dadwords%26hsa_ver%3D3%26hsa_grp%3D114896128769%26hsa_tgt%3Daud-992557603800%26hsa_cam%3D1488252180&amp;ms=[CLICK_MS]&amp;nb=[NB]&amp;nx=[NX]&amp;ny=[NY]&amp;dim=[DIM]" aria-labelledby="badge title-text">Say Goodbye to Uncertainty &amp; Grow</a>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+<div id="support">Unlock business growth during the festive season. Free credits &amp; more valid till 30 Nov.
+<div id="badge">
+<div>Ad</div>
+</div>
+Razorpay</div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=PJ2kdY9tMgg" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/PJ2kdY9tMgg/hq720_live.jpg?sqp=CKz3wv0F-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCIG6H9wNh3CBjwWRn9rUpgjXxm8w" alt="" width="9999" /></a>
+<div id="overlays">NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=PJ2kdY9tMgg" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="BAPS Africa" href="https://www.youtube.com/c/BAPSAfrica"><img id="img" src="https://yt3.ggpht.com/a-/AOh14GhGoqPinVLme47hoH8NYxCGokxjvRrejjyFuw=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="BAPS Africa Live Stream" href="https://www.youtube.com/watch?v=PJ2kdY9tMgg" aria-label="BAPS Africa Live Stream by BAPS Africa 66 views">BAPS Africa Live Stream</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/BAPSAfrica">BAPS Africa</a></div>
+</div>
+</div>
+<div id="metadata-line">31 watching</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>LIVE NOW</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=JZvfxGLRcP0" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/JZvfxGLRcP0/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLC5YYY4-TWxD7um0YD-j_b2enpCWg" alt="" width="9999" /></a>
+<div id="overlays"><span aria-label="21 minutes, 25 seconds">21:25</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=JZvfxGLRcP0" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Sony SAB" href="https://www.youtube.com/c/sabtv"><img id="img" src="https://yt3.ggpht.com/a-/AOh14Gg4FQurfhaFWO4pmerH1IdSDlWYkFHY9P-odg=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Sajan Re Phir Jhoot Mat Bolo - Ep 309 - Full Episode - 2nd August, 2018" href="https://www.youtube.com/watch?v=JZvfxGLRcP0" aria-label="Sajan Re Phir Jhoot Mat Bolo - Ep 309 - Full Episode - 2nd August, 2018 by Sony SAB 2 years ago 21 minutes 81,931 views">Sajan Re Phir Jhoot Mat Bolo - Ep 309 - Full Episode - 2nd August, 2018</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/sabtv">Sony SAB</a></div>
+</div>
+</div>
+<div id="metadata-line">81K views2 years ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=C9bVTizDV84" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/C9bVTizDV84/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBI-Ck33uI_GMyAUnUrDdkkivMGbg" alt="" width="9999" /></a>
+<div id="overlays"><span aria-label="12 minutes, 11 seconds">12:11</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=C9bVTizDV84" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Shreeji Media" href="https://www.youtube.com/c/GyanvatsalSwami"><img id="img" src="https://yt3.ggpht.com/a-/AOh14GhUI9Yl3PV_DN-rIcaCI-G4cFBN2nXBe8iK=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="મહંતસ્વામી મહારાજ સ્વ હસ્ત લિખિત નવાવર્ષના આશીર્વાદ  from 1995 to 2015" href="https://www.youtube.com/watch?v=C9bVTizDV84" aria-label="મહંતસ્વામી મહારાજ સ્વ હસ્ત લિખિત નવાવર્ષના આશીર્વાદ  from 1995 to 2015 by Shreeji Media 1 hour ago 12 minutes, 11 seconds 281 views">મહંતસ્વામી મહારાજ સ્વ હસ્ત લિખિત નવાવર્ષના આશીર્વાદ from 1995 to 2015</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/GyanvatsalSwami">Shreeji Media</a></div>
+</div>
+</div>
+<div id="metadata-line">281 views1 hour ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=QoCWo4SWxlg" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/QoCWo4SWxlg/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDZej0XFjmAuQLOegRmHXzMSCqp2A" alt="" width="9999" /></a>
+<div id="overlays"><span aria-label="15 minutes, 23 seconds">15:23</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=QoCWo4SWxlg" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="The News" href="https://www.youtube.com/c/TheNewsExclusive"><img id="img" src="https://yt3.ggpht.com/a-/AOh14GhjbFFHEnLXaIy-0PxoCPewhjUM1Zb7v6V2kQ=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Arnab Goswami big announcement The game has just begun countdown start lutein Rajdeep Rajat Sharma" href="https://www.youtube.com/watch?v=QoCWo4SWxlg" aria-label="Arnab Goswami big announcement The game has just begun countdown start lutein Rajdeep Rajat Sharma by The News 2 days ago 15 minutes 1,38,045 views">Arnab Goswami big announcement The game has just begun countdown start lutein Rajdeep Rajat Sharma</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/TheNewsExclusive">The News</a></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">1.3&nbsp;lakh views2 days ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=HCwufVWfAmU" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/HCwufVWfAmU/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDPxbVuBEOzXmVgjfYK2dvhCoBmPg" alt="" width="9999" /></a>
+<div id="overlays"><span aria-label="4 minutes, 45 seconds">4:45</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=HCwufVWfAmU" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="CoolKirtans" href="https://www.youtube.com/channel/UCfCvQuMb0HPYccYg-4aCmmg"><img id="img" src="https://yt3.ggpht.com/a-/AOh14GhNrILGCo0Bm7PZ2s3ALJ8EpPepKE_-z4A0Sg=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="#CoolKirtans  |   ' Raj Mare Din Din DIWALI Re... '" href="https://www.youtube.com/watch?v=HCwufVWfAmU" aria-label="#CoolKirtans  |   ' Raj Mare Din Din DIWALI Re... ' by CoolKirtans 19 hours ago 4 minutes, 45 seconds 2,177 views">#CoolKirtans | ' Raj Mare Din Din DIWALI Re... '</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/channel/UCfCvQuMb0HPYccYg-4aCmmg">CoolKirtans</a></div>
+</div>
+</div>
+<div id="metadata-line">2.1K views19 hours ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=0Ba8fat0OOc" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/0Ba8fat0OOc/hq720_live.jpg?sqp=CKz3wv0F-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDnoQ-mHWT6os3m4T0QxqYCFz3sMQ" alt="" width="9999" /></a>
+<div id="overlays">NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=0Ba8fat0OOc" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="BAPS Swaminarayan Mandir Ahmedabad" href="https://www.youtube.com/channel/UCRxmBJyXdN1V4Kes7KG65gA"><img id="img" src="https://yt3.ggpht.com/a-/AOh14Ggq-lHCigI7lElwHBOH2_pT2bEYB50IN37gSg=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="BAPS Swaminarayan Mandir Ahmedabad Annakut Darshan" href="https://www.youtube.com/watch?v=0Ba8fat0OOc" aria-label="BAPS Swaminarayan Mandir Ahmedabad Annakut Darshan by BAPS Swaminarayan Mandir Ahmedabad 2,173 views">BAPS Swaminarayan Mandir Ahmedabad Annakut Darshan</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/channel/UCRxmBJyXdN1V4Kes7KG65gA">BAPS Swaminarayan Mandir Ahmedabad</a></div>
+</div>
+</div>
+<div id="metadata-line">31 watching</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>LIVE NOW</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=ZoxrbrHjj2g" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/ZoxrbrHjj2g/hqdefault.jpg?sqp=-oaymwEZCOADEI4CSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAGa3hD_Yvk0pywJhOHQKVMxXEx4g" alt="" width="9999" /></a>
+<div id="overlays"><span aria-label="12 minutes, 1 second">12:01</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=ZoxrbrHjj2g" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="kudvenkat" href="https://www.youtube.com/user/kudvenkat"><img id="img" src="https://yt3.ggpht.com/a-/AOh14GjH1czm2oxgQ7ukrwRbvA6negpcmTCXSxF6tw=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Routing in ASP NET Core MVC" href="https://www.youtube.com/watch?v=ZoxrbrHjj2g" aria-label="Routing in ASP NET Core MVC by kudvenkat 1 year ago 12 minutes, 1 second 80,960 views">Routing in ASP NET Core MVC</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/user/kudvenkat">kudvenkat</a></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">80K views1 year ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable">
+<div id="rich-shelf-header">
+<div id="title-container">
+<div id="title-text">Top news</div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"><a tabindex="-1"><button id="button" aria-label="Not interested"></button></a></div>
+</div>
+</div>
+<div id="contents">
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=YaoX7c9yaBg" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/YaoX7c9yaBg/hqdefault.jpg?sqp=-oaymwEZCOADEI4CSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCNw71bIsew2-sRupwsnsksrev9CA" alt="" width="9999" /></a>
+<div id="overlays"><span aria-label="2 minutes, 38 seconds">2:38</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=YaoX7c9yaBg" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="ABP NEWS HINDI" href="https://www.youtube.com/c/ABPNEWSHINDITV"><img id="img" src="https://yt3.ggpht.com/a-/AOh14GhsWn6BSaRMMW1BnUieckhAp2wQEqRSIMZqlg=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="JDU विधायक दल की बैठक में आज Nitish Kumar ले नाम पर लगेगी मुहर, फिर मुख्यमंत्री बनने का रास्ता साफ" href="https://www.youtube.com/watch?v=YaoX7c9yaBg" aria-label="JDU विधायक दल की बैठक में आज Nitish Kumar ले नाम पर लगेगी मुहर, फिर मुख्यमंत्री बनने का रास्ता साफ by ABP NEWS HINDI 32 minutes ago 2 minutes, 38 seconds 343 views">JDU विधायक दल की बैठक में आज Nitish Kumar ले नाम पर लगेगी मुहर, फिर मुख्यमंत्री बनने का रास्ता साफ</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/ABPNEWSHINDITV">ABP NEWS HINDI</a></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">343 views32 minutes ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=kHbx4qsVpg4" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/kHbx4qsVpg4/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLC9PTe-30WOHHp-4nMuPVg6kI_b1A" alt="" width="9999" /></a>
+<div id="overlays"><span aria-label="1 minute, 51 seconds">1:51</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=kHbx4qsVpg4" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="ABP NEWS HINDI" href="https://www.youtube.com/c/ABPNEWSHINDITV"><img id="img" src="https://yt3.ggpht.com/a-/AOh14GhsWn6BSaRMMW1BnUieckhAp2wQEqRSIMZqlg=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="US Presidential Election: Joe Biden की जीत हुई और पुख्ता, Arizona और Georgia में भी जीत दर्ज की" href="https://www.youtube.com/watch?v=kHbx4qsVpg4" aria-label="US Presidential Election: Joe Biden की जीत हुई और पुख्ता, Arizona और Georgia में भी जीत दर्ज की by ABP NEWS HINDI 1 day ago 1 minute, 51 seconds 3,82,269 views">US Presidential Election: Joe Biden की जीत हुई और पुख्ता, Arizona और Georgia में भी जीत दर्ज की</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/ABPNEWSHINDITV">ABP NEWS HINDI</a></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">3.8&nbsp;lakh views1 day ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=7uPYPOz7ESs" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/7uPYPOz7ESs/hqdefault.jpg?sqp=-oaymwEZCOADEI4CSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCWcLZeLG2FF2PGqULT_1IQHKnFTQ" alt="" width="9999" /></a>
+<div id="overlays"><span aria-label="41 seconds">0:41</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=7uPYPOz7ESs" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="NDTV India" href="https://www.youtube.com/user/ndtvindia"><img id="img" src="https://yt3.ggpht.com/a-/AOh14GgzCay1222phMQNbLFmuxJzIUzbhRQVCYEoTQ=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Delhi Pollution: दिल्ली में पाबंदियों के बावजूद Diwali पर जमकर छूटे पटाखे" href="https://www.youtube.com/watch?v=7uPYPOz7ESs" aria-label="Delhi Pollution: दिल्ली में पाबंदियों के बावजूद Diwali पर जमकर छूटे पटाखे by NDTV India 1 hour ago 41 seconds 5,481 views">Delhi Pollution: दिल्ली में पाबंदियों के बावजूद Diwali पर जमकर छूटे पटाखे</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/user/ndtvindia">NDTV India</a></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">5.4K views1 hour ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=Gz6sZ6MzRro" rel="null" aria-hidden="true"><img id="img" src="https://i.ytimg.com/vi/Gz6sZ6MzRro/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLADUD0vKD2QO7nsiXWVDbMHOqQt_A" alt="" width="9999" /></a>
+<div id="overlays"><span aria-label="3 minutes, 9 seconds">3:09</span>NOW PLAYING</div>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=Gz6sZ6MzRro" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Oneindia Hindi | वनइंडिया हिन्दी" href="https://www.youtube.com/c/oneindiahindi"><img id="img" src="https://yt3.ggpht.com/a-/AOh14Gh8J2gehjlSb7zveX0wKnnJWaZ9bw7Uuik1VA=s68-c-k-c0x00ffffff-no-rj-mo" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Govardhan Puja 2020: आज है गोवर्धन पूजा, जानें पूजा का शुभ मुहूर्त और विधि | वनइंडिया हिंदी" href="https://www.youtube.com/watch?v=Gz6sZ6MzRro" aria-label="Govardhan Puja 2020: आज है गोवर्धन पूजा, जानें पूजा का शुभ मुहूर्त और विधि | वनइंडिया हिंदी by Oneindia Hindi | वनइंडिया हिन्दी 1 hour ago 3 minutes, 9 seconds 1,590 views">Govardhan Puja 2020: आज है गोवर्धन पूजा, जानें पूजा का शुभ मुहूर्त और विधि | वनइंडिया हिंदी</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/oneindiahindi">Oneindia Hindi | वनइंडिया हिन्दी</a></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">1.5K views1 hour ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+</div>
+<div id="button-container"><a tabindex="-1"><button id="button" aria-label="Show more"></button></a></div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=RpDVEoyWbx8" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=RpDVEoyWbx8" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Republic Bharat" href="https://www.youtube.com/c/RepublicTVBharat"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Shiv Sena का दांव फेल? देखिए Pradeep Bhandari के साथ 'Lalkaar' Republic Bharat पर" href="https://www.youtube.com/watch?v=RpDVEoyWbx8" aria-label="Shiv Sena का दांव फेल? देखिए Pradeep Bhandari के साथ 'Lalkaar' Republic Bharat पर by Republic Bharat 1 year ago 29 minutes 1,35,212 views">Shiv Sena का दांव फेल? देखिए Pradeep Bhandari के साथ 'Lalkaar' Republic Bharat पर</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/RepublicTVBharat">Republic Bharat</a></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">1.3&nbsp;lakh views1 year ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=UPKA_p7t7pI" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=UPKA_p7t7pI" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Apni Kaksha" href="https://www.youtube.com/channel/UCF7BExjT2zH_mmyqOB139Dg"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="3. Class 12 Computer Science Python for Boards | Revision of Class 11th" href="https://www.youtube.com/watch?v=UPKA_p7t7pI" aria-label="3. Class 12 Computer Science Python for Boards | Revision of Class 11th by Apni Kaksha 21 hours ago 29 minutes 13,771 views">3. Class 12 Computer Science Python for Boards | Revision of Class 11th</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/channel/UCF7BExjT2zH_mmyqOB139Dg">Apni Kaksha</a></div>
+</div>
+</div>
+<div id="metadata-line">13K views21 hours ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=SCYN7XwSrSE" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=SCYN7XwSrSE" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Sparsh Shah" href="https://www.youtube.com/c/SparshPurhythm"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Sparsh interviews Mr Arnab Goswami: How to set things straight when people skew the truth" href="https://www.youtube.com/watch?v=SCYN7XwSrSE" aria-label="Sparsh interviews Mr Arnab Goswami: How to set things straight when people skew the truth by Sparsh Shah 1 year ago 2 minutes, 41 seconds 13,48,214 views">Sparsh interviews Mr Arnab Goswami: How to set things straight when people skew the truth</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/SparshPurhythm">Sparsh Shah</a></div>
+</div>
+</div>
+<div id="metadata-line">13&nbsp;lakh views1 year ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=vDEuIHwqWXU" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=vDEuIHwqWXU" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="BAPS India Satsang" href="https://www.youtube.com/c/BAPSIndiaSatsang"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="BAPS  Diwali and New Year Festival, Ravi sabha  - 15 Nov 2020 5:30pm" href="https://www.youtube.com/watch?v=vDEuIHwqWXU" aria-label="BAPS  Diwali and New Year Festival, Ravi sabha  - 15 Nov 2020 5:30pm by BAPS India Satsang No views Manual of Mankind viewers also watch this channel">BAPS Diwali and New Year Festival, Ravi sabha - 15 Nov 2020 5:30pm</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/BAPSIndiaSatsang">BAPS India Satsang</a></div>
+</div>
+</div>
+<div id="metadata-line">23 waitingScheduled for 15/11/2020, 17:30</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"><a tabindex="-1">SET REMINDER</a></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" rel="null" aria-hidden="true"><img id="img" alt="" width="100" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" rel="null" aria-hidden="true"></a>
+<div id="content">
+<div id="info">
+<h3>Try ad-free YouTube</h3>
+<div id="subtitle-container">2 free months on your Samsung Galaxy&nbsp;
+<div>Featured</div>
+</div>
+</div>
+<div id="button"><a tabindex="-1" href="https://www.youtube.com/premium?ybp=IgkSB3NhbXN1bmcqG2hwcC1hY3EtYy1zYW0ybW9FRlRkZXNrdG9wYTojCAYYASodChtocHAtYWNxLWMtc2FtMm1vRUZUZGVza3RvcGE%253D">TRY IT FOR FREE</a></div>
+</div>
+<div id="dismiss-button"><a tabindex="-1"><button id="button" aria-label="Close"></button></a></div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=HEXy64w6OMs" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=HEXy64w6OMs" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Rangeela Group" href="https://www.youtube.com/channel/UCSZy580v9EiMS8PfJ5Nk7rQ"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Felicific 2020|Rangeela Group|Garba|Runners Up|Gori Radhane Kado Kaan|Edited by Kuldeep Sheladiya" href="https://www.youtube.com/watch?v=HEXy64w6OMs" aria-label="Felicific 2020|Rangeela Group|Garba|Runners Up|Gori Radhane Kado Kaan|Edited by Kuldeep Sheladiya by Rangeela Group 3 weeks ago 3 minutes, 2 seconds 263 views">Felicific 2020|Rangeela Group|Garba|Runners Up|Gori Radhane Kado Kaan|Edited by Kuldeep Sheladiya</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/channel/UCSZy580v9EiMS8PfJ5Nk7rQ">Rangeela Group</a></div>
+</div>
+</div>
+<div id="metadata-line">263 views3 weeks ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=MUHmEHBwNF0" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=MUHmEHBwNF0" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Sony SAB" href="https://www.youtube.com/c/sabtv"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Taarak Mehta Ka Ooltah Chashmah - Episode 377" href="https://www.youtube.com/watch?v=MUHmEHBwNF0" aria-label="Taarak Mehta Ka Ooltah Chashmah - Episode 377 by Sony SAB 6 years ago 20 minutes 97,69,930 views">Taarak Mehta Ka Ooltah Chashmah - Episode 377</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/sabtv">Sony SAB</a></div>
+</div>
+</div>
+<div id="metadata-line">97&nbsp;lakh views6 years ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=dPGdnCFeQD4" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=dPGdnCFeQD4" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Swadeshi Patrika" href="https://www.youtube.com/c/SwadeshiPatrika"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="चूना और दालचीनी खाया तो, फायदे देखकर Doctor भी हैरान हो गए" href="https://www.youtube.com/watch?v=dPGdnCFeQD4" aria-label="चूना और दालचीनी खाया तो, फायदे देखकर Doctor भी हैरान हो गए by Swadeshi Patrika 1 year ago 10 minutes, 6 seconds 31,34,271 views">चूना और दालचीनी खाया तो, फायदे देखकर Doctor भी हैरान हो गए</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/SwadeshiPatrika">Swadeshi Patrika</a></div>
+</div>
+</div>
+<div id="metadata-line">31&nbsp;lakh views1 year ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=piG91X4sV2U" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=piG91X4sV2U" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="True Coder" href="https://www.youtube.com/channel/UCLjtB1XNaiVz-brRDymb5gg"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Responsive Login &amp; Registration Form Using HTML &amp; CSS &amp; JS | Sliding Sign In &amp; Sign Up Form" href="https://www.youtube.com/watch?v=piG91X4sV2U" aria-label="Responsive Login &amp; Registration Form Using HTML &amp; CSS &amp; JS | Sliding Sign In &amp; Sign Up Form by True Coder 4 months ago 30 minutes 64,843 views">Responsive Login &amp; Registration Form Using HTML &amp; CSS &amp; JS | Sliding Sign In &amp; Sign Up Form</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/channel/UCLjtB1XNaiVz-brRDymb5gg">True Coder</a></div>
+</div>
+</div>
+<div id="metadata-line">64K views4 months ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable">
+<div id="star-survey">
+<div id="inline-survey-header">
+<h2>What did you think of this video?<span id="subtitle">Help us improve YouTube</span></h2>
+<button id="button" aria-label="Dismiss"></button></div>
+<div id="inline-survey-compact-video-renderer">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=GHGJV3qrYEI" rel="null" aria-hidden="true"><img id="img" alt="" width="168" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=GHGJV3qrYEI" rel="null" aria-hidden="true"></a>
+<div>
+<div>
+<h3><span id="video-title" title="How to Save Text Editor's text into Database and Retrieve data with exact CSS [Text Editor]" aria-label="How to Save Text Editor's text into Database and Retrieve data with exact CSS [Text Editor] by Thumb IKR - Programming Examples">How to Save Text Editor's text into Database and Retrieve data with exact CSS [Text Editor]</span></h3>
+<div>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container">Thumb IKR - Programming Examples</div>
+</div>
+</div>
+<div id="metadata-line"></div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+<div id="buttons"></div>
+</div>
+<div id="menu"></div>
+<div id="queue-button"></div>
+</div>
+</div>
+</div>
+<div id="rating-survey">
+<div id="selection-panel">
+<div id="options">
+<div id="ratings"><button id="button" aria-label="Terrible" aria-pressed="false"></button><button id="button" aria-label="Bad" aria-pressed="false"></button><button id="button" aria-label="OK" aria-pressed="false"></button><button id="button" aria-label="Good" aria-pressed="false"></button><button id="button" aria-label="Excellent" aria-pressed="false"></button></div>
+<a tabindex="-1">NOT SURE</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=JegGTh9uKlM" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=JegGTh9uKlM" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="Moksha Talks" href="https://www.youtube.com/channel/UCm04WOvuM9g-vV676lx2Gsw"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="ચમત્કાર !! પ્રમુખસ્વામી સપનામાં આવ્યા અને...| Pramukhswami | Atmatruptswami | Baps | Moksha Talks" href="https://www.youtube.com/watch?v=JegGTh9uKlM" aria-label="ચમત્કાર !! પ્રમુખસ્વામી સપનામાં આવ્યા અને...| Pramukhswami | Atmatruptswami | Baps | Moksha Talks by Moksha Talks 1 day ago 6 minutes, 11 seconds 10,860 views">ચમત્કાર !! પ્રમુખસ્વામી સપનામાં આવ્યા અને...| Pramukhswami | Atmatruptswami | Baps | Moksha Talks</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/channel/UCm04WOvuM9g-vV676lx2Gsw">Moksha Talks</a></div>
+</div>
+</div>
+<div id="metadata-line">10K views1 day ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=Ei0JgKdrVn4" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=Ei0JgKdrVn4" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="CAPITAL TV" href="https://www.youtube.com/c/CAPITALTVINDIA"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Uddhav Government In A bit Trouble | Revolt In Shivsena I Dr. Manish KumarI Capital TV" href="https://www.youtube.com/watch?v=Ei0JgKdrVn4" aria-label="Uddhav Government In A bit Trouble | Revolt In Shivsena I Dr. Manish KumarI Capital TV by CAPITAL TV 2 hours ago 14 minutes, 41 seconds 80,140 views">Uddhav Government In A bit Trouble | Revolt In Shivsena I Dr. Manish KumarI Capital TV</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/CAPITALTVINDIA">CAPITAL TV</a></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div id="metadata-line">80K views2 hours ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=t5GvZ2pPa94" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=t5GvZ2pPa94" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="EEMA INDIA" href="https://www.youtube.com/user/theeemaindia"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="Arnab Goswami gets candid at EEMAX Global 2016" href="https://www.youtube.com/watch?v=t5GvZ2pPa94" aria-label="Arnab Goswami gets candid at EEMAX Global 2016 by EEMA INDIA 4 years ago 20 minutes 1,28,999 views">Arnab Goswami gets candid at EEMAX Global 2016</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/user/theeemaindia">EEMA INDIA</a></div>
+</div>
+</div>
+<div id="metadata-line">1.2&nbsp;lakh views4 years ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable"><a tabindex="-1" href="https://www.youtube.com/watch?v=Tr0e_UUDl8o" rel="null" aria-hidden="true"><img id="img" alt="" width="9999" /></a>
+<div id="mouseover-overlay"></div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=Tr0e_UUDl8o" rel="null" aria-hidden="true"></a>
+<div id="details"><a id="avatar-link" tabindex="-1" title="BAPS Swaminarayan Mandirs India" href="https://www.youtube.com/c/BAPSSwaminarayanMandirsIndia"><img id="img" alt="" width="48" /></a>
+<div id="meta">
+<h3><a id="video-title-link" title="BAPS Gadhada Annakut Shangar LIVE 2020-11-15" href="https://www.youtube.com/watch?v=Tr0e_UUDl8o" aria-label="BAPS Gadhada Annakut Shangar LIVE 2020-11-15 by BAPS Swaminarayan Mandirs India 1,168 views">BAPS Gadhada Annakut Shangar LIVE 2020-11-15</a></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/BAPSSwaminarayanMandirsIndia">BAPS Swaminarayan Mandirs India</a></div>
+</div>
+</div>
+<div id="metadata-line">5 watching</div>
+</div>
+<div id="additional-metadata-line"></div>
+<div>LIVE NOW</div>
+<div id="buttons"></div>
+</div>
+<div id="menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable">
+<div id="rich-shelf-header">
+<div id="title-container">
+<div id="title-text">Latest YouTube posts</div>
+</div>
+<div id="menu"></div>
+</div>
+<div id="contents">
+<div id="content">
+<div id="dismissable" role="link">
+<div id="header">
+<div id="author-thumbnail"><a tabindex="-1" href="https://www.youtube.com/channel/UCpeu6XjRUC1TkhsCuNlLCNg" aria-hidden="true"><img id="img" style="width: 24px; height: 24px;" alt="" width="32" height="32" /></a></div>
+<div id="author"><a id="author-text" href="https://www.youtube.com/channel/UCpeu6XjRUC1TkhsCuNlLCNg">Naresh Gupta</a></div>
+<span id="author-divider">&bull;</span><a dir="auto" spellcheck="false" href="https://www.youtube.com/post/UgzjxK7KGvpQQ_xowwt4AaABCQ">6 days ago</a></div>
+<div>
+<div id="post-text"><span dir="auto">What is ACID stands in Database? </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/results?search_query=%23poll">#Poll</a></div>
+<div id="attachments">
+<div id="content-attachment"></div>
+<div id="vote-count-text">184 votes</div>
+<div id="vote-button"><a tabindex="-1" href="https://www.youtube.com/post/UgzjxK7KGvpQQ_xowwt4AaABCQ">VOTE NOW</a></div>
+</div>
+</div>
+<div id="toolbar">
+<div id="toolbar">
+<div id="reply-button"></div>
+<a tabindex="-1"><button id="button" aria-pressed="false" aria-label="Like this comment along with 7 other people"></button></a><span id="vote-count-middle" aria-label="7 likes">7</span><a tabindex="-1"><button id="button" aria-pressed="false" aria-label="Dislike this comment"></button></a>
+<div id="creator-heart"></div>
+<div id="reply-button-end"><a tabindex="-1" href="https://www.youtube.com/post/UgzjxK7KGvpQQ_xowwt4AaABCQ?ocd=1"><button id="button" aria-label="Comment"></button>4</a></div>
+</div>
+<div id="reply-dialog"></div>
+<div id="action-menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable" role="link">
+<div id="header">
+<div id="author-thumbnail"><a tabindex="-1" href="https://www.youtube.com/channel/UCxZd-IBYUog3dNioxgWR1_g" aria-hidden="true"><img id="img" style="width: 24px; height: 24px;" alt="" width="32" height="32" /></a></div>
+<div id="author"><a id="author-text" href="https://www.youtube.com/channel/UCxZd-IBYUog3dNioxgWR1_g">Sant Param Hitkari</a></div>
+<span id="author-divider">&bull;</span><a dir="auto" spellcheck="false" href="https://www.youtube.com/post/UgxG9q2MQGq8wb6fsDF4AaABCQ">18 hours ago</a></div>
+<div>
+<div id="post-text">અંતરમાં ભજન કરવા શીખવું, તેણે કરીને _________ રાગ ઓછા થાય છે. (૨/૩૦)</div>
+<div id="attachments">
+<div id="content-attachment"></div>
+<div id="vote-count-text">1,592 votes</div>
+<div id="vote-button"><a tabindex="-1" href="https://www.youtube.com/post/UgxG9q2MQGq8wb6fsDF4AaABCQ">VOTE NOW</a></div>
+</div>
+</div>
+<div id="toolbar">
+<div id="toolbar">
+<div id="reply-button"></div>
+<a tabindex="-1"><button id="button" aria-pressed="false" aria-label="Like this comment along with 380 other people"></button></a><span id="vote-count-middle" aria-label="380 likes">380</span><a tabindex="-1"><button id="button" aria-pressed="false" aria-label="Dislike this comment"></button></a>
+<div id="creator-heart"></div>
+<div id="reply-button-end"><a tabindex="-1" href="https://www.youtube.com/post/UgxG9q2MQGq8wb6fsDF4AaABCQ?ocd=1"><button id="button" aria-label="Comment"></button></a></div>
+</div>
+<div id="reply-dialog"></div>
+<div id="action-menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="dismissable" role="link">
+<div id="header">
+<div id="author-thumbnail"><a tabindex="-1" href="https://www.youtube.com/channel/UCpeu6XjRUC1TkhsCuNlLCNg" aria-hidden="true"><img id="img" style="width: 24px; height: 24px;" alt="" width="32" height="32" /></a></div>
+<div id="author"><a id="author-text" href="https://www.youtube.com/channel/UCpeu6XjRUC1TkhsCuNlLCNg">Naresh Gupta</a></div>
+<span id="author-divider">&bull;</span><a dir="auto" spellcheck="false" href="https://www.youtube.com/post/UgyNzAmrYyxoOGBQqmZ4AaABCQ">2 days ago</a></div>
+<div>
+<div id="post-text"><span dir="auto">Hi All, I have created a separate playlist for all Combinations and Permutations backtracking problems we have got so far in daily challenges. </span><a dir="auto" spellcheck="false" href="https://www.youtube.com/playlist?list=PLamEquLLzOtjS2vmsoo40xjyH-gsKvu0A">https://www.youtube.com/playlist?list...</a></div>
+<div id="attachments">
+<div id="content-attachment">
+<div id="playlist-thumbnails"><img id="img" alt="" width="128" /></div>
+<div id="overlays">6NOW PLAYING</div>
+<div id="hover-overlays"></div>
+<a id="thumbnail" tabindex="-1" href="https://www.youtube.com/watch?v=iCIrAwn2d1g&amp;list=PLamEquLLzOtjS2vmsoo40xjyH-gsKvu0A" aria-hidden="true"></a>
+<div id="content">
+<h3><span id="video-title" title="Combinations and Permutations">Combinations and Permutations</span></h3>
+<div id="metadata">
+<div id="byline-container">
+<div id="container">
+<div id="text-container"><a dir="auto" spellcheck="false" href="https://www.youtube.com/c/NareshGupta">Naresh Gupta</a></div>
+</div>
+<div id="separator">&bull;</div>
+</div>
+<div id="metadata-line">Updated 2 days ago</div>
+</div>
+<div id="additional-metadata-line"></div>
+</div>
+</div>
+<div id="vote-button"></div>
+</div>
+</div>
+<div id="toolbar">
+<div id="toolbar">
+<div id="reply-button"></div>
+<a tabindex="-1"><button id="button" aria-pressed="false" aria-label="Like this comment along with 12 other people"></button></a><span id="vote-count-middle" aria-label="12 likes">12</span><a tabindex="-1"><button id="button" aria-pressed="false" aria-label="Dislike this comment"></button></a>
+<div id="creator-heart"></div>
+<div id="reply-button-end"><a tabindex="-1" href="https://www.youtube.com/post/UgyNzAmrYyxoOGBQqmZ4AaABCQ?ocd=1"><button id="button" aria-label="Comment"></button></a></div>
+</div>
+<div id="reply-dialog"></div>
+<div id="action-menu">
+<div id="top-level-buttons"></div>
+<button id="button" aria-label="Action menu"></button></div>
+</div>
+</div>
+</div>
+</div>
+<div id="button-container"><a tabindex="-1"><button id="button" aria-label="Show more"></button></a></div>
+</div>
+</div>
+<div id="ghost-cards"></div>
+<div id="spinnerContainer">
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="secondary"></div>
+<div id="survey"></div>
+<div id="metadata"></div>
+<div id="footer"></div>
+</div>
+<div role="dialog">
+<div id="card">
+<div id="video-container">
+<div>
+<div id="player-container"></div>
+</div>
+<div id="info-bar">
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+<div id="expander-space"></div>
+<a id="thumbnail" tabindex="-1" aria-hidden="true"></a><img id="img" alt="" width="78" /></div>
+</div>

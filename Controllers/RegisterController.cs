@@ -81,13 +81,39 @@ namespace Government_Helping_System.Controllers
 
         public IActionResult Query_Details(string Id)
         {
-
             Querie querie = _context.queries.FirstOrDefault(qry => qry.Id==Id);
+            QueryViewModel queryViewModel = new QueryViewModel();
             if (querie != null)
             {
-                return View(querie);
+                queryViewModel.Title = querie.title;
+                queryViewModel.UploadTime = querie.Query_Time;
+                queryViewModel.Description = System.IO.File.ReadAllText(querie.textfilepath);
+                IEnumerable<PhotoModel> photoModels = _context.photoModels.Where(ph=>ph.querieId==Id);
+                if (photoModels == null)
+                {
+                    ViewBag.Error = "error";
+                }
+                else
+                {
+                    List<string> urls = new List<string>();
+                    List<string> names = new List<string>();
+                    foreach(var photo in photoModels)
+                    {
+                        urls.Add(photo.URL);
+                        names.Add(photo.Name);
+                    }
+                    queryViewModel.URLS = urls;
+                    queryViewModel.Names = names;
+                }
+                //List<string> urls=new List<string>(),names=new List<string>();
+                //foreach(PhotoModel photoModel in querie.ProofPhotos )
+                //{
+                //urls.Add(photoModel.URL);
+                // names.Add(photoModel.Name);
+                //}
+                return View(queryViewModel);
             }
-            ViewBag.Error = "error" + Id;
+            ViewBag.Error = "error";
             return View();
         }
 
