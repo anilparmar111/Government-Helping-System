@@ -41,7 +41,7 @@ namespace Government_Helping_System.Controllers
         {
             string uid = HttpContext.Session.GetString("uid");
 
-            IEnumerable<Querie> pendingquieres = _context.queries.Where(que => que.CitizenId == uid && que.status== "Req");
+            IEnumerable<Querie> pendingquieres = _context.queries.Where(que => que.CitizenId == uid && que.status== "Req").OrderBy(que=>que.Query_Time).Reverse();
 
             List<Query_Views> qrviews = new List<Query_Views>();
 

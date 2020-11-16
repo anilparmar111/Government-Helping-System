@@ -93,7 +93,7 @@ namespace Government_Helping_System.Controllers
                     else
                     {
                         HttpContext.Session.SetString("uid", loginView.uid);
-                        return RedirectToAction("Homepage", "Citizen");
+                        return RedirectToAction("Homepage", "Employees");
                     }
                 }
                 else
