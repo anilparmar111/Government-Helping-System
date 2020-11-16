@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Government_Helping_System.Models;
 using Government_Helping_System.Models.ViewsModel;
 using Microsoft.AspNetCore.Http;
+using Newtonsoft.Json;
 
 namespace Government_Helping_System.Controllers
 {
@@ -161,7 +162,14 @@ namespace Government_Helping_System.Controllers
         // GET: Employees
         public async Task<IActionResult> Index()
         {
-            return View(await _context.employees.ToListAsync());
+            if(HttpContext.Session.GetString("uid")==null)
+            {
+                return RedirectToAction("Create", "Employees");
+            }
+            else
+            {
+                return RedirectToAction("HomePage", "Employees");
+            }
         }
 
         // GET: Employees/Details/5
@@ -189,6 +197,7 @@ namespace Government_Helping_System.Controllers
             {
                 Employee employee = _context.employees.FirstOrDefault(emp => emp.Id == HttpContext.Session.GetString("uid"));
                 //return "id is " + HttpContext.Session.GetString("uid");
+
                 return View(employee);
             }
             else

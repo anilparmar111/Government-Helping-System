@@ -4,19 +4,79 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] | Government_Helping_System</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" />
+
     <link rel="stylesheet" href="~/lib/font-awesome/css/all.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <script src="~/lib/modernizr/modernizr.js"></script>
+    <!-- scripts -->
+    <!--[if lt IE 9 ]>
+        <script src="/Scripts/html5shiv.min.js"></script>
+        <script src="/Scripts/respond.min.js"></script>
+    <![endif]-->
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+    <script>
+        $(function () {
+            // #sidebar-toggle-button
+            $('#sidebar-toggle-button').on('click', function () {
+                $('#sidebar').toggleClass('sidebar-toggle');
+                $('#page-content-wrapper').toggleClass('page-content-toggle');
+                fireResize();
+            });
+
+            // sidebar collapse behavior
+            $('#sidebar').on('show.bs.collapse', function () {
+                $('#sidebar').find('.collapse.in').collapse('hide');
+            });
+
+            // To make current link active
+            (function addActiveClassToNestedList() {
+                var pageURL = $(location).attr('href');
+                var URLSplits = pageURL.split('/');
+
+                var routeURL = '/' + URLSplits[URLSplits.length - 3] + '/' + URLSplits[URLSplits.length - 2] + '/';
+                var activeNestedList = $('.sub-menu > li > a[href="' + routeURL + '"]').parent();
+
+                if (activeNestedList.length !== 0 && !activeNestedList.hasClass('active')) {
+                    $('.sub-menu > li').removeClass('active');
+                    activeNestedList.addClass('active');
+                }
+            })();
+
+            function fireResize() {
+                if (document.createEvent) { // W3C
+                    var ev = document.createEvent('Event');
+                    ev.initEvent('resize', true, true);
+                    window.dispatchEvent(ev);
+                }
+                else { // IE
+                    element = document.documentElement;
+                    var event = document.createEventObject();
+                    element.fireEvent("onresize", event);
+                }
+            }
+
+        });
+    </script>
+
     <style>
 
 
         .navbar-nav.navbar-center {
-        position: absolute;
-        left: 50%;
-    transform: translatex(-50%);
-    }
+            position: absolute;
+            left: 50%;
+            transform: translatex(-50%);
+        }
 
         .scroll {
             color: #fff;
@@ -67,9 +127,6 @@
         .height {
             height: 3000px
         }
-
-
-        
     </style>
 </head>
 <body>
@@ -115,17 +172,17 @@
                             {
                                 <li class="nav-item">
                                     <button class="btn btn-dark">
-                                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemToDo">ProblemTodo</a>
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemToDo">Query List</a>
                                     </button>
                                 </li>
                                 <li class="nav-item">
                                     <button class="btn btn-dark">
-                                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemInProcess">ProblemInProcess</a>
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemInProcess">Query In Process</a>
                                     </button>
                                 </li>
                                 <li class="nav-item">
                                     <button class="btn btn-dark">
-                                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemDone">ProblemDone</a>
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemDone">Query Completed</a>
                                     </button>
                                 </li>
                             }
@@ -138,7 +195,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <button class="btn btn-dark">
-                                        <a class="nav-link text-white" asp-area="" asp-controller="Citizen" asp-action="Query_Request">Problem In Request</a>
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Citizen" asp-action="Query_Request">Query In Request</a>
                                     </button>
                                 </li>
                                 <li class="nav-item">
@@ -149,6 +206,11 @@
                                 <li class="nav-item">
                                     <button class="btn btn-dark">
                                         <a class="nav-link text-white" asp-area="" asp-controller="Citizen" asp-action="Query_Solved">Query Solved</a>
+                                    </button>
+                                </li>
+                                <li class="nav-item">
+                                    <button class="btn btn-dark">
+                                        <a class="nav-link text-white" asp-area="" asp-controller="Citizen" asp-action="Query_Rejected">Query Rejected</a>
                                     </button>
                                 </li>
                             }
@@ -162,7 +224,7 @@
                             </li>
                         }
 
-                </div>
+</div>
                 <nav class="navbar navbar-inverse">
                     <div class="container-fluid">
                         <ul class="nav navbar-nav navbar-right">
@@ -186,9 +248,7 @@
             &copy; 2020 - Government_Helping_System - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+    
     @RenderSection("Scripts", required: false)
 </body>
 </html>

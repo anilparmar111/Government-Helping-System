@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Hosting;
 using System.IO;
 using System.Text;
+using Newtonsoft.Json;
 
 namespace Government_Helping_System.Controllers
 {
@@ -26,6 +27,17 @@ namespace Government_Helping_System.Controllers
         {
             _context = context;
             _env=env;
+        }
+
+        public IActionResult Query_Rejected()
+        {
+            string uid = HttpContext.Session.GetString("uid");
+            IEnumerable<Querie> queries = _context.queries.Where(qr => qr.CitizenId == uid && qr.status == "Rej").OrderBy(qr => qr.Query_Time);
+            if (queries == null)
+            {
+                ViewBag.req = "no";
+            }
+            return View(queries);
         }
 
         // GET: Register
@@ -61,24 +73,30 @@ namespace Government_Helping_System.Controllers
             }
 
             return View(qrviews);
-
-            /*List<Panding_Query_Views> panding_Query_Views=new List<Panding_Query_Views>();
-            List<Querie> queries=_context.queries.AsEnumerable().Where(que => que.CitizenId == uid && que.status == "Req")
-            //List<Querie> queries = (List<Querie>)_context.queries.ToListAsync.Where(que => que.CitizenId==uid && que.status== "Req");
-            foreach(var item in queries)
-            {
-                Panding_Query_Views panding_Query_Views1 = new Panding_Query_Views();
-                panding_Query_Views1.title = item.title;
-                panding_Query_Views1.uploadtime = item.Query_Time;
-                panding_Query_Views1.ProofPhotos = item.ProofPhotos;
-                panding_Query_Views1.Description = System.IO.File.ReadAllText(item.textfilepath);
-                panding_Query_Views.Add(panding_Query_Views1);
-            }*/
-            //var query=   _context.queries.FirstOrDefault(que => que.CitizenId == uid && que.status == "Req");
-            //query.textfilepath = System.IO.File.ReadAllText(query.textfilepath);
-            //return View(query);
         }
 
+        public IActionResult Query_Solved()
+        {
+            string uid = HttpContext.Session.GetString("uid");
+            IEnumerable<Querie> queries = _context.queries.Where(qr => qr.CitizenId == uid && qr.status == "Comp").OrderBy(qr => qr.Query_Time);
+            if (queries == null)
+            {
+                ViewBag.req = "no";
+            }
+            return View(queries);
+        }
+
+        public IActionResult Query_In_Process()
+        {
+            string uid = HttpContext.Session.GetString("uid");
+            IEnumerable<Querie> queries = _context.queries.Where(qr => qr.CitizenId == uid && qr.status=="Inp").OrderBy(qr=>qr.Query_Time);
+            if(queries==null)
+            {
+                ViewBag.req = "no";
+            }
+            return View(queries);
+        }
+        
         public IActionResult Query_Details(string Id)
         {
             Querie querie = _context.queries.FirstOrDefault(qry => qry.Id==Id);
@@ -105,12 +123,6 @@ namespace Government_Helping_System.Controllers
                     queryViewModel.URLS = urls;
                     queryViewModel.Names = names;
                 }
-                //List<string> urls=new List<string>(),names=new List<string>();
-                //foreach(PhotoModel photoModel in querie.ProofPhotos )
-                //{
-                //urls.Add(photoModel.URL);
-                // names.Add(photoModel.Name);
-                //}
                 return View(queryViewModel);
             }
             ViewBag.Error = "error";
@@ -124,6 +136,39 @@ namespace Government_Helping_System.Controllers
             {
                 Citizen citizen = _context.Citizens.FirstOrDefault(czn => czn.Id == HttpContext.Session.GetString("uid"));
                 //return "id is " + HttpContext.Session.GetString("uid");
+                IEnumerable<Querie> queries = _context.queries.Where(qr=>qr.CitizenId==HttpContext.Session.GetString("uid"));
+                int req=0, rej=0, inp=0, acc=0, comp=0;
+                
+                foreach(var qry in queries)
+                {
+                    if(qry.status=="Req")
+                    {
+                        req += 1;
+                    }
+                    else if(qry.status=="Acc")
+                    {
+                        acc += 1;
+                    }
+                    else if (qry.status == "Rej")
+                    {
+                        rej += 1;
+                    }
+                    else if (qry.status == "Inp")
+                    {
+                        inp += 1;
+                    }
+                    else if (qry.status == "Comp")
+                    {
+                        comp += 1;
+                    }
+                    ViewBag.req = req;
+                    ViewBag.rej = rej;
+                    ViewBag.inp = inp;
+                    ViewBag.acc = acc;
+                    ViewBag.comp = comp;
+                }
+
+                ViewBag.testing = 72;
                 return View(citizen);
             }
             else

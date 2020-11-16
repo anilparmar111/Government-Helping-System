@@ -1,0 +1,38 @@
+﻿    @model IEnumerable<Government_Helping_System.Models.Querie>
+
+@{
+    ViewData["Title"] = "Query_In_Process";
+    var counter = 0;
+}
+
+<h1>Query_In_Process</h1>
+
+@if (ViewBag.req == "no")
+{
+    <label>There Is No Request From Citizen</label>
+    <script>
+        window.alert("There Is No Request From Citizen");
+    </script>
+}
+else
+{
+    <div class="card bg-primary text-white">
+        <div class="card-body text-center">Total InProcess Request : @Model.Count()</div>
+    </div>
+
+    @foreach (var qry in Model)
+    {
+        <div class="card text-center">
+            <div class="card-header">
+                Request : @(counter=counter+1)
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">@qry.title</h5>
+                <a target="_blank" asp-action="Query_Details" asp-route-id=@qry.Id class="btn btn-primary">Go There <i class="fas fa-external-link-alt"></i></a>
+            </div>
+            <div class="card-footer text-muted">
+                Uploaded At : @qry.Query_Time
+            </div>
+        </div>
+    }
+}

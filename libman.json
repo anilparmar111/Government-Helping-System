@@ -17,6 +17,14 @@
     {
       "library": "tinymce@5.5.1",
       "destination": "wwwroot/lib/tinymce/"
+    },
+    {
+      "library": "Chart.js@2.9.4",
+      "destination": "wwwroot/lib/Chart.js/"
+    },
+    {
+      "library": "modernizr@2.8.3",
+      "destination": "wwwroot/lib/modernizr/"
     }
   ]
 }
