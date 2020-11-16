@@ -17,7 +17,9 @@ namespace Government_Helping_System.Models
 
         public string EmployeeId { get; set; }
         public Employee Employee { get; set; }
-        
+
+        public string Main_Emp_Id { get; set; }
+
         public string title { get; set; }
 
         public string Area { get; set; }

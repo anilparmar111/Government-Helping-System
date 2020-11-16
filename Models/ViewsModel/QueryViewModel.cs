@@ -7,6 +7,7 @@ namespace Government_Helping_System.Models.ViewsModel
 {
     public class QueryViewModel
     {
+        public string Id { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
         public DateTime UploadTime { get; set; }

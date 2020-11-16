@@ -21,16 +21,80 @@ namespace Government_Helping_System.Controllers
             _context = context;
         }
 
+        public IActionResult Proceed(string Id)
+        {
+            Querie querie = _context.queries.FirstOrDefault(qry => qry.Id == Id);
+            Employee employee = _context.employees.FirstOrDefault(emp=>emp.Id==HttpContext.Session.GetString("uid"));
+            if (employee.post == "main")
+            {
+                querie.status = "Acc";
+                querie.EmployeeId = HttpContext.Session.GetString("uid");
+            }
+            else
+            {
+                querie.status = "Inp";
+                querie.Main_Emp_Id = HttpContext.Session.GetString("uid");
+            }
+            _context.SaveChanges();
+            return RedirectToAction("HomePage","Employees");
+        }
+
+        public IActionResult ProblemInProcess()
+        {
+            string eid = HttpContext.Session.GetString("uid");
+            Employee employee = _context.employees.FirstOrDefault(emp => emp.Id == eid);
+            string zipcode = employee.ZipCode;
+            IEnumerable<Querie> queries = null;
+            queries = _context.queries.Where(que => que.zipcode == zipcode &&  que.status == "Inp").OrderBy(que => que.Query_Time);
+            return View(queries);
+        }
+
+        public IActionResult Completed(string Id)
+        {
+            Querie querie = _context.queries.FirstOrDefault(qry => qry.Id == Id);
+            querie.status = "Comp";
+            _context.SaveChanges();
+            return RedirectToAction("HomePage","Employees");
+        }
+
+        public IActionResult Reject(string Id)
+        {
+            Querie querie = _context.queries.FirstOrDefault(qry => qry.Id == Id);
+            querie.status = "Rej";
+            querie.EmployeeId = HttpContext.Session.GetString("uid");
+            _context.SaveChanges();
+            return RedirectToAction("HomePage", "Employees");
+        }
+
         public IActionResult ProblemToDo()
         {
             string eid = HttpContext.Session.GetString("uid");
             Employee employee = _context.employees.FirstOrDefault(emp=>emp.Id==eid);
             string zipcode = employee.ZipCode;
-            IEnumerable<Querie> queries = _context.queries.Where(que => que.zipcode == zipcode && que.status== "Req").OrderBy(que=>que.Query_Time);            
-            if(queries==null)
+            IEnumerable<Querie> queries=null;
+            if (employee.post == "main")
             {
-                ViewBag.req = "no";
+                queries = _context.queries.Where(que => que.zipcode == zipcode && que.status == "Req").OrderBy(que => que.Query_Time);
+                if (queries == null)
+                {
+                    ViewBag.req = "no";
+                }
             }
+            else
+            {
+                queries = _context.queries.Where(que => que.zipcode == zipcode && que.status == "Acc").OrderBy(que => que.Query_Time);
+                if (queries == null)
+                {
+                    ViewBag.req = "no";
+                }
+            }
+            return View(queries);
+        }
+
+        public IActionResult ProblemDone()
+        {
+            string uid = HttpContext.Session.GetString("uid");
+            IEnumerable<Querie> queries = _context.queries.Where(que =>(que.EmployeeId==uid || que.Main_Emp_Id==uid) && que.status=="Comp").OrderByDescending(que=>que.Query_Time);
             return View(queries);
         }
 
@@ -40,6 +104,7 @@ namespace Government_Helping_System.Controllers
             QueryViewModel queryViewModel = new QueryViewModel();
             if (querie != null)
             {
+                queryViewModel.Id = querie.Id;
                 queryViewModel.Title = querie.title;
                 queryViewModel.UploadTime = querie.Query_Time;
                 queryViewModel.Description = System.IO.File.ReadAllText(querie.textfilepath);
@@ -60,12 +125,33 @@ namespace Government_Helping_System.Controllers
                     queryViewModel.URLS = urls;
                     queryViewModel.Names = names;
                 }
-                //List<string> urls=new List<string>(),names=new List<string>();
-                //foreach(PhotoModel photoModel in querie.ProofPhotos )
-                //{
-                //urls.Add(photoModel.URL);
-                // names.Add(photoModel.Name);
-                //}
+                Employee employee = _context.employees.FirstOrDefault(emp=>emp.Id==HttpContext.Session.GetString("uid"));
+                if(employee.post=="main")
+                {
+                    if(querie.status=="Inp" || querie.status=="Comp")
+                    {
+                        ViewBag.show = "none";
+                    }
+                    else
+                    {
+                        ViewBag.show = "all";
+                    }
+                }
+                else
+                {
+                    if(querie.status=="Comp")
+                    {
+                        ViewBag.show = "none";
+                    }
+                    else if(querie.status=="Inp")
+                    {
+                        ViewBag.show = "Complete";
+                    }
+                    else if(querie.status=="Acc")
+                    {
+                        ViewBag.show = "proceed Request";
+                    }
+                }
                 return View(queryViewModel);
             }
             ViewBag.Error = "error";

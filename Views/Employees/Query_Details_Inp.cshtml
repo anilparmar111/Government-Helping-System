@@ -81,23 +81,9 @@ else
         </div>
     </div>
     <div>
-        @switch (ViewBag.show)
+        @if (ViewBag.post == "vm")
         {
-            case "all":
-                <a asp-action="Proceed" asp-route-id="@Model.Id"><button class="btn btn-success">Proceed</button></a>
-                <a asp-action="Reject" asp-route-id="@Model.Id"><button class="btn btn-danger">Reject</button></a>
-                break;
-            case "proceed Request":
-                <a asp-action="Proceed" asp-route-id="@Model.Id"><button class="btn btn-success">Proceed Request</button></a>
-                break;
-
-            case "Complete":
-                <a asp-action="Completed" asp-route-id="@Model.Id"><button class="btn btn-success">Complete Problem</button></a>
-                break;
+            <a asp-action="Completed" asp-route-id="@Model.Id"><button class="btn btn-success">Completed</button></a>
         }
-
-
-
-
     </div>
 }

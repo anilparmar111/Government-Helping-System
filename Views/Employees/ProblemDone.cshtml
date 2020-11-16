@@ -1,11 +1,11 @@
 ﻿@model IEnumerable<Government_Helping_System.Models.Querie>
 
 @{
-    ViewData["Title"] = "ProblemToDo";
+    ViewData["Title"] = "Problem Done";
     var counter = 0;
 }
 
-<h1>ProblemToDo</h1>
+<h1>Problem Completed</h1>
 
 @if (ViewBag.req == "no")
 {
@@ -17,14 +17,14 @@
 else
 {
     <div class="card bg-primary text-white">
-        <div class="card-body text-center">Total Todo Request : @Model.Count()</div>
+        <div class="card-body text-center">Total Completed Request : @Model.Count()</div>
     </div>
-   
+
     @foreach (var qry in Model)
     {
         <div class="card text-center">
             <div class="card-header">
-               Request : @(counter=counter+1)
+                Request : @(counter=counter+1)
             </div>
             <div class="card-body">
                 <h5 class="card-title">@qry.title</h5>
