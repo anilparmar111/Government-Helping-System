@@ -27,9 +27,9 @@ namespace Government_Helping_System.Controllers
             //return RedirectToAction("Homepage", "Home");
             if (HttpContext.Session.Get("newuid") != null)
             {
-                string uid = HttpContext.Session.GetString("newuid");
-                HttpContext.Session.Clear();
-                HttpContext.Session.SetString("uid",uid);
+                //string uid = HttpContext.Session.GetString("newuid");
+                //HttpContext.Session.Clear();
+                //HttpContext.Session.SetString("uid",uid);
                 return View();
             }
             if (HttpContext.Session.Get("uid")!=null)

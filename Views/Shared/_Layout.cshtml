@@ -161,15 +161,18 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
+
                         <li class="nav-item">
-                            <button class="btn btn-dark">
+                            <button id="home" class="btn btn-dark">
                                 <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                             </button>
                         </li>
+
                         @if (@HttpContextAccessor.HttpContext.Session.GetString("uid") != null)
                         {
                             @if (@HttpContextAccessor.HttpContext.Session.GetString("uid")[0] == 'E')
                             {
+
                                 <li class="nav-item">
                                     <button class="btn btn-dark">
                                         <a class="nav-link text-white" asp-area="" asp-controller="Employees" asp-action="ProblemToDo">Query List</a>
@@ -188,6 +191,7 @@
                             }
                             else
                             {
+
                                 <li class="nav-item">
                                     <button class="btn btn-dark">
                                         <a class="nav-link text-white" asp-area="" asp-controller="Citizen" asp-action="Query_Problem">Query New Problem</a>
@@ -222,13 +226,14 @@
                                     <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">WelCome To Government Helping System</a>
                                 </button>
                             </li>
+                            
                         }
 
 </div>
                 <nav class="navbar navbar-inverse">
                     <div class="container-fluid">
                         <ul class="nav navbar-nav navbar-right">
-                            <button class="btn btn-dark">
+                            <button id="lgout" class="btn btn-dark">
                                 <li><a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Logout">Logout <i class='fas fa-sign-out-alt' style='color:red'></i></a></li>
                             </button>
                         </ul>
