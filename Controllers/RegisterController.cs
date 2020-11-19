@@ -46,6 +46,7 @@ namespace Government_Helping_System.Controllers
         //[Route("/")]
         public async Task<IActionResult> Index()
         {
+            string uid = HttpContext.Session.GetString("uid");
             return View(await _context.Citizens.ToListAsync());
         }
 

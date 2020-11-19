@@ -25,13 +25,7 @@ namespace Government_Helping_System.Controllers
         public IActionResult Index()
         {
             //return RedirectToAction("Homepage", "Home");
-            if (HttpContext.Session.Get("newuid") != null)
-            {
-                //string uid = HttpContext.Session.GetString("newuid");
-                //HttpContext.Session.Clear();
-                //HttpContext.Session.SetString("uid",uid);
-                return View();
-            }
+            
             if (HttpContext.Session.Get("uid")!=null)
             {
                 string uid = HttpContext.Session.GetString("uid");
@@ -52,6 +46,13 @@ namespace Government_Helping_System.Controllers
             {
                 HttpContext.Session.Clear();
                 ViewBag.state = "false";
+            }
+            if (HttpContext.Session.Get("newuid") != null)
+            {
+                //string uid = HttpContext.Session.GetString("newuid");
+                //HttpContext.Session.Clear();
+                //HttpContext.Session.SetString("uid",uid);
+                return View();
             }
             return View();
         }
